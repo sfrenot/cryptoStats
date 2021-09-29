@@ -157,6 +157,7 @@ tagsTables =
   'three-arrows-capital-portfolio': 'Three Arrows Capital Portfolio'
   'token': 'Token'
   'tron': 'Tron'
+  'trustswap-launchpad': 'trustswap Launchpad'
   'vr-ar': 'VR/AR'
   'wallet': 'Wallet'
   'wrapped-tokens': 'Wrapped Tokens'

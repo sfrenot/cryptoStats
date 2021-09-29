@@ -4118,7 +4118,7 @@
     },
     {
       "id": 4846,
-      "name": "Kava.io",
+      "name": "Kava",
       "symbol": "KAVA",
       "slug": "kava",
       "tags": [
@@ -8341,7 +8341,7 @@
     },
     {
       "id": 7692,
-      "name": "Radix",
+      "name": "e-Radix",
       "symbol": "EXRD",
       "slug": "radix",
       "tags": [
@@ -10660,7 +10660,7 @@
     },
     {
       "id": 9212,
-      "name": "CUMROCKET",
+      "name": "CumRocket",
       "symbol": "CUMMIES",
       "slug": "cumrocket",
       "tags": [
@@ -11242,7 +11242,7 @@
     },
     {
       "id": 7576,
-      "name": "HARD Protocol",
+      "name": "Kava Lend",
       "symbol": "HARD",
       "slug": "hard-protocol",
       "tags": [
@@ -31552,7 +31552,7 @@
     },
     {
       "id": 2666,
-      "name": "Effect.AI",
+      "name": "Effect Network",
       "symbol": "EFX",
       "slug": "effect-ai",
       "tags": [],
@@ -56581,7 +56581,7 @@
     },
     {
       "id": 9972,
-      "name": "HakunaMatata",
+      "name": "HakunaMatata (old)",
       "symbol": "TATA",
       "slug": "hakunamatata",
       "tags": [],
@@ -78012,7 +78012,7 @@
     },
     {
       "id": 10295,
-      "name": "IOI Token",
+      "name": "IOI",
       "symbol": "IOI",
       "slug": "trade-race-manager",
       "tags": [
@@ -78303,7 +78303,7 @@
     },
     {
       "id": 10498,
-      "name": "Saitama Inu",
+      "name": "Saitama",
       "symbol": "SAITAMA",
       "slug": "saitama-inu",
       "tags": [],

@@ -150,7 +150,7 @@
           "value": 1
         },
         {
-          "name": "HARD Protocol",
+          "name": "Kava Lend",
           "url": "/currencies/hard-protocol",
           "value": 1
         },
@@ -13476,7 +13476,7 @@
                   "value": 1
                 },
                 {
-                  "name": "Radix",
+                  "name": "e-Radix",
                   "url": "/currencies/radix",
                   "value": 1
                 },
@@ -16610,7 +16610,7 @@
                   "value": 1
                 },
                 {
-                  "name": "Kava.io",
+                  "name": "Kava",
                   "url": "/currencies/kava",
                   "value": 1
                 },
@@ -17587,7 +17587,7 @@
               "value": 1
             },
             {
-              "name": "Effect.AI",
+              "name": "Effect Network",
               "url": "/currencies/effect-ai",
               "value": 1
             },

@@ -1022,7 +1022,7 @@
 {"name":"Edgeless","short":"EDG","url":"/currencies/edgeless","tags":["Token","Gambling"]}
 {"name":"EduCoin","short":"EDU","url":"/currencies/edu-coin","tags":["Token"]}
 {"name":"Education Ecosystem","short":"LEDU","url":"/currencies/education-ecosystem","tags":["Token","Education"]}
-{"name":"Effect.AI","short":"EFX","url":"/currencies/effect-ai","tags":["Token"]}
+{"name":"Effect Network","short":"EFX","url":"/currencies/effect-ai","tags":["Token"]}
 {"name":"Egas","short":"EGAS","url":"/currencies/egas","tags":["Token"]}
 {"name":"Egoras","short":"EGR","url":"/currencies/egoras","tags":["Token","DAO","DeFi","Collectibles & NFTs","DApp","Yield farming"]}
 {"name":"Egoras Dollar","short":"EUSD","url":"/currencies/egoras-dollar","tags":["Token"]}
@@ -1566,7 +1566,7 @@
 {"name":"Karbo","short":"KRB","url":"/currencies/karbo","tags":["Coin","Mineable","PoW","CryptoNight","Marketplace"]}
 {"name":"KardiaChain","short":"KAI","url":"/currencies/kardiachain","tags":["Token"]}
 {"name":"Katana Finance","short":"KATANA","url":"/currencies/katana-finance","tags":["Token"]}
-{"name":"Kava.io","short":"KAVA","url":"/currencies/kava","tags":["Token","DeFi"]}
+{"name":"Kava","short":"KAVA","url":"/currencies/kava","tags":["Token","DeFi"]}
 {"name":"Kcash","short":"KCASH","url":"/currencies/kcash","tags":["Token","Services","Wallet"]}
 {"name":"Keep Network","short":"KEEP","url":"/currencies/keep-network","tags":["Token"]}
 {"name":"KekCoin","short":"KEK","url":"/currencies/kekcoin","tags":["Coin"]}

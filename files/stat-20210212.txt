@@ -1,0 +1,18 @@
+--------- News
+9 nouvelles, dont : 8 token (dont 6 Ethereum, 0 Binance, 0 Tron, 0 AI, 0 Waves, 0 Beacon)
+3 à observer
+[
+  "Coin : Filda [Coin,New2] /currencies/filda",
+  "Token : G999 [Communications & Social Media,NoGitHub,Token,New2] /currencies/g999",
+  "Token : Lendhub [NoGitHub,Token,Huobi ECO,Other Contract,New2] /currencies/lendhub"
+]
+--------- 
+564 mortes, dont 6 à cette date
+[
+  "Basiscoin Share [NoGitHub,Token,Ethereum,Dead] /currencies/basiscoin-share",
+  "Cornichon [Token,Ethereum,Dead] /currencies/cornichon",
+  "DEFI Top 5 Tokens Index [Dead,Token,Ethereum,Ethereum Contract,New2] /currencies/defi-top-5-tokens-index",
+  "Global Game Coin [Token,Ethereum,Dead] /currencies/global-game-coin",
+  "PegsShares [Token,Ethereum,Dead] /currencies/pegsshares",
+  "Tcbcoin [Token,Ethereum,Dead] /currencies/tcbcoin"
+]

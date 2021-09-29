@@ -1,0 +1,15 @@
+--------- News
+8 nouvelles, dont : 8 token (dont 7 Ethereum, 1 Binance, 0 Tron, 0 AI, 0 Waves, 0 Beacon)
+0 à observer
+[]
+--------- 
+583 mortes, dont 7 à cette date
+[
+  "Bitzeny [Coin,Mineable,PoW,Scrypt,BitcoinL,Dead] /currencies/bitzeny",
+  "Narwhale.finance [NoGitHub,Token,Ethereum,Dead] /currencies/narwhale-finance",
+  "Nexty [Coin,Mineable,NoLicenceFile,Dead] /currencies/nexty",
+  "PieDAO Yearn Ecosystem Pie [NoGitHub,Token,Ethereum,Dead] /currencies/piedao-yearn-ecosystem-pie",
+  "SuperEdge [Token,Ethereum,Dead] /currencies/superedge",
+  "USDA [Token,Ethereum,Dead] /currencies/usda",
+  "Xdef Finance [Token,Ethereum,Dead] /currencies/xdef-finance"
+]

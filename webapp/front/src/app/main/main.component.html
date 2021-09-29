@@ -1,0 +1,77 @@
+<body>
+<div class="content" role="main">
+    
+  <section>
+    <div class="card-container">
+      <a class="card" target="_blank" rel="noopener" (click)="lanceScript()">
+        <svg class="material-icons" width="24" height="24" viewBox="0 0 24 24"><path d="M9.4 16.6L4.8 12l4.6-4.6L8 6l-6 6 6 6 1.4-1.4zm5.2 0l4.6-4.6-4.6-4.6L16 6l6 6-6 6-1.4-1.4z"/></svg>
+        <span>Lancer le script</span>
+      </a>
+    </div>
+
+    <div class="card-container">
+      <a class="card" target="_blank" rel="noopener" (click)="editScript()">
+        <svg class="material-icons" viewBox="0 0 20 20">
+          <path d="M18.303,4.742l-1.454-1.455c-0.171-0.171-0.475-0.171-0.646,0l-3.061,3.064H2.019c-0.251,0-0.457,0.205-0.457,0.456v9.578c0,0.251,0.206,0.456,0.457,0.456h13.683c0.252,0,0.457-0.205,0.457-0.456V7.533l2.144-2.146C18.481,5.208,18.483,4.917,18.303,4.742 M15.258,15.929H2.476V7.263h9.754L9.695,9.792c-0.057,0.057-0.101,0.13-0.119,0.212L9.18,11.36h-3.98c-0.251,0-0.457,0.205-0.457,0.456c0,0.253,0.205,0.456,0.457,0.456h4.336c0.023,0,0.899,0.02,1.498-0.127c0.312-0.077,0.55-0.137,0.55-0.137c0.08-0.018,0.155-0.059,0.212-0.118l3.463-3.443V15.929z M11.241,11.156l-1.078,0.267l0.267-1.076l6.097-6.091l0.808,0.808L11.241,11.156z"></path>
+        </svg>
+        <span>Éditer le script</span>
+      </a>
+    </div>
+    </section>
+
+  
+  
+    <div class="terminal" id="terminalA">
+      <div class="down">
+        <a target="_blank" rel="noopener" (click)="scrollBottom()">
+        <mat-icon aria-hidden="false" aria-label="Example home icon">keyboard_arrow_down</mat-icon>
+        </a>
+      </div>
+      <div class="up">
+        <a target="_blank" rel="noopener" (click)="scrollTop()">
+        <mat-icon aria-hidden="false" aria-label="Example home icon">keyboard_arrow_up</mat-icon>
+        </a>
+      </div>
+      <ng-terminal #termA id="termA"></ng-terminal>
+    </div>
+
+    <div class="terminal" id="terminalB">
+      <div class="quit">
+        <a target="_blank" rel="noopener" (click)="quit()">
+        <mat-icon aria-hidden="false">clear</mat-icon>
+        </a>
+      </div>
+      <div class="save">
+        <a target="_blank" rel="noopener" (click)="save()">
+        <mat-icon aria-hidden="false">vertical_align_bottom</mat-icon>
+        </a>
+      </div>
+      <div class="down">
+        <a target="_blank" rel="noopener" (click)="scrollBottomBis()">
+        <mat-icon aria-hidden="false">keyboard_arrow_down</mat-icon>
+        </a>
+      </div>
+      <div class="up">
+        <a target="_blank" rel="noopener" (click)="scrollTopBis()">
+        <mat-icon aria-hidden="false">keyboard_arrow_up</mat-icon>
+        </a>
+      </div>
+      <ng-terminal #termB id="termB"></ng-terminal>
+    </div>
+  
+</div>
+
+<aside class="tree">
+  <h3>/pr-noe/crawlers</h3><br>
+  <mat-list>
+    <mat-list-item *ngFor="let script of lesScripts">
+      <mat-icon mat-list-icon id="{{script}}">note</mat-icon>
+      <a (click)="selectScript(script)"><div mat-line>{{script}}</div></a>
+    </mat-list-item>
+  </mat-list>
+</aside>
+
+</body>
+
+
+

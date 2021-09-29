@@ -1,0 +1,25 @@
+--------- News
+14 nouvelles, dont : 4 token (dont 1 Ethereum, 2 Binance, 0 Tron, 0 AI, 0 Waves, 0 Beacon)
+11 à observer
+[
+  "Coin : Bitcicoin [Coin,NoGitHub,New2] /currencies/bitcicoin",
+  "Coin : Flow (Dapper Labs) [Collectibles & NFTs,Coinbase Ventures Portfolio,Coin,New2] /currencies/flow",
+  "Coin : KONJUNGATE [Coin,New2] /currencies/konjungate",
+  "Coin : Mdex [Coin,NoGitHub,New2] /currencies/mdex",
+  "Coin : Natus Vincere Fan Token [Fan token,Coin,NoGitHub,New2] /currencies/natus-vincere-fan-token",
+  "Coin : Petrachor [Coin,New2] /currencies/petrachor",
+  "Coin : World Token [Coin,New2] /currencies/world-token",
+  "Coin : XNODE [Coin,New2] /currencies/xnode",
+  "Coin : Young Boys Fan Token [Fan token,Coin,NoGitHub,New2] /currencies/young-boys-fan-token",
+  "Coin : xFund [Coin,New2] /currencies/xfund",
+  "Token : Filecash [NoGitHub,Token,New2] /currencies/filecash"
+]
+--------- 
+595 mortes, dont 5 à cette date
+[
+  "Cashbery Coin [Coin,Mineable,CashberyCoinL,NovacoinL,PeercoinL,BitcoinL,Dead] /currencies/cashbery-coin",
+  "Dark [Coin,DarkpayL,BitcoinL,Dead] /currencies/darkpay",
+  "Infinite Ricks [Coin,NoGitHub,Dead] /currencies/infinite-ricks",
+  "SolarCoin [Coin,PoW,Scrypt,BitcoinL,Dead] /currencies/solarcoin",
+  "Venus BETH [Dead,NoGitHub,Token,Binance,Other Contract,New2] /currencies/venus-beth"
+]

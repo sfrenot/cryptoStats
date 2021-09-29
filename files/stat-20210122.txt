@@ -1,0 +1,32 @@
+--------- News
+8 nouvelles, dont : 7 token (dont 6 Ethereum, 1 Binance, 0 Tron, 0 AI)
+1 à observer
+[
+  "Coin : KONJUNGATE [NoGitHub,Coin,New2] /currencies/konjungate"
+]
+--------- 
+788 mortes, dont 22 à cette date
+[
+  "3XT TOKEN [NoGitHub,Token,Ethereum,Dead] /currencies/3xt-token",
+  "Baguette Token [Token,Memes,Yield farming,Ethereum,Dead] /currencies/baguette-token",
+  "Basiscoin Cash [NoGitHub,Token,Ethereum,Dead] /currencies/basiscoin",
+  "Bonk [Token,Collectibles & NFTs,Ethereum,Dead] /currencies/bonk",
+  "Custody Token [Token,Ethereum,Dead] /currencies/custody-token",
+  "DegenVC [Token,Ethereum,Dead] /currencies/degenvc",
+  "Diffract Finance [NoGitHub,Token,Ethereum,Dead] /currencies/diffract-finance",
+  "Donut [Token,Ethereum,Dead] /currencies/donut",
+  "FXPay [Token,Ethereum,Dead] /currencies/fxpay",
+  "HEIDI [Token,Ethereum,Dead] /currencies/heidi",
+  "Iridium [Coin,Mineable,NoLicenceFile,Dead] /currencies/iridium",
+  "Light Coin Exchange Token [Token,Ethereum,Dead] /currencies/light-coin-exchange-token",
+  "Metrix Coin [Coin,Mineable,NoLicenceFile,Dead] /currencies/metrix-coin",
+  "Peet DeFi [Token,DeFi,Atomic Swaps,Interoperability,Smart Contracts,Staking,DAO,Yield farming,Ethereum,Dead] /currencies/peet-defi",
+  "RI Token [Token,Ethereum,Dead] /currencies/ri-token",
+  "Scifi Finance [Token,Ethereum,NoLicenceFile,Dead] /currencies/scifi-finance",
+  "StarDEX [Token,Ethereum,Dead] /currencies/stardex",
+  "Yearn Secure [Token,Ethereum,Dead] /currencies/yearn-secure",
+  "Yearn4 Finance [Token,Ethereum,Dead] /currencies/yearn4-finance",
+  "dXIOT [Token,Ethereum,Dead] /currencies/dxiot",
+  "noob.finance [Token,Ethereum,Dead] /currencies/noob-finance",
+  "xscoin [Coin,NoLicenceFile,Dead] /currencies/xscoin"
+]

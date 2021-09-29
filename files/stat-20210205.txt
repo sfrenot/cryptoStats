@@ -1,0 +1,21 @@
+--------- News
+10 nouvelles, dont : 10 token (dont 9 Ethereum, 1 Binance, 0 Tron, 0 AI, 0 Waves, 0 Beacon)
+0 à observer
+[]
+--------- 
+613 mortes, dont 13 à cette date
+[
+  "AGOV (ANSWER Governance) [Token,Ethereum,Dead] /currencies/agov-answer-governance",
+  "Buccaneer V2 [Token,Ethereum,Dead] /currencies/buccaneer-v2",
+  "Cicoin [Coin,BitcoinL,Dead] /currencies/cicoin",
+  "Cryptochrome [Token,Ethereum,Dead] /currencies/cryptochrome",
+  "LIQUID [Token,Ethereum,Dead] /currencies/liquidefi",
+  "MediconnectUk [Token,NoLicenceFile,Dead] /currencies/mediconnectuk",
+  "Option Token [Dead,NoGitHub,Token,Ethereum,Ethereum Contract,New2] /currencies/option-token",
+  "Rope [Token,Ethereum,Dead] /currencies/rope",
+  "WAXE [Collectibles & NFTs,Gaming,Token,Ethereum,Dead] /currencies/waxe",
+  "XUSD Stable [NoGitHub,Token,Ethereum,Dead] /currencies/xusd-stable",
+  "Xiotri [Token,Ethereum,Dead] /currencies/xiotri",
+  "cherry [NoGitHub,Token,Ethereum,Dead] /currencies/cherry",
+  "renFIL [Token,Ethereum,NoLicenceFile,Dead] /currencies/renfil"
+]

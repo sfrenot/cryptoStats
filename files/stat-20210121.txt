@@ -1,0 +1,30 @@
+--------- News
+6 nouvelles, dont : 6 token (dont 4 Ethereum, 0 Binance, 0 Tron, 0 AI)
+2 à observer
+[
+  "Token : KLAYswap Protocol [NoGitHub,Marketplace,Token,KLAYswap Protocol,New2] /currencies/klayswap-protocol",
+  "Token : e-Money [NoGitHub,Token,Stablecoin,e-Money,New2] /currencies/e-money-coin"
+]
+--------- 
+749 mortes, dont 19 à cette date
+[
+  "2Based Finance [Dead] /currencies/2based-finance",
+  "Bridge Oracle [Token,Dead] /currencies/bridge-oracle",
+  "Cryptonex [Coin,Mineable,Medium of Exchange,Centralized exchange,Smart Contracts,NoLicenceFile,Dead] /currencies/cryptonex",
+  "DeFi of Thrones [Token,Ethereum,Dead] /currencies/deli-of-thrones",
+  "Decentralized Data Assets Management [Token,Ethereum,Dead] /currencies/decentralized-data-assets-management",
+  "HorusPay [Token,EOS,Dead] /currencies/horuspay",
+  "LinkBased [Token,Ethereum,NoLicenceFile,Dead] /currencies/linkbased",
+  "Non-Fungible Yearn [Token,Ethereum,Dead] /currencies/non-fungible-yearn",
+  "Opennity [Token,Ethereum,Dead] /currencies/opennity",
+  "Qredit [Coin,NoLicenceFile,Dead] /currencies/qredit",
+  "STRAKS [Coin,Mineable,NoGitHub,Dead] /currencies/straks",
+  "Sparkle Loyalty [Token,Ethereum,Dead] /currencies/sparkle-loyalty",
+  "Tixl [old] [DeFi,Payments,Privacy,Medium of Exchange,Platform,Binance Coin,DAG,Germany,Token,Binance,Dead] /currencies/tixl-old",
+  "WallStreet.Finance [Token,Ethereum,Dead] /currencies/wallstreet-finance",
+  "YFIDapp [Token,Ethereum,Dead] /currencies/yfidapp",
+  "Yearn Finance Ecosystem [Token,Ethereum,Dead] /currencies/yearn-finance-ecosystem",
+  "bZx Vesting Token [Token,Ethereum,Dead] /currencies/vbzrx",
+  "rbase.finance [Token,Ethereum,Dead] /currencies/rbase-finance",
+  "stakedXEM [NoGitHub,Token,Ethereum,Dead] /currencies/stakedxem"
+]

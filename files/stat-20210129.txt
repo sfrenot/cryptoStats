@@ -1,0 +1,16 @@
+--------- News
+9 nouvelles, dont : 8 token (dont 5 Ethereum, 0 Binance, 1 Tron, 0 AI, 1 Waves, 1 Beacon)
+1 à observer
+[
+  "Coin : Bitcicoin [NoGitHub,Coin,New2] /currencies/bitcicoin"
+]
+--------- 
+549 mortes, dont 6 à cette date
+[
+  "CORD.Finance [DeFi,Yield farming,NoGitHub,Token,Ethereum,Dead] /currencies/cord-finance",
+  "Cofinex Coin [Token,Medium of Exchange,Ethereum,Dead] /currencies/cofinex-coin",
+  "ISALCOIN [Token,Ethereum,Dead] /currencies/isalcoin",
+  "MEME CASH [Token,Ethereum,NoLicenceFile,Dead] /currencies/meme-cash",
+  "MGC Token [Token,Ethereum,Dead] /currencies/mgc-token",
+  "Payfair [Token,Ethereum,Dead] /currencies/payfair"
+]

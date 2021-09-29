@@ -1,0 +1,24 @@
+--------- News
+83 nouvelles, dont : 81 token (dont 50 Ethereum, 22 Binance, 1 Tron, 0 AI, 0 Waves, 0 Beacon, 1 GoChain, 1 Qtum, 0 Zilliqa)
+8 à observer
+[
+  "Coin : Kevacoin [Mineable,NoGitHub,Coin,New2] /currencies/kevacoin",
+  "Coin : Vera Cruz Coin [Dead,NoGitHub,Coin,New2] /currencies/vera-cruz-coin",
+  "Token : BeeSwap [Dead,NoGitHub,Token,Huobi ECO,Other Contract,New2] /currencies/beeswap",
+  "Token : Chintai [NoGitHub,Token,EOS,Other Contract,New2] /currencies/chex-token",
+  "Token : HashBridge Oracle [Dead,NoGitHub,Token,Huobi ECO,Other Contract,New2] /currencies/hashbridge-oracle",
+  "Token : LavaSwap [Token,Huobi ECO,Other Contract,New2] /currencies/lavaswap",
+  "Token : Raydium [AMM,Dex,DEX,NoGitHub,Token,Solana,Other Contract,New2] /currencies/raydium",
+  "Token : StarLink [Token,Huobi ECO,Other Contract,New2] /currencies/starlink"
+]
+--------- 
+627 mortes, dont 7 à cette date
+[
+  "AMC Entertainment Holdings tokenized stock FTX [Ftx,Tokenized Stock,NoGitHub,Token,Dead] /currencies/amc-entertainment-holdings-tokenized-stock-ftx",
+  "BuildUp [Token,Ethereum,Ethereum,Dead] /currencies/buildup",
+  "DeFiStarter [Dead,Token,Ethereum,Ethereum Contract,New2] /currencies/defistarter",
+  "Future1coin [Token,Ethereum,Dead] /currencies/future1coin",
+  "ImageCash [Coin,BitcoinL,DashL,Dead] /currencies/imagecash",
+  "Largo Coin [Coin,BitcoinL,DashL,PIVXL,Largo CoinL,Dead] /currencies/largo-coin",
+  "TenUp [Coin,NoGitHub,Dead] /currencies/tenup"
+]

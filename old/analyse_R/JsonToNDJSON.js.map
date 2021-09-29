@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "file": "JsonToNDJSON.js",
+  "sourceRoot": "",
+  "sources": [
+    "JsonToNDJSON.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA,IAAA,EAAA,EAAA,EAAA,MAAA,EAAA,YAAA,EAAA,QAAA,EAAA;;EAAA,EAAA,GAAK,OAAA,CAAQ,IAAR;;EACL,MAAA,GAAS,OAAA,CAAQ,QAAR;;EACT,IAAA,GAAO,OAAA,CAAQ,gBAAR;;EAEP,QAAA,GAAS;;EAET,MAAM,CAAC,IAAP,CAAY,IAAZ,CAAiB,CAAC,OAAlB,CAA0B,QAAA,CAAC,CAAD,CAAA;WACxB,QAAQ,CAAC,IAAT,CAAc,IAAI,CAAC,CAAD,CAAlB;EADwB,CAA1B;;EAGA,eAAA,GAAkB,MAAM,CAAC,SAAP,CAAA;;EAClB,YAAA,GAAe,eAAe,CAAC,IAAhB,CAAsB,EAAE,CAAC,iBAAH,CAAsB,SAAA,GAAY,cAAlC,CAAtB;;EACf,QAAQ,CAAC,OAAT,CAAiB,QAAA,CAAC,CAAD,CAAA;WACf,eAAe,CAAC,KAAhB,CAAsB,CAAtB;EADe,CAAjB;;EAIA,eAAe,CAAC,GAAhB,CAAA;AAfA",
+  "sourcesContent": [
+    "fs = require 'fs'\r\nndjson = require 'ndjson'\r\ndata = require './cryptos.json'\r\n\r\ntab_data=[]\r\n\r\nObject.keys(data).forEach (x) ->\r\n  tab_data.push(data[x])\r\n\r\ntransformStream = ndjson.stringify();\r\noutputStream = transformStream.pipe( fs.createWriteStream( __dirname + \"/data.ndjson\" ) )\r\ntab_data.forEach (x) ->\r\n  transformStream.write(x)\r\n\r\n\r\ntransformStream.end();"
+  ]
+}

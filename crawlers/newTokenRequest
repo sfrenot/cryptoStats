@@ -1,0 +1,6 @@
+symbol.keyword:"MATTER" or symbol.keyword:"ATMOS" or symbol.keyword:"FIDA" or symbol.keyword:"BOT" or symbol.keyword:"EBRH" or symbol.keyword:"KSP" or symbol.keyword:"MASK" or symbol.keyword:"OPEN" or symbol.keyword:"POLK" or symbol.keyword:"MINT" or symbol.keyword:"SOTA" or symbol.keyword:"DGTX" or symbol.keyword:"FIC" or symbol.keyword:"LNC" or symbol.keyword:"RAY"
+
+
+symbol.keyword:"ATMOS" or symbol.keyword:"EBRH" or symbol.keyword:"OPEN" or symbol.keyword:"MINT" or symbol.keyword:"SOTA" or symbol.keyword:"DGTX" or symbol.keyword:"FIC" or symbol.keyword:"LNC"
+
+symbol.keyword:"MASK" or symbol.keyword:"BOT" or symbol.keyword:"KSP" or symbol.keyword:"MATTER" or symbol.keyword:"RAY" or symbol.keyword:"POLK" or symbol.keyword:"FIDA" 

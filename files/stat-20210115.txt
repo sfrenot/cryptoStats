@@ -1,0 +1,26 @@
+--------- News
+11 nouvelles, dont : 10 token (dont 8 Ethereum, 0 Binance, 1 Tron, 0 AI)
+2 à observer
+[
+  "Coin : Oxen [PoS,Technology,DeFi,Privacy,Masternodes,Hybrid - PoW & PoS,Coin,New2] /currencies/oxen",
+  "Token : Basis Gold Share [New2,NoGitHub,Token] /currencies/basis-gold-share"
+]
+--------- 
+740 mortes, dont 15 à cette date
+[
+  "AllWin DeFi [Token,Ethereum,Dead] /currencies/allwin-defi",
+  "BPOP [Token,Ethereum,Dead] /currencies/bpop",
+  "Bitpayer Token [Token,Ethereum,Dead] /currencies/bitpayer-token",
+  "Cyclops Treasure [Token,Ethereum,Dead] /currencies/cyclops-treasure",
+  "DeFinition [Token,Tron,Dead] /currencies/definition",
+  "Derivex [Token,Ethereum,Dead] /currencies/derivex",
+  "DreamTeam Token [Token,Ethereum,Dead] /currencies/dreamteam-token",
+  "Fesschain [Token,Ethereum,Dead] /currencies/fesschain",
+  "Mirrored Amazon [Token,Ethereum,Mirror,NoLicenceFile,Dead] /currencies/mirrored-amazon",
+  "Mirrored Tesla [Tokenized Stock,Token,Ethereum,Mirror,NoLicenceFile,Dead] /currencies/mirrored-tesla",
+  "TravelNote [Token,Ethereum,Dead] /currencies/travelnote",
+  "Unify [Coin,BitcoinL,UnifyL,Dead] /currencies/unify",
+  "UnoSwap [Token,Ethereum,Dead] /currencies/unoswap",
+  "ZUM TOKEN [Token,Ethereum,Dead] /currencies/zum-token",
+  "qiibee [Token,Ethereum,Dead] /currencies/qiibee"
+]

@@ -1,0 +1,17 @@
+{
+  "name": "pr-noe",
+  "version": "1.0.0",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.3",
+    "coffeescript": "^2.5.1",
+    "d3-hierarchy": "^2.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "write-json-file": "^4.3.0"
+  },
+  "devDependencies": {
+    "ndjson": "^2.0.0"
+  }
+}

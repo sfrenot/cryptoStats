@@ -1,0 +1,17 @@
+--------- News
+65 nouvelles, dont : 63 token (dont Binance Contract: 21, Ethereum Contract: 37, Terra Contract: 1, Tron Contract: 1)
+2 à observer
+[
+  "Coin : VAULT [Coin,New2] /currencies/vault",
+  "Coin : WAY-F coin [Coin,New2] /currencies/way-f-coin"
+]
+--------- 
+732 mortes, dont 6 à cette date
+[
+  "3X Short TomoChain Token [Token,Ftx,NoGitHub,Ethereum Contract,Dead] /currencies/3x-short-tomochain-token",
+  "Billibilli tokenized stock Bittrex [Tokenized Stock,Bittrex,Token,Dead] /currencies/billibilli-tokenized-stock-bittrex",
+  "MicroStrategy tokenized stock FTX [Tokenized Stock,Ftx,Token,Dead] /currencies/microstrategy-tokenized-stock-ftx",
+  "RoboCalls [Token,NoGitHub,Ethereum Contract,Dead] /currencies/robocalls",
+  "SPDR S&P 500 ETF tokenized stock FTX [Tokenized Stock,Ftx,Token,Dead] /currencies/spdr-sp-500-etf-tokenized-stock-ftx",
+  "Vera Cruz Coin [NoGitHub,Coin,Dead] /currencies/vera-cruz-coin"
+]

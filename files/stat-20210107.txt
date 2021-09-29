@@ -1,0 +1,18 @@
+--------- News
+120 nouvelles, dont : 115 token (dont 99 Ethereum, 9 Binance, 2 Tron)
+10 à observer
+[
+  "Coin : Bankcoin [Coin,New2] /currencies/the-bank-coin",
+  "Coin : KnoxFS (old) [Dead,Coin,New2] /currencies/knoxfs-old",
+  "Coin : Maxonrow [NoGitHub,Coin,New2] /currencies/maxonrow",
+  "Coin : Talent Token [NoGitHub,Coin,New2] /currencies/talent-token",
+  "Coin : Validity [PoS,Coin,New2] /currencies/validity",
+  "Token : Atmos [PoS,Communications & Social Media,Platform,Marketing,Content Creation,Privacy,DApp,EOS,DPoS,Mauritius,Canada,Portugal,United States of America,Timestamping,Reputation,Staking,Store of Value,Token,New2,NoLicenceFile] /currencies/atmos",
+  "Token : Bonfida [Token,Solana,New2] /currencies/bonfida",
+  "Token : CircleSwap [Token,Huobi ECO,New2] /currencies/circleswap",
+  "Token : Codex [Token,Codex,New2] /currencies/codex",
+  "Token : KnoxFS (new) [NoGitHub,Token,KnoxFS,New2] /currencies/knoxfs-new"
+]
+--------- 
+0 mortes, dont 0 à cette date
+[]

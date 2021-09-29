@@ -1,0 +1,40 @@
+--------- News
+22 nouvelles, dont : 20 token (dont 19 Ethereum, 1 Binance, 0 Tron, 0 AI)
+2 à observer
+[
+  "Coin : AmazonasCoin [Coin,New2] /currencies/amazonascoin",
+  "Coin : Hydra [Coin,New2] /currencies/hydra"
+]
+--------- 
+776 mortes, dont 29 à cette date
+[
+  "AidCoin [Token,Philanthropy,Ethereum,Dead] /currencies/aidcoin",
+  "Blaze DeFi [Token,Ethereum,NoLicenceFile,Dead] /currencies/blaze-defi",
+  "CXN Network [Token,Ethereum,Dead] /currencies/cxn-network",
+  "Chonk [Token,Ethereum,Dead] /currencies/chonk",
+  "Cryptonits [Token,Ethereum,Dead] /currencies/cryptonits",
+  "DeFi Firefly [Coin,NoGitHub,Dead] /currencies/defi-firefly",
+  "DopeCoin [Coin,PoW,Scrypt,NoGitHub,Dead] /currencies/dopecoin",
+  "ETG Finance [Token,Ethereum,Dead] /currencies/etg-finance",
+  "Gold Poker [Coin,BitcoinL,DashL,PIVXL,GpkrL,Dead] /currencies/gold-poker",
+  "GoldMint [Coin,NoLicenceFile,Dead] /currencies/goldmint",
+  "Groovy Finance [Token,Ethereum,Dead] /currencies/groovy-finance",
+  "Harcomia [Coin,BitcoinL,DashL,PIVXL,HCAL,Dead] /currencies/harcomia",
+  "JFIN [Dead,NoGitHub,Token,Ethereum,New2] /currencies/jfin",
+  "Marvrodi Salute Vison [Token,Ethereum,Dead] /currencies/marvrodi-salute-vision",
+  "Maverick Chain [Token,Ethereum,Dead] /currencies/maverick-chain",
+  "NFX Coin [Token,Ethereum,Dead] /currencies/nfx-coin",
+  "NewYork Exchange [Coin,Services,BitcoinL,DashL,PIVXL,NYECOINL,Dead] /currencies/newyork-exchange",
+  "Novo [Coin,NoLicenceFile,Dead] /currencies/novo",
+  "OLXA [Token,Ethereum,Dead] /currencies/olxa",
+  "Phoenixcoin [Coin,Mineable,NeoScrypt,NoLicenceFile,Dead] /currencies/phoenixcoin",
+  "PieDAO DEFI++ [Token,Ethereum,Dead] /currencies/piedao-defi",
+  "Resistance [Coin,ResistanceL,ZcashL,BitcoinL,Dead] /currencies/resistance",
+  "SYB Coin [Token,Marketplace,Media,Real Estate,Services,Ethereum,Dead] /currencies/syb-coin",
+  "The Tokenized Bitcoin [Token,Ethereum,Dead] /currencies/the-tokenized-bitcoin",
+  "VeriDocGlobal [Token,Ethereum,Dead] /currencies/veridocglobal",
+  "Vetri [Token,Ethereum,Dead] /currencies/vetri",
+  "XFII [Token,Ethereum,Dead] /currencies/xfii",
+  "YearnAgnostic Finance [Token,Ethereum,Dead] /currencies/yearnagnostic-finance",
+  "pTokens BTC [Token,DeFi,Ethereum,Dead] /currencies/ptokens-btc"
+]

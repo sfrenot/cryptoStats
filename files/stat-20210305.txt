@@ -1,0 +1,29 @@
+--------- News
+59 nouvelles, dont : 57 token (dont Ethereum Contract: 29, Binance Contract: 16, Huobi Contract: 1, Wan Contract: 9, xDai Contract: 1)
+2 à observer
+[
+  "Coin : PRCY Coin [Dead,Coin,New2] /currencies/prcy-coin",
+  "Coin : WanSwap [Decentralized exchange,DeFi,AMM,Dex,Dead,DEX,Coin,New2] /currencies/wanswap"
+]
+--------- 
+2242 mortes, dont 18 à cette date
+[
+  "10x.gg [Dead,NoGitHub,Token,Ethereum Contract,New2] /currencies/10xgg",
+  "APOyield [Dead,Token,Binance Contract,New2] /currencies/apoyield",
+  "CAD Coin [Dead,NoGitHub,Token,Ethereum Contract,New2] /currencies/cad-coin",
+  "Content Value Network [Token,Media,Content Creation,NoGitHub,Ethereum Contract,Dead] /currencies/content-value-network",
+  "DEGEN Index [Dead,Token,Ethereum Contract,New2] /currencies/degen-index",
+  "DEOR [Dead,Token,Ethereum Contract,New2] /currencies/deor",
+  "DEXTF Protocol [Dead,NoGitHub,Token,Ethereum Contract,New2] /currencies/dextf-protocol",
+  "Kylin [Polkadot,DOT Ecosystem,Dead,Token,Ethereum Contract,New2] /currencies/kylin",
+  "Minty Art [Collectibles & NFTs,Dead,NoGitHub,Token,Ethereum Contract,New2] /currencies/minty-art",
+  "PRCY Coin [Dead,Coin,New2] /currencies/prcy-coin",
+  "Polkazeck [Dead,Token,Ethereum Contract,New2] /currencies/polkazeck",
+  "Shrimp Capital [Dead,NoGitHub,Token,Binance Contract,New2] /currencies/shrimp-capital",
+  "Slime Finance [Dead,Token,Binance Contract,New2] /currencies/slime-finance",
+  "wanBTC [Dead,NoGitHub,Token,Wan Contract,New2] /currencies/wanbtc",
+  "wanEOS [Dead,NoGitHub,Token,Wan Contract,New2] /currencies/waneos",
+  "wanSUSHI [Dead,NoGitHub,Token,Wan Contract,New2] /currencies/wansushi",
+  "wanUSDT [Dead,NoGitHub,Token,Wan Contract,New2] /currencies/wanusdt",
+  "yieldwatch [Dead,NoGitHub,Token,Binance Contract,New2] /currencies/yieldwatch"
+]

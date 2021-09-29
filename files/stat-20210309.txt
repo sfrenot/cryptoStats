@@ -1,0 +1,22 @@
+--------- News
+27 nouvelles, dont : 26 token (dont Binance Contract: 9, Bitshares Contract: 2, Ethereum Contract: 16)
+1 à observer
+[
+  "Coin : Libonomy [Dead,Coin,New2] /currencies/libonomy"
+]
+--------- 
+2270 mortes, dont 12 à cette date
+[
+  "Argon [Dead,Token,Binance Contract,New2] /currencies/argon",
+  "Bogged Finance [Dead,NoGitHub,Token,Binance Contract,New2] /currencies/bogged-finance",
+  "FLUX [Token,NoGitHub,Ethereum Contract,Dead] /currencies/flux",
+  "Global AEX Token [Dead,NoGitHub,Token,Ethereum Contract,Bitshares Contract,New2] /currencies/global-aex-token",
+  "Idavoll Network [Dead,Token,Ethereum Contract,New2] /currencies/idavoll-network",
+  "Inverse Finance [Dead,Token,Ethereum Contract,New2] /currencies/inverse-finance",
+  "SaltSwap Finance [Dead,Token,Binance Contract,New2] /currencies/saltswap-finance",
+  "Space Cow Boy [Collectibles & NFTs,Yield farming,Dead,Token,Binance Contract,New2] /currencies/space-cow-boy",
+  "Unique Photo [Dead,NoGitHub,Token,Ethereum Contract,New2] /currencies/unique-photo",
+  "Utile Network [Dead,NoGitHub,Token,Binance Contract,New2] /currencies/utile-network",
+  "Wealthlocks [Binance Smart Chain,Dead,NoGitHub,Token,Binance Contract,New2] /currencies/wealthlocks",
+  "YEARNYFI NETWORK [Dead,NoGitHub,Token,Ethereum Contract,New2] /currencies/yearnyfi-network"
+]

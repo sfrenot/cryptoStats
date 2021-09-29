@@ -1,0 +1,39 @@
+--------- News
+5 nouvelles, dont : 4 token (dont 4 Ethereum, 0 Binance, 0 Tron, 0 AI, 0 Waves, 0 Beacon)
+1 à observer
+[
+  "Coin : World Token [NoGitHub,Coin,New2] /currencies/world-token"
+]
+--------- 
+633 mortes, dont 29 à cette date
+[
+  "AMATEN [Token,Ethereum,Dead] /currencies/amaten",
+  "BOLT [Token,Ethereum,Dead] /currencies/bolt",
+  "BackPacker Coin [Coin,BackpackercoinL,Dead] /currencies/backpacker-coin",
+  "BitForex Token [Token,Marketplace,Centralized exchange,Payments,Ethereum,Dead] /currencies/bitforex-token",
+  "BitGuild PLAT [Token,Tron,Dead] /currencies/bitguild-plat",
+  "Blocklancer [Token,Ethereum,Dead] /currencies/blocklancer",
+  "CaluraCoin [Coin,CaluraCoinL,NovacoinL,PeercoinL,BitcoinL,Dead] /currencies/caluracoin",
+  "Cloudbric [Token,Ethereum,Dead] /currencies/cloudbric",
+  "Culture Ticket Chain [Coin,NoGitHub,Dead] /currencies/culture-ticket-chain",
+  "DSYS [Token,Ethereum,Dead] /currencies/dsys",
+  "DWS [Token,Ethereum,Dead] /currencies/dws",
+  "Datawallet [Token,Services,Wallet,Ethereum,Dead] /currencies/datawallet",
+  "DeFiato [Token,Ethereum,Dead] /currencies/defiato",
+  "Digital Gold [Token,Ethereum,Dead] /currencies/digital-gold",
+  "Dragon Ball [Token,Tron,Dead] /currencies/dragon-ball",
+  "EtherBone [Token,Ethereum,Dead] /currencies/etherbone",
+  "Fiii [Coin,Mineable,NoLicenceFile,Dead] /currencies/fiii",
+  "Fiola [Token,Ethereum,Dead] /currencies/fiola",
+  "Iconic Token [Token,Ethereum,Dead] /currencies/iconic-token",
+  "Mazzuma [Coin,NoGitHub,Dead] /currencies/mazzuma",
+  "NANJCOIN [Token,Ethereum,Dead] /currencies/nanjcoin",
+  "Omnitude [Token,Platform,Enterprise solutions,Ethereum,Dead] /currencies/omnitude",
+  "QChi Chain [Token,Ethereum,Dead] /currencies/qchi-chain",
+  "QPay [Token,Ethereum,Dead] /currencies/qpay",
+  "T.OS [Token,Ethereum,Dead] /currencies/t-os",
+  "TEAM (TokenStars) [Token,Ethereum,Dead] /currencies/tokenstars",
+  "TokenAsset [NoGitHub,Token,Ethereum,Dead] /currencies/tokenasset",
+  "ZYX [Coin,NoLicenceFile,Dead] /currencies/zyx",
+  "dForce USDx [Token,Ethereum,Dead] /currencies/dforce-usdx"
+]

@@ -1,0 +1,42 @@
+--------- News
+13 nouvelles, dont : 12 token (dont 10 Ethereum, 1 Binance, 0 Tron, 0 AI)
+2 à observer
+[
+  "Coin : Marscoin [Mineable,PoW,X11,Coin,New2] /currencies/marscoin",
+  "Token : Basis Gold [NoGitHub,Token,Huobi ECO,New2] /currencies/bag"
+]
+--------- 
+759 mortes, dont 31 à cette date
+[
+  "Airbnb tokenized stock FTX [Tokenized Stock,Ftx,Token,Dead] /currencies/airbnb-tokenized-stock-ftx",
+  "Amazon tokenized stock Bittrex [Tokenized Stock,Bittrex,Token,Dead] /currencies/amazon-tokenized-stock-bittrex",
+  "BLOCKMAX [Token,Ethereum,Dead] /currencies/blockmax",
+  "Beyond Meat tokenized stock FTX [Tokenized Stock,Ftx,Token,Dead] /currencies/beyond-meat-tokenized-stock-ftx",
+  "BoutsPro [Token,Ethereum,Dead] /currencies/boutspro",
+  "Dynamic Supply Tracker [NoGitHub,Token,Ethereum,Dead] /currencies/dynamic-supply-tracker",
+  "Ether Kingdoms Token [Token,Ethereum,Dead] /currencies/ether-kingdoms-token",
+  "FlashX Advance [Token,Ethereum,Dead] /currencies/flashx-advance",
+  "GoalTime N [Token,Ethereum,Dead] /currencies/goaltime-n",
+  "Google tokenized stock Bittrex [Tokenized Stock,Bittrex,Token,Dead] /currencies/google-tokenized-stock-bittrex",
+  "HippoFinance [Token,Ethereum,Dead] /currencies/hippo-finance",
+  "Mirrored Microsoft [Token,Ethereum,Mirror,NoLicenceFile,Dead] /currencies/mirrored-microsoft",
+  "Monkey Project [Coin,Mineable,BitcoinL,DashL,PIVXL,MonkeyL,Dead] /currencies/monkey-project",
+  "MoonSwap [Token,Ethereum,Dead] /currencies/moonswap",
+  "NOIZ [Token,Ethereum,Dead] /currencies/noizchain",
+  "Netflix tokenized stock Bittrex [Tokenized Stock,Bittrex,Token,Dead] /currencies/netflix-tokenized-stock-bittrex",
+  "Nibble [Coin,NoLicenceFile,Dead] /currencies/nibble",
+  "Nio tokenized stock FTX [Tokenized Stock,Ftx,Token,Dead] /currencies/nio-tokenized-stock-ftx",
+  "PayPal tokenized stock FTX [Tokenized Stock,Ftx,Token,Dead] /currencies/paypal-tokenized-stock-ftx",
+  "Pixie Coin [Token,Ethereum,Dead] /currencies/pixie-coin",
+  "Pluto [Token,Ethereum,Dead] /currencies/pluto",
+  "Privatix [Token,Marketplace,Distributed Computing,Ethereum,Dead] /currencies/privatix",
+  "Space Dollar [Token,Ethereum,Binance,Dead] /currencies/space-dollar",
+  "UnityDAO [Token,Ethereum,Dead] /currencies/unitydao",
+  "Vybe [Token,Ethereum,Dead] /currencies/vybe",
+  "WebDollar [Coin,Mineable,NoLicenceFile,Dead] /currencies/webdollar",
+  "Wrapped Monero [NoGitHub,Token,Ethereum,Dead] /currencies/wrapped-monero",
+  "XOVBank [Token,Ethereum,Dead] /currencies/xovbank",
+  "XPToken.io [Token,Ethereum,Ethereum,Dead] /currencies/xptoken-io",
+  "XSwap [Coin,NoGitHub,Dead] /currencies/xsp",
+  "Zealium [Coin,Mineable,BitcoinL,DashL,PIVXL,ZealiumL,Dead] /currencies/zealium"
+]

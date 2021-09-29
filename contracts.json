@@ -1,0 +1,415 @@
+[
+  {
+    "urls": [
+      "https://explorer.planetwatch.io/",
+      "https://algoexplorer.io/asset/"
+    ],
+    "contract": "Algorand Contract",
+    "gecko_asset_platform_id": "algorand"
+  },
+  {
+    "urls": [
+      "https://arbiscan.io/token"
+    ],
+    "contract": "Arbitrum Contract",
+    "gecko_asset_platform_id": "arbitrum-one"
+  },
+  {
+    "urls": [
+      "https://explorer.binance.org/asset",
+      "https://poocoin.app/tokens/",
+      "https://bscscan.com/address",
+      "https://bscscan.com/token/",
+      "https://bscscan.com/tx",
+      "https://www.bscscan.com/token",
+      "https://www.bscscan.com/address",
+      "https://pancakeswap.info/token",
+      "https://explorer.bitquery.io/bsc/token/",
+      "https://dex.guru/token/0x1a566dd84262d51c7543a85408a8452bee025841-bsc",
+      "https://charts.bogged.finance/?token="
+    ],
+    "contract": "Binance Contract",
+    "gecko_asset_platform_id": "binance-smart-chain"
+  },
+  {
+    "urls": [
+      "https://explorer.binance.org/asset",
+      "https://bscscan.com/address",
+      "https://bscscan.com/token",
+      "https://www.bscscan.com/token",
+      "https://www.bscscan.com/address",
+      "https://pancakeswap.info/token",
+      "https://explorer.fantom.network/address"
+    ],
+    "contract": "Binance Contract",
+    "gecko_asset_platform_id": "binancecoin"
+  },
+  {
+    "urls": [
+      "https://bts.ai/asset"
+    ],
+    "contract": "Bitshares Contract"
+  },
+  {
+    "urls": [
+      "https://explorer.celo.org/address"
+    ],
+    "contract": "Celo Contract"
+  },
+  {
+    "urls": [
+      "https://explorer.chiliz.com/tokens"
+    ],
+    "contract": "Chiliz Contract",
+    "gecko_asset_platform_id": "chiliz"
+  },
+  {
+    "urls": [
+      "https://confluxscan.io/token"
+    ],
+    "contract": "Conflux Contract"
+  },
+  {
+    "urls": [
+      "https://eosflare.io/account",
+      "https://eosflare.io/token",
+      "https://bloks.io/account",
+      "https://bloks.io/tokens",
+      "https://eospark.com/account",
+      "https://eospark.com/contract",
+      "https://eospark.com/token",
+      "https://eospark.com/MainNet/account",
+      "https://www.eosx.io/account"
+    ],
+    "contract": "EOS Contract",
+    "gecko_asset_platform_id": "eos"
+  },
+  {
+    "urls": [
+      "https://rinkeby.etherscan.io/token",
+      "https://explorer-mainnet.maticvigil.com/address",
+      "https://blockchain.coinmarketcap.com/address/ethereum",
+      "https://blockscout.com/etc/mainnet/address",
+      "https://blockscout.com/etc/mainnet/tokens",
+      "https://enjinx.io/eth/token",
+      "https://enjinx.io/en-GB/eth/token",
+      "https://etherscan.com/token",
+      "https://cn.etherscan.com/token",
+      "https://etherscan.io/address",
+      "https://ethplorer.io/ru/address",
+      "https://etherscan.io/token",
+      "http://etherscan.io/token",
+      "https://etherscan.io/dapp",
+      "https://ethplorer.address/token",
+      "https://ethplorer.com/address",
+      "https://ethplorer.io/addres",
+      "http://ethplorer.io/address",
+      "https://ethplorer.io/es/address",
+      "https://ethplorer.io/address",
+      "https://ethplorer.io/token",
+      "https://eth.tokenview.com/en/token",
+      "https://ethploer.io/addres",
+      "https://blockchair.com/ethereum/erc-20/token",
+      "https://explorer.bitquery.io/ethereum/token"
+    ],
+    "contract": "Ethereum Contract",
+    "gecko_asset_platform_id": "ethereum"
+  },
+  {
+    "urls": [
+      "https://ftmscan.com/token/"
+    ],
+    "contract": "Fantom Contract",
+    "gecko_asset_platform_id": "fantom"
+  },
+  {
+    "urls": [
+      "https://scan.hecochain.com/address",
+      "https://scan.hecochain.com/token",
+      "https://hecoinfo.com/token"
+    ],
+    "contract": "Huobi Contract",
+    "gecko_asset_platform_id": "huobi-token"
+  },
+  {
+    "urls": [
+      "https://www.iostabc.com/token",
+      "https://www.iostabc.com/contract"
+    ],
+    "contract": "IOST Contract"
+  },
+  {
+    "urls": [
+      "https://explorer.nebulas.io/#/token"
+    ],
+    "contract": "Nebulas Contract"
+  },
+  {
+    "urls": [
+      "https://explorer.nemtool.com/#"
+    ],
+    "contract": "Nem Contract",
+    "gecko_asset_platform_id": "nem"
+  },
+  {
+    "urls": [
+      "https://neotracker.io/asset",
+      "https://neoscan.io/asset",
+      "https://neotracker.io/asset",
+      "https://neotracker.io/contract",
+      "https://neoexplorer.co/assets",
+      "https://neotube.io/nep5",
+      "https://antchain.xyz/asset/hash"
+    ],
+    "contract": "Neo Contract",
+    "gecko_asset_platform_id": "neo"
+  },
+  {
+    "urls": [
+      "https://www.oklink.com/okexchain/tokenAddr"
+    ],
+    "contract": "Okex Contract",
+    "gecko_asset_platform_id": "okex-chain"
+  },
+  {
+    "urls": [
+      "https://www.omniexplorer.info/asset",
+      "http://omniexplorer.info/asset",
+      "https://omniexplorer.info/asset",
+      "https://www.oklink.com/okexchain/tokenAddr"
+    ],
+    "contract": "Omni Contract",
+    "gecko_asset_platform_id": "omni"
+  },
+  {
+    "urls": [
+      "https://explorer.ont.io/token/detail/oep4"
+    ],
+    "contract": "Ontology Contract"
+  },
+  {
+    "urls": [
+      "https://explorer.qtum.org/token",
+      "https://qtumexplorer.io/contract",
+      "https://qtum.info/contract",
+      "https://qtum.info/qrc20"
+    ],
+    "contract": "Qtum Contract",
+    "gecko_asset_platform_id": "qtum"
+  },
+  {
+    "urls": [
+      "https://explorer.solana.com/address",
+      "https://solscan.io/token"
+    ],
+    "contract": "Solana Contract",
+    "gecko_asset_platform_id": "solana"
+  },
+  {
+    "urls": [
+      "https://stellar.expert/explorer/asset",
+      "https://stellar.expert/explorer/public/asset",
+      "https://stellarchain.io/address"
+    ],
+    "contract": "Stellar Contract",
+    "gecko_asset_platform_id": "stellar"
+  },
+  {
+    "urls": [
+      "https://finder.terra.money/columbus-4/account",
+      "https://finder.terra.money/columbus-4/address"
+    ],
+    "contract": "Terra Contract",
+    "gecko_asset_platform_id": "terra"
+  },
+  {
+    "urls": [
+      "https://scan.tomochain.com/tokens"
+    ],
+    "contract": "Tomochain Contract",
+    "gecko_asset_platform_id": "tomochain"
+  },
+  {
+    "urls": [
+      "https://tronscan.org/#/address",
+      "https://tronscan.org/#/token",
+      "https://tronscan.org/#/contract",
+      "https://tronscan.io/#/contract",
+      "https://tronscan.io/#/token",
+      "https://tronscan.io/#/token20",
+      "https://trxplorer.io/token",
+      "https://www.trxplorer.io/token",
+      "https://trx.tokenview.com/en/token/"
+    ],
+    "contract": "Tron Contract",
+    "gecko_asset_platform_id": "tron"
+  },
+  {
+    "urls": [
+      "https://ubiqscan.io/token"
+    ],
+    "contract": "Ubiq Contract"
+  },
+  {
+    "urls": [
+      "https://vechainstats.com/account",
+      "https://explore.veforge.com/tokens"
+    ],
+    "gecko_asset_platform_id": "vechain",
+    "contract": "VeChain Contract"
+  },
+  {
+    "urls": [
+      "https://www.wanscan.org/token",
+      "https://info.wanswap.finance/token"
+    ],
+    "contract": "Wan Contract"
+  },
+  {
+    "urls": [
+      "https://wavesexplorer.com/assets",
+      "http://dev.pywaves.org/assets",
+      "https://dev.pywaves.org/enterprise/balances",
+      "https://dev.pywaves.org/assets",
+      "https://wavesexplorer.com/tx",
+      "https://wavesdesk.com/asset"
+    ],
+    "contract": "Waves Contract",
+    "gecko_asset_platform_id": "waves"
+  },
+  {
+    "urls": [
+      "https://blockscout.com/xdai/mainnet/",
+      "https://blockscout.com/poa/xdai/tokens"
+    ],
+    "contract": "xDai Contract",
+    "gecko_asset_platform_id": "xdai"
+  },
+  {
+    "urls": [
+      "https://polkadot.",
+      "https://crab.subscan.io/",
+      "https://scan.chainx.org/",
+      "http://edgeware.subscan.io",
+      "https://stafi.subscan.io/"
+    ],
+    "contract": "Polkadot Contract",
+    "gecko_asset_platform_id": "polkadot"
+  },
+  {
+    "urls": [
+      "https://fsnex.com/token"
+    ],
+    "contract": "Fusion Contract"
+  },
+  {
+    "urls": [
+      "https://scope.klaytn.com/token"
+    ],
+    "contract": "Klay Contract",
+    "gecko_asset_platform_id": "klay-token"
+  },
+  {
+    "urls": [
+      "https://bitsharescan.com/asset/"
+    ],
+    "contract": "Bitshare Contract",
+    "gecko_asset_platform_id": "bitshares"
+  },
+  {
+    "urls": [
+      "https://explorer.gochain.io/addr/"
+    ],
+    "contract": "Gochain Contract",
+    "gecko_asset_platform_id": "gochain"
+  },
+  {
+    "urls": [
+      "https://telos.bloks.io/tokens"
+    ],
+    "contract": "Telos Contract",
+    "gecko_asset_platform_id": "telos"
+  },
+  {
+    "urls": [
+      "https://explorer.sero.cash/"
+    ],
+    "contract": "SuperSero Contract",
+    "gecko_asset_platform_id": "super-zero"
+  },
+  {
+    "urls": [
+      "https://www.mintscan.io/kava"
+    ],
+    "contract": "Kava Contract",
+    "gecko_asset_platform_id": "kava"
+  },
+  {
+    "urls": [
+      "https://explorer.kcc.io/en/token"
+    ],
+    "contract": "Kucoin Contract",
+    "gecko_asset_platform_id": "kucoin-community-chain"
+  },
+  {
+    "urls": [
+      "https://polygonscan.com/token"
+    ],
+    "contract": "Polygon Contract",
+    "gecko_asset_platform_id": "polygon-pos"
+  },
+  {
+    "urls": [
+      "https://tracker.icon.foundation/token"
+    ],
+    "contract": "Icon Contract",
+    "gecko_asset_platform_id": "icon"
+  },
+  {
+    "urls": [
+      "https://viewblock.io/zilliqa/address"
+    ],
+    "contract": "Zilliqua Contract"
+  },
+  {
+    "urls": [
+      "https://iotexscan.io/token"
+    ],
+    "contract": "IOtex Contract",
+    "gecko_asset_platform_id": "iotex"
+  },
+  {
+    "urls": [
+      "https://cchain.explorer.avax.network/address",
+      "https://avascan.info"
+    ],
+    "contract": "Avalanche Contract",
+    "gecko_asset_platform_id": "avalanche"
+  },
+  {
+    "urls": [
+      "https://explorer.harmony.one/#/"
+    ],
+    "contract": "Harmony Contract"
+  },
+  {
+    "urls": [
+      "https://cardanoscan.io/"
+    ],
+    "contract": "Cardano Contract",
+    "gecko_asset_platform_id":"cardano"
+  },
+  {
+    "urls": [
+      "https://www.dextools.io/app/",
+      "https://v2.info.uniswap.org/token"
+    ],
+    "contract": "Uniswap Contract"
+  },
+  {
+    "urls": [
+      "https://explorer.rsk.co/address/"
+    ],
+    "contract": "Sovryn Contract"
+  }
+]

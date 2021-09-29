@@ -1,0 +1,32 @@
+--------- News
+11 nouvelles, dont : 6 token (dont 4 Ethereum, 2 Binance, 0 Tron, 0 AI)
+5 à observer
+[
+  "Coin : Flow (Dapper labs) [Collectibles & NFTs,Coinbase Ventures Portfolio,NoGitHub,Coin,New2] /currencies/flow",
+  "Coin : Mdex [NoGitHub,Coin,New2] /currencies/mdex",
+  "Coin : Natus Vincere Fan Token [Fan token,NoGitHub,Coin,New2] /currencies/natus-vincere-fan-token",
+  "Coin : Young Boys Fan Token [Fan token,NoGitHub,Coin,New2] /currencies/young-boys-fan-token",
+  "Coin : xFund [NoGitHub,Coin,New2] /currencies/xfund"
+]
+--------- 
+621 mortes, dont 18 à cette date
+[
+  "APEcoin [Token,Ethereum,Dead] /currencies/apecoin",
+  "ArdCoin [Token,Ethereum,Dead] /currencies/ardcoin",
+  "BEAR Coin [Coin,NoGitHub,Dead] /currencies/voytek-bear-coin",
+  "BIZKEY [Token,Ethereum,Dead] /currencies/bizkey",
+  "Based Money [Token,Memes,Yield farming,Ethereum,Dead] /currencies/based-money",
+  "Binance Beacon ETH [Dead,NoGitHub,Token,Binance,New2] /currencies/binance-beacon-eth",
+  "Bitball Treasure [Token,Commodities,Marketplace,Medium of Exchange,Platform,Store of Value,Services,DeFi,Ethereum,Dead] /currencies/bitball-treasure",
+  "Contribute [Token,Ethereum,Dead] /currencies/contribute",
+  "Dynamic Supply [NoGitHub,Token,Ethereum,Dead] /currencies/dynamic-supply",
+  "GermanCoin [Token,Ethereum,Dead] /currencies/germancoin",
+  "MYX Network [Token,Ethereum,Dead] /currencies/myx-network",
+  "Nexxo [Token,Ethereum,Dead] /currencies/nexxo",
+  "PayFrequent USD [Token,Dead] /currencies/payfrequent-usd-2",
+  "PlayAndLike [Token,Tron,Dead] /currencies/playandlike",
+  "StakeHound Staked Ether [Dead,NoGitHub,Token,Ethereum,New2] /currencies/stakehound-staked-ether",
+  "Trendering [Token,Ethereum,Dead] /currencies/trendering",
+  "Ultragate [Coin,Mineable,Quark,Masternodes,NoLicenceFile,Dead] /currencies/ultragate",
+  "yplutus [Yield farming,Token,Ethereum,NoLicenceFile,Dead] /currencies/yplutus"
+]

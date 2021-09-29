@@ -1,0 +1,21 @@
+--------- News
+13 nouvelles, dont : 12 token (dont 11 Ethereum, 1 Binance, 0 Tron, 0 AI, 0 Waves, 0 Beacon)
+1 à observer
+[
+  "Coin : XNODE [NoGitHub,Coin,New2] /currencies/xnode"
+]
+--------- 
+610 mortes, dont 11 à cette date
+[
+  "Agoras Tokens [Token,Dead] /currencies/agoras-tokens",
+  "Bankcoin [Coin,bankL,PeercoinL,BitcoinL,Dead] /currencies/the-bank-coin",
+  "Beaxy [Token,Ethereum,Dead] /currencies/beaxy",
+  "Bittwatt [Token,Ethereum,Dead] /currencies/bittwatt",
+  "GoldFinX [Token,Ethereum,Ethereum,Dead] /currencies/goldfinx",
+  "MINDOL [Token,Ethereum,Dead] /currencies/mindol",
+  "SF Capital [Token,Ethereum,Dead] /currencies/sf-capital",
+  "SafePost [Token,Ethereum,Dead] /currencies/safepost",
+  "Sense [Token,Platform,DApp,EOS,Dead] /currencies/sense",
+  "TKN Token [Token,Ethereum,Dead] /currencies/tkn-token",
+  "X-Block [Token,Ethereum,Dead] /currencies/x-block"
+]

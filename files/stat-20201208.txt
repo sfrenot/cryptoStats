@@ -1,0 +1,30 @@
+---------
+57 nouvelles, dont : 52 token (dont 32 Ethereum)
+25 autres
+[
+  "Coin : Beyondcoin [New2,Coin,Mineable,PoW,Scrypt] /currencies/beyondcoin",
+  "Coin : ECOC Financial Growth [New2,Defi,Coin] /currencies/ecoc-financial-growth",
+  "Coin : MobileCoin [New2,Coin] /currencies/mobilecoin",
+  "Coin : Money of Tomorrow, Today [New2,Coin] /currencies/money-of-tomorrow-today",
+  "Coin : ReddCoin [Hybrid - PoW & PoS,Script,Media,Content Creation,New2,Coin,Scrypt] /currencies/redd",
+  "Token : ARK Innovation ETF tokenized stock FTX [Tokenized Stock,Ftx,New2,Token] /currencies/ark-innovation-etf-tokenized-stock-ftx",
+  "Token : Advanced Micro Devices tokenized stock FTX [Tokenized Stock,Ftx,New2,Token] /currencies/advanced-micro-devices-tokenized-stock-ftx",
+  "Token : Alibaba tokenized stock FTX [Tokenized Stock,Ftx,New2,Token] /currencies/alibaba-tokenized-stock-ftx",
+  "Token : Amazon tokenized stock FTX [Tokenized Stock,Ftx,New2,Token] /currencies/amazon-tokenized-stock-ftx",
+  "Token : Apple tokenized stock FTX [Tokenized Stock,Ftx,New2,Token] /currencies/apple-tokenized-stock-ftx",
+  "Token : Beyond Meat tokenized stock FTX [Tokenized Stock,Ftx,New2,Token] /currencies/beyond-meat-tokenized-stock-ftx",
+  "Token : Billibilli Inc tokenized stock FTX [Tokenized Stock,Ftx,New2,Token] /currencies/billibilli-inc-tokenized-stock-ftx",
+  "Token : DEJAVE [New2,Token] /currencies/dejave",
+  "Token : Facebook tokenized stock FTX [Tokenized Stock,Ftx,New2,Token] /currencies/facebook-tokenized-stock-ftx",
+  "Token : MicroStrategy tokenized stock FTX [Tokenized Stock,Ftx,New2,Token] /currencies/microstrategy-tokenized-stock-ftx",
+  "Token : Moderna tokenized stock FTX [Tokenized Stock,Ftx,New2,Token] /currencies/moderna-tokenized-stock-ftx",
+  "Token : Netflix tokenized stock FTX [Tokenized Stock,Ftx,New2,Token] /currencies/netflix-tokenized-stock-ftx",
+  "Token : Neutrino Token [New2,Token] /currencies/neutrino-system-base-token",
+  "Token : Nio tokenized stock FTX [Tokenized Stock,Ftx,New2,Token] /currencies/nio-tokenized-stock-ftx",
+  "Token : PayPal tokenized stock FTX [Tokenized Stock,Ftx,New2,Token] /currencies/paypal-tokenized-stock-ftx",
+  "Token : Pfizer tokenized stock FTX [Tokenized Stock,Ftx,New2,Token] /currencies/pfizer-tokenized-stock-ftx",
+  "Token : Square tokenized stock FTX [Tokenized Stock,Ftx,New2,Token] /currencies/square-tokenized-stock-ftx",
+  "Token : Taiwan Semiconductor Mfg tokenized stock FTX [Tokenized Stock,Ftx,New2,Token] /currencies/taiwan-semiconductor-mfg-tokenized-stock-ftx",
+  "Token : Tesla tokenized stock FTX [Tokenized Stock,Ftx,New2,Token] /currencies/tesla-tokenized-stock-ftx",
+  "Token : sKLAY [New2,Token] /currencies/sklay"
+]

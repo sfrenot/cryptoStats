@@ -1,0 +1,60 @@
+--------- News
+39 nouvelles, dont : 34 token (dont 23 Ethereum, 7 Binance, 3 Tron)
+6 à observer
+[
+  "Coin : Dark [Coin,New2] /currencies/darkpay",
+  "Coin : Dequant [Coin,New2] /currencies/dequant",
+  "Coin : Electra Protocol [PoS,Medium of Exchange,Logistics,Atomic Swaps,Coin,New2] /currencies/electra-protocol",
+  "Coin : Mantis [Coin,New2] /currencies/mantis",
+  "Coin : Woodcoin [Mineable,PoW,Coin,New2] /currencies/woodcoin",
+  "Token : Serum Ecosystem Token [NoGitHub,Token,Solana,New2] /currencies/serum-ecosystem-token"
+]
+--------- 
+791 mortes, dont 45 à cette date
+[
+  "1Million Token [Token,Ethereum,Dead] /currencies/1million-token",
+  "ACE [Token,EOS,Dead] /currencies/ace-entertainment",
+  "Artis Turba [Token,Ethereum,Dead] /currencies/artis-turba",
+  "Behodler [Token,Ethereum,Dead] /currencies/beholder",
+  "Bytus [Token,Ethereum,Dead] /currencies/bytus",
+  "Capital.Finance [Token,Ethereum,NoLicenceFile,Dead] /currencies/capital-finance",
+  "Chalice Finance [Token,Ethereum,NoLicenceFile,Dead] /currencies/chalice-finance",
+  "DeepCloud AI [Token,Ethereum,Dead] /currencies/deepcloud-ai",
+  "Desire [Coin,Mineable,NoGitHub,Dead] /currencies/desire",
+  "Dfinance [Token,Ethereum,Dead] /currencies/dfinance",
+  "Entherfound [Token,Ethereum,Dead] /currencies/entherfound",
+  "Ethereum eRush [Token,Ethereum,Dead] /currencies/ethereum-erush",
+  "GINcoin [Coin,Mineable,NoLicenceFile,Dead] /currencies/gincoin",
+  "HoldToWin [Token,Ethereum,Dead] /currencies/holdtowin",
+  "Hubi Token [Token,Ethereum,Dead] /currencies/hubi-token",
+  "Hype [Dead,Token,Ethereum,New2] /currencies/hype",
+  "Krios [Token,Ethereum,Dead] /currencies/krios",
+  "Libertas Token [Token,Ethereum,Dead] /currencies/libertas-token",
+  "Load Network [Token,Ethereum,Ethereum,Dead] /currencies/load-network",
+  "Matrexcoin [Token,Ethereum,Dead] /currencies/matrexcoin",
+  "Mirrored Alibaba [Tokenized Stock,Token,Ethereum,Mirror,NoLicenceFile,Dead] /currencies/mirrored-alibaba",
+  "Mirrored iShares Silver Trust [Tokenized Stock,Token,Ethereum,Mirror,NoLicenceFile,Dead] /currencies/mirrored-ishares-silver-trust",
+  "MyTVchain [Token,Ethereum,Dead] /currencies/mytvchain",
+  "Niobio Cash [Coin,Mineable,NoLicenceFile,Dead] /currencies/niobio-cash",
+  "PIRANHAS [Token,Ethereum,NoLicenceFile,Dead] /currencies/piranhas",
+  "Ripple Alpha [Coin,NoLicenceFile,Dead] /currencies/ripple-alpha",
+  "Rizen Coin [Token,Ethereum,NoLicenceFile,Dead] /currencies/rizen-coin",
+  "SovranoCoin [Coin,BitcoinL,DashL,PeercoinL,NovacoinL,BlackCoinL,SOVRANOCOINL,Dead] /currencies/sovranocoin",
+  "SpokLottery [Token,Tron,Dead] /currencies/spoklottery",
+  "Squirrel Finance [Token,Ethereum,Dead] /currencies/squirrel-finance",
+  "Tacos [Token,Ethereum,Dead] /currencies/tacos",
+  "Tepleton [Token,Ethereum,Dead] /currencies/tepleton",
+  "TokenSwap [Token,Ethereum,Dead] /currencies/tokenswap",
+  "Tourist Token [Token,Ethereum,Dead] /currencies/tourist-token",
+  "Twinkle [Token,Ethereum,Dead] /currencies/twinkle",
+  "Universal Currency [Coin,Mineable,Hybrid - PoW & PoS,SHA-256,NoLicenceFile,Dead] /currencies/universal-currency",
+  "Utopia Genesis Foundation [NoGitHub,Token,Ethereum,Dead] /currencies/utopia-genesis-foundation",
+  "Venus DAI [Dead,NoGitHub,Token,Binance,New2] /currencies/venus-dai",
+  "Venus Filecoin [Dead,NoGitHub,Token,Binance,New2] /currencies/venus-filecoin",
+  "Volts.Finance [Token,DeFi,Ethereum,Dead] /currencies/volts-finance",
+  "WingShop [Token,Ethereum,Dead] /currencies/wingshop",
+  "Yearn Land [Token,Ethereum,Dead] /currencies/yearn-land",
+  "Ztranzit Coin [Token,Tron,Dead] /currencies/ztranzit-coin",
+  "pulltherug.finance [Token,Ethereum,Dead] /currencies/rugz",
+  "yfBeta [Token,Ethereum,Dead] /currencies/yfbeta"
+]

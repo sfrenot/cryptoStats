@@ -1,0 +1,17 @@
+--------- News
+9 nouvelles, dont : 8 token (dont 5 Ethereum, 2 Binance, 0 Tron, 0 AI, 0 Waves, 0 Beacon)
+2 à observer
+[
+  "Coin : NFTX Hashmasks Index [NoGitHub,Coin,New2] /currencies/nftx-hashmasks-index",
+  "Token : Honey [Decentralized exchange,AMM,Governance,Dead,Token,Other Contract,Hive,New2] /currencies/honey-token"
+]
+--------- 
+593 mortes, dont 6 à cette date
+[
+  "CHADS VC [Token,Collectibles & NFTs,Ethereum,Dead] /currencies/chads-vc",
+  "GGDApp [NoGitHub,Token,Ethereum,Dead] /currencies/ggdapp",
+  "Honey [Decentralized exchange,AMM,Governance,Dead,Token,Other Contract,Hive,New2] /currencies/honey-token",
+  "Jade Currency [Token,Ethereum,Dead] /currencies/jade-currency",
+  "MegaCryptoPolis [Token,Ethereum,Dead] /currencies/megacryptopolis",
+  "Rublix [Token,Ethereum,Dead] /currencies/rublix"
+]

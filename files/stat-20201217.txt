@@ -1,0 +1,16 @@
+--------- News
+11 nouvelles, dont : 10 token (dont 10 Ethereum, 0 Binance)
+1 à observer
+[
+  "Coin : Intelligence Quickly Chain [New2,Coin] /currencies/intelligence-quickly-chain"
+]
+--------- 
+759 mortes, dont 6 à cette date
+[
+  "BAEPAY [Token,Ethereum,Dead] /currencies/baepay",
+  "GOD KIMCHI [Token,Ethereum,Dead] /currencies/god-kimchi",
+  "Mirrored Apple [Tokenized Stock,Token,Ethereum,Mirror,NoLicenceFile,Dead] /currencies/mirrored-apple",
+  "Neeo [Token,Dead] /currencies/neeo",
+  "PROUD Money [Coin,Mineable,Hybrid - PoW & PoS,X11,GAY CoinL,NovacoinL,PeercoinL,BitcoinL,Dead] /currencies/proud-money",
+  "Uptrennd [Token,Ethereum,Dead] /currencies/uptrennd"
+]

@@ -1,0 +1,20 @@
+--------- News
+10 nouvelles, dont : 10 token (dont 4 Ethereum, 2 Binance, 0 Tron, 0 AI)
+4 à observer
+[
+  "Token : AMC Entertainment Holdings tokenized stock FTX [New2,Ftx,Tokenized Stock,NoGitHub,Token] /currencies/amc-entertainment-holdings-tokenized-stock-ftx",
+  "Token : BlackBerry tokenized stock FTX [New2,Tokenized Stock,Ftx,NoGitHub,Token] /currencies/blackberry-tokenized-stock-ftx",
+  "Token : GameStop tokenized stock FTX [New2,Tokenized Stock,Ftx,NoGitHub,Token] /currencies/gamestop-tokenized-stock-ftx",
+  "Token : Grayscale Bitcoin Trust tokenized stock FTX [New2,Tokenized Stock,Ftx,NoGitHub,Token] /currencies/grayscale-bitcoin-trust-tokenized-stock-ftx"
+]
+--------- 
+588 mortes, dont 7 à cette date
+[
+  "Change [Token,Asset management,Payments,Wallet,Ethereum,Dead] /currencies/change",
+  "Chronologic [Token,Ethereum,Dead] /currencies/chronologic",
+  "CoinPoker [Token,Gambling,Ethereum,Dead] /currencies/coinpoker",
+  "Dash Cash [Coin,NoGitHub,Dead] /currencies/dash-cash",
+  "IBStoken [Token,Ethereum,Dead] /currencies/ibstoken",
+  "PiSwap Token [Token,Ethereum,Dead] /currencies/piswap-token",
+  "Smol [Token,Ethereum,Dead] /currencies/smol"
+]

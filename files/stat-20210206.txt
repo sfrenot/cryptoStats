@@ -1,0 +1,16 @@
+--------- News
+5 nouvelles, dont : 5 token (dont 5 Ethereum, 0 Binance, 0 Tron, 0 AI, 0 Waves, 0 Beacon)
+0 à observer
+[]
+--------- 
+609 mortes, dont 8 à cette date
+[
+  "Balloon-X [Token,Ethereum,Dead] /currencies/balloon-x",
+  "Bithao [Token,Ethereum,Dead] /currencies/bithao",
+  "BonezYard [Token,Ethereum,Dead] /currencies/bonezyard",
+  "Folder Protocol [Token,Ethereum,NoLicenceFile,Dead] /currencies/folder-protocol",
+  "Mobile Crypto Pay Coin [Coin,BitcoinL,DashL,MCPCoinL,Dead] /currencies/mobile-crypto-pay-coin",
+  "NTON [Token,Ethereum,Dead] /currencies/nton",
+  "VARC [Token,Ethereum,Dead] /currencies/varc",
+  "junca Cash [Token,Ethereum,Dead] /currencies/junca-cash"
+]

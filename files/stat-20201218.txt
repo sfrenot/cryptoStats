@@ -1,0 +1,34 @@
+--------- News
+12 nouvelles, dont : 12 token (dont 5 Ethereum, 5 Binance)
+2 à observer
+[
+  "Token : FIRST INTERCHANGEABLE TOKEN [Tron,Dead,New2,Token] /currencies/first-interchangeable-token",
+  "Token : governance ZIL [New2,Token] /currencies/governance-zil"
+]
+--------- 
+814 mortes, dont 23 à cette date
+[
+  "ALQO [Coin,Masternodes,BitcoinL,DashL,Dead] /currencies/alqo",
+  "APR Coin [Coin,Mineable,NoLicenceFile,Dead] /currencies/apr-coin",
+  "Adshares [Coin,Marketing,NoLicenceFile,Dead] /currencies/adshares",
+  "Axion [Token,Ethereum,Dead] /currencies/axion",
+  "BCHDOWN [Token,Binance,Dead] /currencies/bchdown",
+  "BCHUP [Token,Binance,Dead] /currencies/bchup",
+  "BTC Lite [Token,Ethereum,Dead] /currencies/btc-lite",
+  "BigGame [Token,EOS,Dead] /currencies/biggame",
+  "Binance GBP Stable Coin [Token,Stablecoin,Stablecoin - Asset-Backed,Binance,Ethereum,Dead] /currencies/binance-gbp-stable-coin",
+  "Bolivarcoin [Coin,Mineable,PoW,X11,NoLicenceFile,Dead] /currencies/bolivarcoin",
+  "Castle [Coin,Mineable,BitcoinL,DashL,PIVXL,Dead] /currencies/castle",
+  "Cord DeFi [Token,Yield farming,DeFi,Ethereum,Dead] /currencies/cord-defi",
+  "Cream [Coin,Mineable,BitcoinL,Dead] /currencies/cream",
+  "DeviantCoin [Coin,Mineable,BitcoinL,DashL,PIVXL,Dead] /currencies/deviantcoin",
+  "Emerald Crypto [Coin,Mineable,PoW,Scrypt,BitcoinL,Dead] /currencies/emerald",
+  "FIRST INTERCHANGEABLE TOKEN [Tron,Dead,New2,Token] /currencies/first-interchangeable-token",
+  "Facebook tokenized stock Bittrex [Tokenized Stock,Bittrex,Token,Dead] /currencies/facebook-tokenized-stock-bittrex",
+  "Friends With Benefits [Token,Ethereum,Dead] /currencies/friends-with-benefits",
+  "Kemacoin [Coin,BitcoinL,DashL,PIVXL,KemaL,Dead] /currencies/kemacoin",
+  "MarteXcoin [Coin,Mineable,Hybrid - PoW & PoS,X13,BitcoinL,MarteX CoreL,Dead] /currencies/martexcoin",
+  "NEOBITCOIN [Coin,BitcoinL,DashL,PIVXL,NeoBitcoinL,Dead] /currencies/neobitcoin",
+  "Uniform Fiscal Object [Coin,Mineable,PoW,NeoScrypt,BitcoinL,Dead] /currencies/uniform-fiscal-object",
+  "Vampire Protocol [Token,Ethereum,Dead] /currencies/vampire-protocol"
+]

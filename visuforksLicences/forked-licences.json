@@ -1,0 +1,1132 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "Bitcoin",
+      "children": [
+        {
+          "name": "Bitcoin 2",
+          "children": []
+        },
+        {
+          "name": "Bitcoin Cash",
+          "children": [
+            {
+              "name": "MYCE",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Bitcoin Diamond",
+          "children": []
+        },
+        {
+          "name": "Bitcoin Gold",
+          "children": []
+        },
+        {
+          "name": "Bitcoin Vault",
+          "children": []
+        },
+        {
+          "name": "BitcoinZ",
+          "children": []
+        },
+        {
+          "name": "Bitcore",
+          "children": []
+        },
+        {
+          "name": "Bitgesell",
+          "children": []
+        },
+        {
+          "name": "Bitradio",
+          "children": []
+        },
+        {
+          "name": "Bitzeny",
+          "children": []
+        },
+        {
+          "name": "Block-Logic",
+          "children": []
+        },
+        {
+          "name": "CaluraCoin",
+          "children": []
+        },
+        {
+          "name": "Cashbery Coin",
+          "children": []
+        },
+        {
+          "name": "Cicoin",
+          "children": []
+        },
+        {
+          "name": "ColossusXT",
+          "children": []
+        },
+        {
+          "name": "Commercium",
+          "children": []
+        },
+        {
+          "name": "Compound Coin",
+          "children": []
+        },
+        {
+          "name": "Counos X",
+          "children": []
+        },
+        {
+          "name": "Crypto Sports",
+          "children": []
+        },
+        {
+          "name": "Curecoin",
+          "children": []
+        },
+        {
+          "name": "DECOIN",
+          "children": []
+        },
+        {
+          "name": "DarkPay",
+          "children": []
+        },
+        {
+          "name": "Dash",
+          "children": [
+            {
+              "name": "Diamond",
+              "children": []
+            },
+            {
+              "name": "Digiwage",
+              "children": []
+            },
+            {
+              "name": "Documentchain",
+              "children": []
+            },
+            {
+              "name": "ESBC",
+              "children": []
+            },
+            {
+              "name": "EUNO",
+              "children": []
+            },
+            {
+              "name": "ExclusiveCoin",
+              "children": []
+            },
+            {
+              "name": "Flits",
+              "children": []
+            },
+            {
+              "name": "French Digital Reserve",
+              "children": []
+            },
+            {
+              "name": "Giant",
+              "children": []
+            },
+            {
+              "name": "GoByte",
+              "children": []
+            },
+            {
+              "name": "Gold Poker",
+              "children": []
+            },
+            {
+              "name": "Guapcoin",
+              "children": []
+            },
+            {
+              "name": "Harcomia",
+              "children": []
+            },
+            {
+              "name": "Historia",
+              "children": []
+            },
+            {
+              "name": "IQ.cash",
+              "children": []
+            },
+            {
+              "name": "ImageCash",
+              "children": []
+            },
+            {
+              "name": "ImageCoin",
+              "children": []
+            },
+            {
+              "name": "Kalkulus",
+              "children": []
+            },
+            {
+              "name": "Largo Coin",
+              "children": []
+            },
+            {
+              "name": "Lobstex",
+              "children": []
+            },
+            {
+              "name": "MYCE",
+              "children": []
+            },
+            {
+              "name": "Martkist",
+              "children": []
+            },
+            {
+              "name": "Memetic / PepeCoin",
+              "children": []
+            },
+            {
+              "name": "Mirai",
+              "children": []
+            },
+            {
+              "name": "MktCoin",
+              "children": []
+            },
+            {
+              "name": "Mobile Crypto Pay Coin",
+              "children": []
+            },
+            {
+              "name": "MonaCoin",
+              "children": []
+            },
+            {
+              "name": "Monkey Project",
+              "children": []
+            },
+            {
+              "name": "NewYork Exchange",
+              "children": []
+            },
+            {
+              "name": "PEPS Coin",
+              "children": []
+            },
+            {
+              "name": "PIVX",
+              "children": []
+            },
+            {
+              "name": "Phore",
+              "children": []
+            },
+            {
+              "name": "Pyrk",
+              "children": []
+            },
+            {
+              "name": "Ragnarok",
+              "children": []
+            },
+            {
+              "name": "Rapids",
+              "children": []
+            },
+            {
+              "name": "SCRIV NETWORK",
+              "children": []
+            },
+            {
+              "name": "SIBCoin",
+              "children": []
+            },
+            {
+              "name": "SovranoCoin",
+              "children": []
+            },
+            {
+              "name": "StakeCubeCoin",
+              "children": []
+            },
+            {
+              "name": "Streamit Coin",
+              "children": []
+            },
+            {
+              "name": "Teloscoin",
+              "children": []
+            },
+            {
+              "name": "Trittium",
+              "children": []
+            },
+            {
+              "name": "Vitae",
+              "children": []
+            },
+            {
+              "name": "XDNA",
+              "children": []
+            },
+            {
+              "name": "Zealium",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "DeFiChain",
+          "children": []
+        },
+        {
+          "name": "DeepOnion",
+          "children": []
+        },
+        {
+          "name": "Deutsche eMark",
+          "children": []
+        },
+        {
+          "name": "Diamond",
+          "children": []
+        },
+        {
+          "name": "Digiwage",
+          "children": []
+        },
+        {
+          "name": "Documentchain",
+          "children": []
+        },
+        {
+          "name": "Dogecoin",
+          "children": []
+        },
+        {
+          "name": "ESBC",
+          "children": []
+        },
+        {
+          "name": "EUNO",
+          "children": []
+        },
+        {
+          "name": "Einsteinium",
+          "children": []
+        },
+        {
+          "name": "Emrals",
+          "children": []
+        },
+        {
+          "name": "ExclusiveCoin",
+          "children": []
+        },
+        {
+          "name": "FLO",
+          "children": []
+        },
+        {
+          "name": "FantasyGold",
+          "children": []
+        },
+        {
+          "name": "Feathercoin",
+          "children": []
+        },
+        {
+          "name": "Firo",
+          "children": []
+        },
+        {
+          "name": "Flits",
+          "children": []
+        },
+        {
+          "name": "Freecash",
+          "children": []
+        },
+        {
+          "name": "French Digital Reserve",
+          "children": []
+        },
+        {
+          "name": "Garlicoin",
+          "children": []
+        },
+        {
+          "name": "Giant",
+          "children": []
+        },
+        {
+          "name": "GlobalBoost-Y",
+          "children": []
+        },
+        {
+          "name": "GlobalToken",
+          "children": []
+        },
+        {
+          "name": "GoByte",
+          "children": []
+        },
+        {
+          "name": "Gold Poker",
+          "children": []
+        },
+        {
+          "name": "GridCoin",
+          "children": []
+        },
+        {
+          "name": "Guapcoin",
+          "children": []
+        },
+        {
+          "name": "Hanacoin",
+          "children": []
+        },
+        {
+          "name": "Harcomia",
+          "children": []
+        },
+        {
+          "name": "HempCoin",
+          "children": []
+        },
+        {
+          "name": "Historia",
+          "children": []
+        },
+        {
+          "name": "I/O Coin",
+          "children": []
+        },
+        {
+          "name": "IQ.cash",
+          "children": []
+        },
+        {
+          "name": "ImageCash",
+          "children": []
+        },
+        {
+          "name": "ImageCoin",
+          "children": []
+        },
+        {
+          "name": "Index Chain",
+          "children": []
+        },
+        {
+          "name": "Infinitecoin",
+          "children": []
+        },
+        {
+          "name": "Kalkulus",
+          "children": []
+        },
+        {
+          "name": "LONG COIN",
+          "children": []
+        },
+        {
+          "name": "Largo Coin",
+          "children": []
+        },
+        {
+          "name": "Litecoin",
+          "children": [
+            {
+              "name": "Lynx",
+              "children": []
+            },
+            {
+              "name": "Memetic / PepeCoin",
+              "children": []
+            },
+            {
+              "name": "MonaCoin",
+              "children": []
+            },
+            {
+              "name": "PopularCoin",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Litecoin Plus",
+          "children": []
+        },
+        {
+          "name": "Lobstex",
+          "children": []
+        },
+        {
+          "name": "Lynx",
+          "children": []
+        },
+        {
+          "name": "MMOCoin",
+          "children": []
+        },
+        {
+          "name": "MYCE",
+          "children": []
+        },
+        {
+          "name": "Martkist",
+          "children": []
+        },
+        {
+          "name": "Megacoin",
+          "children": []
+        },
+        {
+          "name": "Memetic / PepeCoin",
+          "children": []
+        },
+        {
+          "name": "Mirai",
+          "children": []
+        },
+        {
+          "name": "MktCoin",
+          "children": []
+        },
+        {
+          "name": "Mobile Crypto Pay Coin",
+          "children": []
+        },
+        {
+          "name": "MonaCoin",
+          "children": []
+        },
+        {
+          "name": "Money of Tomorrow, Today",
+          "children": []
+        },
+        {
+          "name": "Monkey Project",
+          "children": []
+        },
+        {
+          "name": "Myriad",
+          "children": []
+        },
+        {
+          "name": "NIX",
+          "children": []
+        },
+        {
+          "name": "Nasdacoin",
+          "children": []
+        },
+        {
+          "name": "NewYork Exchange",
+          "children": []
+        },
+        {
+          "name": "Noir",
+          "children": []
+        },
+        {
+          "name": "ODUWA",
+          "children": []
+        },
+        {
+          "name": "OKCash",
+          "children": []
+        },
+        {
+          "name": "PEPS Coin",
+          "children": []
+        },
+        {
+          "name": "PIVX",
+          "children": []
+        },
+        {
+          "name": "Pandacoin",
+          "children": []
+        },
+        {
+          "name": "Phore",
+          "children": []
+        },
+        {
+          "name": "Pigeoncoin",
+          "children": []
+        },
+        {
+          "name": "PlusOneCoin",
+          "children": []
+        },
+        {
+          "name": "Polis",
+          "children": []
+        },
+        {
+          "name": "PopularCoin",
+          "children": []
+        },
+        {
+          "name": "Primecoin",
+          "children": []
+        },
+        {
+          "name": "PutinCoin",
+          "children": []
+        },
+        {
+          "name": "Pyrk",
+          "children": []
+        },
+        {
+          "name": "Qtum",
+          "children": []
+        },
+        {
+          "name": "Quasarcoin",
+          "children": []
+        },
+        {
+          "name": "Radium",
+          "children": []
+        },
+        {
+          "name": "Ragnarok",
+          "children": []
+        },
+        {
+          "name": "Rapids",
+          "children": []
+        },
+        {
+          "name": "Ravencoin",
+          "children": []
+        },
+        {
+          "name": "ReddCoin",
+          "children": []
+        },
+        {
+          "name": "Resistance",
+          "children": []
+        },
+        {
+          "name": "SCRIV NETWORK",
+          "children": []
+        },
+        {
+          "name": "SHIELD",
+          "children": []
+        },
+        {
+          "name": "SIBCoin",
+          "children": []
+        },
+        {
+          "name": "SONO",
+          "children": []
+        },
+        {
+          "name": "SafeCoin",
+          "children": []
+        },
+        {
+          "name": "SaluS",
+          "children": []
+        },
+        {
+          "name": "SmartCash",
+          "children": []
+        },
+        {
+          "name": "SolarCoin",
+          "children": []
+        },
+        {
+          "name": "SorachanCoin",
+          "children": []
+        },
+        {
+          "name": "SovranoCoin",
+          "children": []
+        },
+        {
+          "name": "Sphere",
+          "children": []
+        },
+        {
+          "name": "StakeCubeCoin",
+          "children": []
+        },
+        {
+          "name": "Stakenet",
+          "children": []
+        },
+        {
+          "name": "Stealth",
+          "children": []
+        },
+        {
+          "name": "Streamit Coin",
+          "children": []
+        },
+        {
+          "name": "Sugarchain",
+          "children": []
+        },
+        {
+          "name": "Super Bitcoin",
+          "children": []
+        },
+        {
+          "name": "TENT",
+          "children": []
+        },
+        {
+          "name": "Teloscoin",
+          "children": []
+        },
+        {
+          "name": "Titan Coin",
+          "children": []
+        },
+        {
+          "name": "Trittium",
+          "children": []
+        },
+        {
+          "name": "Unify",
+          "children": []
+        },
+        {
+          "name": "Unobtanium",
+          "children": []
+        },
+        {
+          "name": "V-Dimension",
+          "children": []
+        },
+        {
+          "name": "VeriCoin",
+          "children": []
+        },
+        {
+          "name": "Vertcoin",
+          "children": []
+        },
+        {
+          "name": "VerusCoin",
+          "children": []
+        },
+        {
+          "name": "Viacoin",
+          "children": []
+        },
+        {
+          "name": "Vidulum",
+          "children": []
+        },
+        {
+          "name": "VinDax Coin",
+          "children": []
+        },
+        {
+          "name": "Vitae",
+          "children": []
+        },
+        {
+          "name": "XDNA",
+          "children": []
+        },
+        {
+          "name": "XGOX",
+          "children": []
+        },
+        {
+          "name": "YENTEN",
+          "children": []
+        },
+        {
+          "name": "Ycash",
+          "children": []
+        },
+        {
+          "name": "ZClassic",
+          "children": []
+        },
+        {
+          "name": "Zcash",
+          "children": [
+            {
+              "name": "Flux",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Zealium",
+          "children": []
+        },
+        {
+          "name": "Flux",
+          "children": []
+        },
+        {
+          "name": "Zetacoin",
+          "children": []
+        },
+        {
+          "name": "eXPerience Chain",
+          "children": []
+        },
+        {
+          "name": "gAsp",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "BlackCoin",
+      "children": [
+        {
+          "name": "EUNO",
+          "children": []
+        },
+        {
+          "name": "Flits",
+          "children": []
+        },
+        {
+          "name": "GridCoin",
+          "children": []
+        },
+        {
+          "name": "Guapcoin",
+          "children": []
+        },
+        {
+          "name": "Memetic / PepeCoin",
+          "children": []
+        },
+        {
+          "name": "OKCash",
+          "children": []
+        },
+        {
+          "name": "PIVX",
+          "children": [
+            {
+              "name": "Phore",
+              "children": [
+                {
+                  "name": "StakeCubeCoin",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Ragnarok",
+              "children": []
+            },
+            {
+              "name": "Rapids",
+              "children": []
+            },
+            {
+              "name": "StakeCubeCoin",
+              "children": []
+            },
+            {
+              "name": "Streamit Coin",
+              "children": []
+            },
+            {
+              "name": "Teloscoin",
+              "children": []
+            },
+            {
+              "name": "Trittium",
+              "children": []
+            },
+            {
+              "name": "Vitae",
+              "children": []
+            },
+            {
+              "name": "XDNA",
+              "children": []
+            },
+            {
+              "name": "Zealium",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "SONO",
+          "children": []
+        },
+        {
+          "name": "SaluS",
+          "children": []
+        },
+        {
+          "name": "SovranoCoin",
+          "children": []
+        },
+        {
+          "name": "VeriCoin",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CloakCoin",
+      "children": [
+        {
+          "name": "Stealth",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Compound",
+      "children": [
+        {
+          "name": "Compound Coin",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Darkcoin",
+      "children": [
+        {
+          "name": "Memetic / PepeCoin",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Denarius",
+      "children": []
+    },
+    {
+      "name": "DigiByte",
+      "children": [
+        {
+          "name": "Memetic / PepeCoin",
+          "children": []
+        },
+        {
+          "name": "MonaCoin",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Emercoin",
+      "children": [
+        {
+          "name": "Nasdacoin",
+          "children": []
+        },
+        {
+          "name": "SorachanCoin",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Komodo",
+      "children": [
+        {
+          "name": "SafeCoin",
+          "children": []
+        },
+        {
+          "name": "VerusCoin",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MonetaryUnit",
+      "children": [
+        {
+          "name": "StakeCubeCoin",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NavCoin",
+      "children": []
+    },
+    {
+      "name": "NetCoin",
+      "children": []
+    },
+    {
+      "name": "Novacoin",
+      "children": [
+        {
+          "name": "ODUWA",
+          "children": []
+        },
+        {
+          "name": "OKCash",
+          "children": []
+        },
+        {
+          "name": "PIVX",
+          "children": []
+        },
+        {
+          "name": "Pandacoin",
+          "children": []
+        },
+        {
+          "name": "PopularCoin",
+          "children": []
+        },
+        {
+          "name": "PutinCoin",
+          "children": []
+        },
+        {
+          "name": "Radium",
+          "children": []
+        },
+        {
+          "name": "SONO",
+          "children": []
+        },
+        {
+          "name": "SaluS",
+          "children": []
+        },
+        {
+          "name": "SorachanCoin",
+          "children": []
+        },
+        {
+          "name": "SovranoCoin",
+          "children": []
+        },
+        {
+          "name": "Sphere",
+          "children": []
+        },
+        {
+          "name": "Stealth",
+          "children": []
+        },
+        {
+          "name": "VeriCoin",
+          "children": []
+        },
+        {
+          "name": "VinDax Coin",
+          "children": []
+        },
+        {
+          "name": "XGOX",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Peercoin",
+      "children": [
+        {
+          "name": "PopularCoin",
+          "children": []
+        },
+        {
+          "name": "Primecoin",
+          "children": []
+        },
+        {
+          "name": "PutinCoin",
+          "children": []
+        },
+        {
+          "name": "Radium",
+          "children": []
+        },
+        {
+          "name": "SONO",
+          "children": []
+        },
+        {
+          "name": "SaluS",
+          "children": []
+        },
+        {
+          "name": "SorachanCoin",
+          "children": []
+        },
+        {
+          "name": "SovranoCoin",
+          "children": []
+        },
+        {
+          "name": "Sphere",
+          "children": []
+        },
+        {
+          "name": "Stealth",
+          "children": []
+        },
+        {
+          "name": "VeriCoin",
+          "children": []
+        },
+        {
+          "name": "VinDax Coin",
+          "children": []
+        },
+        {
+          "name": "XGOX",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Ritocoin",
+      "children": [
+        {
+          "name": "Titan Coin",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SnowGem",
+      "children": [
+        {
+          "name": "Vidulum",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TransferCoin",
+      "children": []
+    }
+  ]
+}

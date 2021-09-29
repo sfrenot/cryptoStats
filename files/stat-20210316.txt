@@ -1,0 +1,10 @@
+--------- News
+22 nouvelles, dont : 22 token (dont Binance Contract: 9, Ethereum Contract: 12, xDai Contract: 1)
+0 à observer
+[]
+--------- 
+738 mortes, dont 2 à cette date
+[
+  "Elysian [Token,Ethereum Contract,Dead] /currencies/elysian",
+  "Jobchain [Token,NoGitHub,Ethereum Contract,Dead] /currencies/jobchain"
+]

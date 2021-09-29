@@ -1,0 +1,25 @@
+--------- News
+96 nouvelles, dont : 93 token (dont Binance Contract: 33, Chiliz Contract: 3, Ethereum Contract: 49, IOST Contract: 1, Solana Contract: 1, Stellar Contract: 1, Terra Contract: 1, Tron Contract: 2, xDai Contract: 1)
+3 à observer
+[
+  "Coin : Alliance Fan Token [Fan token,Dead,NoGitHub,Coin,New2] /currencies/alliance-fan-token",
+  "Coin : Evrice [Coin,New2] /currencies/evrice",
+  "Coin : Scholarship Coin [Coin,New2] /currencies/scholarship-coin"
+]
+--------- 
+733 mortes, dont 13 à cette date
+[
+  "ARK Innovation ETF tokenized stock FTX [Tokenized Stock,Ftx,Token,Dead] /currencies/ark-innovation-etf-tokenized-stock-ftx",
+  "Advanced Micro Devices tokenized stock FTX [Tokenized Stock,Ftx,Token,Dead] /currencies/advanced-micro-devices-tokenized-stock-ftx",
+  "Airbnb tokenized stock FTX [Tokenized Stock,Ftx,Token,Dead] /currencies/airbnb-tokenized-stock-ftx",
+  "Alibaba tokenized stock Bittrex [Tokenized Stock,Bittrex,Token,Dead] /currencies/alibaba-tokenized-stock-bittrex",
+  "Alibaba tokenized stock FTX [Tokenized Stock,Ftx,Token,Dead] /currencies/alibaba-tokenized-stock-ftx",
+  "BioNTech tokenized stock Bittrex [Tokenized Stock,Bittrex,Token,Dead] /currencies/biontech-tokenized-stock-bittrex",
+  "Bitcicoin [Coin,NoGitHub,Dead] /currencies/bitcicoin",
+  "CAPITAL X CELL [Coin,NoLicenceFile,Dead] /currencies/capital-x-cell",
+  "Cream ETH 2 [ETH 2.0 Staking,Dead,Token,Ethereum Contract,New2] /currencies/cream-eth2",
+  "Crypto Holding Frank Token [Token,NoGitHub,Ethereum Contract,Dead] /currencies/crypto-holding-frank-token",
+  "KVANT [Coin,NoLicenceFile,Dead] /currencies/kvant",
+  "McBase Finance [Rebase,Token,Binance Contract,Other Contract,Dead] /currencies/mcbase-finance",
+  "Pfizer tokenized stock FTX [Tokenized Stock,Ftx,Token,Dead] /currencies/pfizer-tokenized-stock-ftx"
+]

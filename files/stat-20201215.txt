@@ -1,0 +1,28 @@
+--------- News
+17 nouvelles, dont : 17 token (dont 14 Ethereum, 1 Binance)
+2 à observer
+[
+  "Token : Mineplex [New2,Token] /currencies/mineplex",
+  "Token : Richlab Token [New2,Token,Tron] /currencies/richlab-token"
+]
+--------- 
+829 mortes, dont 17 à cette date
+[
+  "Bankroll Vault [Token,Ethereum,Dead] /currencies/bankroll-vault",
+  "Beyond Meat Inc tokenized stock Bittrex [Tokenized Stock,Bittrex,Token,Dead] /currencies/beyond-meat-inc-tokenized-stock-bittrex",
+  "Big Bang Game Coin [Token,Ethereum,Dead] /currencies/big-bang-game-coin",
+  "DeFi Omega [Token,Ethereum,Dead] /currencies/defi-omega",
+  "EverGreenCoin [Coin,Mineable,Hybrid - PoW & PoS,X15,EverGreenCoinL,Dead] /currencies/evergreencoin",
+  "FUTURAX [Token,Ethereum,Dead] /currencies/futurax",
+  "Impleum [Coin,Mineable,NoLicenceFile,Dead] /currencies/impleum",
+  "Junsonmingchncoin [Coin,JunsonMingChanCoinL,NovacoinL,PeercoinL,BitcoinL,Dead] /currencies/junsonmingchncoin",
+  "Ndau [Coin,NoGitHub,Dead] /currencies/ndau",
+  "Netkoin [Token,Ethereum,Dead] /currencies/netkoin",
+  "RAKSUR [Token,Ethereum,Dead] /currencies/raksur",
+  "SBank [Token,Ethereum,Dead] /currencies/sbank",
+  "Smpl foundation [Token,Ethereum,Dead] /currencies/smplfoundation",
+  "UNII Finance [Token,Ethereum,Dead] /currencies/unii-finance",
+  "Veles [Coin,External,BitcoinL,DashL,TalkcoinL,ZcoinL,PIVXL,FxTC CoreL,VelesL,Dead] /currencies/veles",
+  "Venus DOT [Dead,New2,Token,venus.io,Binance] /currencies/venus-dot",
+  "wave edu coin [Token,Dead] /currencies/wave-edu-coin"
+]

@@ -1,0 +1,10 @@
+--------- News
+49 nouvelles, dont : 47 token (dont Binance Contract: 24, Ethereum Contract: 21, Huobi Contract: 2, Tron Contract: 1, Waves Contract: 1)
+2 à observer
+[
+  "Coin : Pastel [Coin,New2] /currencies/pastel",
+  "Coin : Roxe Cash [Coin,New2] /currencies/roxe-cash"
+]
+--------- 
+0 mortes, dont 0 à cette date
+[]

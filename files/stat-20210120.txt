@@ -1,0 +1,27 @@
+--------- News
+7 nouvelles, dont : 6 token (dont 6 Ethereum, 0 Binance, 0 Tron, 0 AI)
+1 à observer
+[
+  "Coin : Zer-Dex [Coin,New2] /currencies/zer-dex"
+]
+--------- 
+757 mortes, dont 17 à cette date
+[
+  "Bat True Share [NoGitHub,Token,Binance,Dead] /currencies/bat-true-share",
+  "Bit World Token [Token,Dead] /currencies/bw-token",
+  "ColossusXT [Coin,Mineable,BitcoinL,DashL,PIVXL,Dead] /currencies/colossusxt",
+  "Debitum [Token,Asset management,Crowdfunding,Ethereum,Dead] /currencies/debitum-network",
+  "Dragonbit [Token,Ethereum,Dead] /currencies/dragonbit",
+  "FLIP [Token,Ethereum,Dead] /currencies/flip",
+  "KYSC Token [Token,Ethereum,Dead] /currencies/kysc-token",
+  "Kuende [Token,Ethereum,Dead] /currencies/kuende",
+  "Mirrored United States Oil Fund [Tokenized Stock,Token,Ethereum,Mirror,NoLicenceFile,Dead] /currencies/mirrored-united-states-oil-fund",
+  "Sergey Save Link [Token,Ethereum,Dead] /currencies/sergey-save-link",
+  "Stand Share [Token,Ethereum,Dead] /currencies/stand-share",
+  "Temtum [Coin,NoLicenceFile,Dead] /currencies/temtum",
+  "Timers [Token,Ethereum,Dead] /currencies/timers",
+  "Vaultz [NoGitHub,Token,Ethereum,Dead] /currencies/vaultz",
+  "WeBlock [Token,Ethereum,Dead] /currencies/weblock",
+  "YFPRO Finance [Token,Ethereum,Dead] /currencies/yfpro-finance",
+  "Yfscience [Token,Ethereum,Dead] /currencies/yfscience"
+]

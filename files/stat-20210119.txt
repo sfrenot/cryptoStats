@@ -1,0 +1,31 @@
+--------- News
+14 nouvelles, dont : 12 token (dont 11 Ethereum, 1 Binance, 0 Tron, 0 AI)
+2 à observer
+[
+  "Coin : Jackpot [Coin,New2] /currencies/jackpot",
+  "Coin : OKExChain [New2,Marketplace,Coin] /currencies/okexchain"
+]
+--------- 
+754 mortes, dont 20 à cette date
+[
+  "4NEW [Token,Ethereum,Dead] /currencies/4new",
+  "AGAr [NoGitHub,Token,Ethereum,Dead] /currencies/agar",
+  "AlphaLink [Token,Tron,Dead] /currencies/alphalink",
+  "Amino Network [Token,Ethereum,Dead] /currencies/amino-network",
+  "BioNTech tokenized stock FTX [Tokenized Stock,Ftx,Token,Dead] /currencies/biontech-tokenized-stock-ftx",
+  "CryptoSoul [Token,Ethereum,Dead] /currencies/cryptosoul",
+  "Cryptrust [Token,Ethereum,Dead] /currencies/cryptrust",
+  "EarnBet [Token,EOS,Dead] /currencies/earnbet",
+  "ExclusiveCoin [Coin,Mineable,PoS,BitcoinL,DashL,Dead] /currencies/exclusivecoin",
+  "Fivebalance [Coin,Mobile,Payments,Health,Indonesia,United States of America,Quark,PIVX,NoLicenceFile,Dead] /currencies/fivebalance",
+  "GARD Governance Token [Coin,NoLicenceFile,Dead] /currencies/gard-governance-token",
+  "IGToken [Token,Ethereum,Dead] /currencies/igtoken",
+  "Infinitus Token [Token,Ethereum,Dead] /currencies/infinitus-token",
+  "Kind Ads Token [Token,Ethereum,Dead] /currencies/kind-ads-token",
+  "KnoxFS (new) [NoGitHub,Token,KnoxFS,Dead] /currencies/knoxfs-new",
+  "Pfizer tokenized stock Bittrex [Tokenized Stock,Bittrex,Token,Dead] /currencies/pfizer-tokenized-stock-bittrex",
+  "Pfizer tokenized stock FTX [Tokenized Stock,Ftx,Token,Dead] /currencies/pfizer-tokenized-stock-ftx",
+  "Ragnarok [Coin,Mineable,BitcoinL,DashL,PIVXL,RagnarokL,Dead] /currencies/ragnarok",
+  "Yearn-finance Infrastructure Labs [Token,Ethereum,Dead] /currencies/yearn-finance-infrastructure-labs",
+  "eXPerience Chain [Coin,Mineable,BitcoinL,XPChain CoreL,Dead] /currencies/experience-chain"
+]

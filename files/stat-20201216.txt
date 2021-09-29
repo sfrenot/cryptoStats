@@ -1,0 +1,38 @@
+--------- News
+29 nouvelles, dont : 28 token (dont 26 Ethereum, 0 Binance)
+3 à observer
+[
+  "Coin : Berry [New2,Coin] /currencies/berry",
+  "Token : MediconnectUk [New2,Token] /currencies/mediconnectuk",
+  "Token : Tetris [Dead,New2,Token] /currencies/tetris"
+]
+--------- 
+831 mortes, dont 26 à cette date
+[
+  "$YEET [Token,Ethereum,Dead] /currencies/yeet",
+  "7Eleven [Token,Ethereum,Dead] /currencies/7eleven",
+  "Alpha5 [Token,Ethereum,Dead] /currencies/alpha5",
+  "BLOC.MONEY [Coin,NoLicenceFile,Dead] /currencies/bloc-money",
+  "BooBank [Token,Ethereum,Dead] /currencies/boobank",
+  "Buggyra Coin Zero [Token,Transport,Ethereum,Dead] /currencies/buggyra-coin-zero",
+  "ChallengeDac [Token,Dead] /currencies/challengedac",
+  "Digital Rand [Token,Ethereum,Dead] /currencies/digital-rand",
+  "Ethereum Gold [Token,Medium of Exchange,Payments,forked_altcoin,Ethereum,Dead] /currencies/ethereum-gold",
+  "Etherisc DIP Token [Token,Ethereum,Dead] /currencies/etherisc",
+  "KUN [Token,Dead] /currencies/kun",
+  "Lumos [Token,Ethereum,Ethereum,Dead] /currencies/lumos",
+  "Meter Governance mapped by Meter.io [Token,Interoperability,Ethereum,Dead] /currencies/meter-governance-mapped-by-meter-io",
+  "MoCo Token [Token,Ethereum,Dead] /currencies/moco-token",
+  "QUSD [Token,Ethereum,Dead] /currencies/qusd",
+  "SEER [Token,Ethereum,Dead] /currencies/seer",
+  "SiaCashCoin [Token,Ethereum,Dead] /currencies/siacashcoin",
+  "Social Send [Coin,NoLicenceFile,Dead] /currencies/social-send",
+  "TUNE TOKEN [Token,Ethereum,Dead] /currencies/tune-token",
+  "Tetris [Dead,New2,Token] /currencies/tetris",
+  "Tixl [Token,DeFi,Payments,Privacy,Medium of Exchange,Platform,Binance,DAG,Dead] /currencies/tixl",
+  "Tribute [Token,Ethereum,Dead] /currencies/tribute",
+  "United Traders Token [Token,Marketplace,Payments,Smart Contracts,Ethereum,Dead] /currencies/uttoken",
+  "Universe [Coin,PoS,Scrypt,NoLicenceFile,Dead] /currencies/universe",
+  "Valuto [Coin,Mineable,NoLicenceFile,Dead] /currencies/valuto",
+  "YFOS.finance [Token,Ethereum,Dead] /currencies/yfos-finance"
+]

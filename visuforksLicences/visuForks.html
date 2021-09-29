@@ -1,0 +1,82 @@
+<div id="dataviz_basicZoom"></div>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/d3-hierarchy.v2.min.js"></script>
+
+<script>
+
+  const myRequest = new Request('forked-licences.json');
+
+  fetch(myRequest)
+    .then(response => response.json())
+    .then(data => {
+      const width = 900;
+
+      var family = d3.hierarchy(data)
+
+      const tree = data => {
+        const root = data;
+        root.dx = 20;
+        root.dy = width / (root.height + 1);
+        return d3.tree().nodeSize([root.dx, root.dy])(root);
+      }
+      const treeLayout = tree(family);
+
+      let x0 = Infinity;
+      let x1 = -x0;
+      family.each(d => {
+        if (d.x > x1) x1 = d.x;
+        if (d.x < x0) x0 = d.x;
+      });
+
+      const svg = d3.select("#dataviz_basicZoom")
+      .append("svg")
+      // .attr("width",  460)
+      // .attr("height",  460)
+      .attr("viewBox", [0, 0, width, x1 - x0 + family.dx * 2])
+      .append('g')
+      .attr("transform", `translate(40,${family.dx - x0})`)
+      // .attr("transform", `translate(${family.dy / 3},${family.dx - x0}) scale(0.7)`)
+      // .attr("transform", `translate(40,${family.dx - x0}) scale(0.7)`)
+      // .call(d3.zoom().on("zoom", function () {
+      //   svg.attr("transform", d3.event.transform)
+      // }))
+
+      console.log(family);
+      console.log(family.dy)
+
+      const nodes = svg.append('g')
+
+      var treeNodes = nodes
+        .selectAll()
+        .data(family.descendants())
+        //.join("g") Doit être remplacé par 'enter.append'
+        .enter().append('g')
+        .attr("transform", d => `translate(${d.y},${d.x})`);
+
+      treeNodes.append("circle")
+          .attr("fill", d => d.children ? "#555" : "#999")
+          .attr("r", 2.5);
+
+      treeNodes.append("text")
+        .attr("dy", "0.31em")
+        .attr("x", d => d.children ? -6 : 6)
+        .attr("text-anchor", d => d.children ? "end" : "start")
+        .text(d => d.data.name)
+      .clone(true).lower()
+        .attr("stroke", "white");
+
+      const link = nodes
+      .append("g")
+      .attr("fill", "none")
+      .attr("stroke", "#555")
+      .attr("stroke-opacity", 0.4)
+      .attr("stroke-width", 1.5)
+      .selectAll()
+      .data(family.links())
+      //.join("path") Doit être remplacé par 'enter.append'
+      .enter().append('path')
+      .attr("d", d3.linkHorizontal()
+        .x(d => d.y)
+        .y(d => d.x));
+    })
+</script>

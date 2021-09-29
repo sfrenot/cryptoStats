@@ -1,0 +1,41 @@
+--------- News
+12 nouvelles, dont : 12 token (dont 11 Ethereum, 1 Binance, 0 Tron, 0 AI, 0 Waves, 0 Beacon)
+0 à observer
+[]
+--------- 
+627 mortes, dont 33 à cette date
+[
+  "AAVEDOWN [Token,Binance,Dead] /currencies/aave-down",
+  "ADADOWN [Token,Binance,Dead] /currencies/adadown",
+  "ADAUP [Token,Binance,Dead] /currencies/adaup",
+  "AK12 [Token,Neo,Dead] /currencies/ak12",
+  "Apex [Token,Neo,Dead] /currencies/apex",
+  "BIDR [Token,Binance,Dead] /currencies/binance-idr",
+  "BITFXT COIN [Token,Ethereum,Dead] /currencies/bitfxt-coin",
+  "BNBDOWN [Token,Binance,Dead] /currencies/bnbdown",
+  "BNBUP [Token,Binance,Dead] /currencies/bnbup",
+  "Binance VND [Stablecoin,Stablecoin - Asset-Backed,NoGitHub,Token,Binance,Dead] /currencies/binance-vnd",
+  "DABANKING [Token,Ethereum,Dead] /currencies/dabanking",
+  "DOTDOWN [Token,Binance,Dead] /currencies/dotdown",
+  "DOTUP [Token,Binance,Dead] /currencies/dotup",
+  "EOSDOWN [Token,Binance,Dead] /currencies/eosdown",
+  "ETHDOWN [Token,Binance,Dead] /currencies/ethdown",
+  "ETHUP [Token,Binance,Dead] /currencies/ethup",
+  "FILDOWN [Token,Binance,Dead] /currencies/fildown",
+  "FILUP [Token,Binance,Dead] /currencies/filup",
+  "GLOBALTRUSTFUND TOKEN [Token,Ethereum,Dead] /currencies/globaltrustfund-token",
+  "LINKDOWN [Token,Binance,Dead] /currencies/linkdown",
+  "LINKUP [Token,Binance,Dead] /currencies/linkup",
+  "MoonDayPlus [Token,Ethereum,Ethereum Contract,Dead] /currencies/moondayplus",
+  "Newsolution [Token,Ethereum,Dead] /currencies/newsolution",
+  "SUSHIUP [Token,Binance,Dead] /currencies/sushiup",
+  "TRXDOWN [Token,Binance,Dead] /currencies/trxdown",
+  "TRXUP [Token,Binance,Dead] /currencies/trxup",
+  "Truegame [Token,Ethereum,Dead] /currencies/tgame",
+  "XLMDOWN [Token,Binance,Dead] /currencies/xlmdown",
+  "XLMUP [Token,Binance,Dead] /currencies/xlmup",
+  "XRPDOWN [Token,Binance,Dead] /currencies/xrpdown",
+  "XRPUP [Token,Binance,Dead] /currencies/xrpup",
+  "XTZDOWN [Token,Binance,Dead] /currencies/xtzdown",
+  "XTZUP [Token,Binance,Dead] /currencies/xtzup"
+]

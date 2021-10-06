@@ -643,7 +643,7 @@
 {"name":"Cobinhood","short":"COB","url":"/currencies/cobinhood","tags":["Token","Marketplace","Centralized exchange"]}
 {"name":"Cocos-BCX","short":"COCOS","url":"/currencies/cocos-bcx","tags":["Token","Media","Gaming"]}
 {"name":"Codeo Token","short":"CODEO","url":"/currencies/codeo-token","tags":["Token","Virgin Islands (British)","Ethereum","Ethereum","Ethereum","DApp","Stablecoin - Asset-Backed","Payments"]}
-{"name":"Cofinex Coin","short":"CNX","url":"/currencies/cofinex-coin","tags":["Token","Medium of Exchange"]}
+{"name":"Cofinex","short":"CNX","url":"/currencies/cofinex-coin","tags":["Token","Medium of Exchange"]}
 {"name":"Coin Artist","short":"COIN","url":"/currencies/coin-artist","tags":["Token","Collectibles & NFTs"]}
 {"name":"Coin Controller Cash","short":"CCC","url":"/currencies/coin-controller-cash","tags":["Token"]}
 {"name":"Coin Lion","short":"LION","url":"/currencies/coin-lion","tags":["Token"]}
@@ -1024,7 +1024,7 @@
 {"name":"Education Ecosystem","short":"LEDU","url":"/currencies/education-ecosystem","tags":["Token","Education"]}
 {"name":"Effect Network","short":"EFX","url":"/currencies/effect-ai","tags":["Token"]}
 {"name":"Egas","short":"EGAS","url":"/currencies/egas","tags":["Token"]}
-{"name":"Egoras","short":"EGR","url":"/currencies/egoras","tags":["Token","DAO","DeFi","Collectibles & NFTs","DApp","Yield farming"]}
+{"name":"Egoras (old)","short":"EGR","url":"/currencies/egoras","tags":["Token","DAO","DeFi","Collectibles & NFTs","DApp","Yield farming"]}
 {"name":"Egoras Dollar","short":"EUSD","url":"/currencies/egoras-dollar","tags":["Token"]}
 {"name":"Egretia","short":"EGT","url":"/currencies/egretia","tags":["Token"]}
 {"name":"Eight Hours","short":"EHRT","url":"/currencies/eight-hours","tags":["Token"]}

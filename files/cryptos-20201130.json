@@ -12380,7 +12380,7 @@
     },
     {
       "id": 5075,
-      "name": "Egoras",
+      "name": "Egoras (old)",
       "symbol": "EGR",
       "slug": "egoras",
       "max_supply": null,
@@ -55556,7 +55556,7 @@
     },
     {
       "id": 5332,
-      "name": "Cofinex Coin",
+      "name": "Cofinex",
       "symbol": "CNX",
       "slug": "cofinex-coin",
       "max_supply": 500000000,

@@ -11258,7 +11258,7 @@
                               "name": "DApp",
                               "children": [
                                 {
-                                  "name": "Egoras",
+                                  "name": "Egoras (old)",
                                   "url": "/currencies/egoras",
                                   "value": 1
                                 }
@@ -15541,7 +15541,7 @@
               "name": "Medium of Exchange",
               "children": [
                 {
-                  "name": "Cofinex Coin",
+                  "name": "Cofinex",
                   "url": "/currencies/cofinex-coin",
                   "value": 1
                 },

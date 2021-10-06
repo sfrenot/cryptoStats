@@ -6891,7 +6891,7 @@
     },
     {
       "id": 8085,
-      "name": "stETH (Lido)",
+      "name": "Lido stETH",
       "symbol": "STETH",
       "slug": "steth",
       "tags": [
@@ -20938,7 +20938,7 @@
     },
     {
       "id": 8365,
-      "name": "Crowns",
+      "name": "Seascape Crowns",
       "symbol": "CWS",
       "slug": "crowns",
       "tags": [

@@ -6507,7 +6507,7 @@
     },
     {
       "id": 5075,
-      "name": "Egoras",
+      "name": "Egoras (old)",
       "symbol": "EGR",
       "slug": "egoras",
       "tags": [],
@@ -6612,7 +6612,7 @@
     },
     {
       "id": 8085,
-      "name": "stETH (Lido)",
+      "name": "Lido stETH",
       "symbol": "STETH",
       "slug": "steth",
       "tags": [
@@ -24523,7 +24523,7 @@
     },
     {
       "id": 8365,
-      "name": "Crowns",
+      "name": "Seascape Crowns",
       "symbol": "CWS",
       "slug": "crowns",
       "tags": [
@@ -78340,7 +78340,7 @@
     },
     {
       "id": 5332,
-      "name": "Cofinex Coin",
+      "name": "Cofinex",
       "symbol": "CNX",
       "slug": "cofinex-coin",
       "tags": [

@@ -9,7 +9,7 @@ noLicence = (values, tags) ->
   return (_.findIndex values, (val) -> val in tags) is -1
 
 crypto = _.find cryptos, (crypto) ->
-  console.log "->", crypto.name
+  #console.log "->", crypto.name
   
   "NoLicenceFile" not in crypto.tags and
   "Coin" in crypto.tags and

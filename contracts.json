@@ -231,6 +231,13 @@
   },
   {
     "urls": [
+      "https://tzkt.io"
+    ],
+    "contract": "Tezos Contract",
+    "gecko_asset_platform_id": "tezos"
+  },
+  {
+    "urls": [
       "https://tronscan.org/#/address",
       "https://tronscan.org/#/token",
       "https://tronscan.org/#/contract",

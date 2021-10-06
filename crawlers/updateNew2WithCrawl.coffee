@@ -29,13 +29,10 @@ request
     crypto.tags.push($(@).text())
 
   foundgithub = false
-  $('div.linksSection___2uV91 > div.container___2dCiP > ul.content___MhX1h > li').each () ->
+  $('div.guFTCp > div > div > a').each () ->
     if $(@).text() is 'Source code'
-      href = $('a', @).attr('href')
-      if href.startsWith("https://github.com")
-        # console.warn "Ajout github"
-        foundgithub = true
-        crypto.git = href
+      foundgithub = true
+      crypto.git = $(@).attr('href')
   unless foundgithub
     crypto.tags.push("NoGitHub")
 

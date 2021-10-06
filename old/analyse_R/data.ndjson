@@ -1709,7 +1709,7 @@
 {"name":"MASTERNET","short":"MASH","url":"/currencies/masternet","tags":["Token"]}
 {"name":"MATH","short":"MATH","url":"/currencies/math","tags":["Token"]}
 {"name":"MAX Exchange Token","short":"MAX","url":"/currencies/max-exchange-token","tags":["Token","Centralized exchange"]}
-{"name":"MCDEX","short":"MCB","url":"/currencies/mcdex","tags":["Token"]}
+{"name":"MCDEX Token","short":"MCB","url":"/currencies/mcdex","tags":["Token"]}
 {"name":"MCO","short":"MCO","url":"/currencies/crypto-com","tags":["Token","Medium of Exchange"]}
 {"name":"MDUKEY","short":"MDU","url":"/currencies/mdu","tags":["Coin"]}
 {"name":"MDsquare","short":"TMED","url":"/currencies/mdsquare","tags":["Token","Health"]}

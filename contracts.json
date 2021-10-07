@@ -46,6 +46,12 @@
   },
   {
     "urls": [
+      "https://bitciexp.bitcichain.com/tokens"
+    ],
+    "contract": "Bitcichain Contract"
+  },
+  {
+    "urls": [
       "https://bts.ai/asset"
     ],
     "contract": "Bitshares Contract"

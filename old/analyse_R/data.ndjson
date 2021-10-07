@@ -698,7 +698,7 @@
 {"name":"Constant","short":"CONST","url":"/currencies/constant","tags":["Token","Store of Value","Stablecoin","Stablecoin - Asset-Backed"]}
 {"name":"Constellation","short":"DAG","url":"/currencies/constellation","tags":["Coin","DAG","Platform","Payments","Smart Contracts"]}
 {"name":"Content Neutrality Network","short":"CNN","url":"/currencies/content-neutrality-network","tags":["Token"]}
-{"name":"Content Value Network","short":"CVNT","url":"/currencies/content-value-network","tags":["Token","Media","Content Creation"]}
+{"name":"Conscious Value Network","short":"CVNT","url":"/currencies/content-value-network","tags":["Token","Media","Content Creation"]}
 {"name":"ContentBox","short":"BOX","url":"/currencies/contentbox","tags":["Token"]}
 {"name":"Contentos","short":"COS","url":"/currencies/contentos","tags":["Token","Media"]}
 {"name":"Contribute","short":"TRIB","url":"/currencies/contribute","tags":["Token"]}
@@ -1789,7 +1789,7 @@
 {"name":"Melecoin","short":"MELE","url":"/currencies/melecoin","tags":["Token"]}
 {"name":"Melon","short":"MLN","url":"/currencies/melon","tags":["Token","Asset management","DeFi"]}
 {"name":"Membrana","short":"MBN","url":"/currencies/membrana","tags":["Token"]}
-{"name":"Meme","short":"MEME","url":"/currencies/degenerator-meme","tags":["Token","Collectibles & NFTs"]}
+{"name":"Degenerator Meme","short":"MEME","url":"/currencies/degenerator-meme","tags":["Token","Collectibles & NFTs"]}
 {"name":"Memetic / PepeCoin","short":"MEME","url":"/currencies/memetic","tags":["Coin","Mineable","Hybrid - PoW & PoS","X11"]}
 {"name":"MenaPay","short":"MPAY","url":"/currencies/menapay","tags":["Token"]}
 {"name":"Mercury","short":"MER","url":"/currencies/mercury","tags":["Token","Platform","DApp"]}

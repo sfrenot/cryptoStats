@@ -12,6 +12,7 @@ fileDate = process.argv[2]
 ## stablecoin-asset-backed -> Stablecoin - Asset-Backed
 tagsTables =
   'adult': 'Adult'
+  'agriculture': 'Agriculture'
   'ai-big-data': 'AI & Big Data'
   'alameda-research-portfolio':'Alameda Research Portfolio'
   'amm': 'AMM'

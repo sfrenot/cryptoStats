@@ -22,7 +22,13 @@ unless crypto?
 console.warn "Recherche : #{crypto.git}"
 console.warn "-> #{crypto.name}"
 
-url = "https://raw.githubusercontent.com/#{crypto.git.replace(/https?:\/\/(www\.)?github.com/,"")}master/COPYING"
+if url.startsWith('https://github')
+  url = "https://raw.githubusercontent.com#{crypto.git.replace(/https:\/\/github.com/,"")}/master/COPYING"
+else if url.startsWith('https://gitlab')
+  url = "#{crypto.git}/-/raw/master/COPYING"
+else
+  console.error("NON GIT / NON GITHUB")
+
 console.error url
 request
   url : url

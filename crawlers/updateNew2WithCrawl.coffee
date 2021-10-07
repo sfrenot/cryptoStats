@@ -32,7 +32,7 @@ request
   $('div.guFTCp > div > div > a').each () ->
     if $(@).text() is 'Source code'
       foundgithub = true
-      crypto.git = $(@).attr('href')
+      crypto.git = $(@).attr('href').replace(/https?:\/\/www.github/,"https://github")
   unless foundgithub
     crypto.tags.push("NoGitHub")
 

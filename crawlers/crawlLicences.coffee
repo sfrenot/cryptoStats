@@ -21,15 +21,19 @@ unless crypto?
 
 console.warn "Recherche : #{crypto.git}"
 console.warn "-> #{crypto.name}"
-url = "https://raw.githubusercontent.com/#{crypto.git.replace("https://github.com/","")}/master/COPYING"
+
+url = "https://raw.githubusercontent.com/#{crypto.git.replace(/https?:\/\/(www\.)?github.com/,"")}master/COPYING"
+console.error url
 request
   url : url
   method: 'GET'
 .then (body) ->
+  # console.warn "coucou"
   lines = body.split('\n')
   found = false
   lines.forEach (line) ->
     # console.warn "--#{line}--"
+    # Copyright © 2009-2015 The Bitcoin developers
     if line.trim().startsWith('Copyright')
       found = true
       licence = line
@@ -39,6 +43,7 @@ request
       .replace(/Developers|developers/, '')
       .replace(/PPCoin/, "Peercoin")
       .trim()
+      # console.warn line
       unless licenceName[licence]?
         console.error "\"#{licence}\": \"#{licence}L\""
         licenceName[licence]="#{licence}L"
@@ -50,9 +55,10 @@ request
         else
           console.warn "License indiquée #{licenceName[licence]} dans #{crypto.name}"
   unless found
+    crypto.tags.push("NoLicenceInFile")
     crypto.tags.push("NoLicenceFile")
 .catch (err) ->
-  console.error "Fichier Licence non trouvée #{crypto.name} #{err}"
+  console.error "Fichier Licence non trouvée #{crypto.name}"
   crypto.tags.push("NoLicenceFile")
 .then () -> # Sauvegarde du fichier de licenses trié
   ordered = {}

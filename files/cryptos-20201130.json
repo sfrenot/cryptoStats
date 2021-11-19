@@ -4169,7 +4169,7 @@
     },
     {
       "id": 1768,
-      "name": "AdEx Network",
+      "name": "Ambire AdEx",
       "symbol": "ADX",
       "slug": "adx-net",
       "max_supply": 150000000,
@@ -10091,7 +10091,7 @@
     },
     {
       "id": 2610,
-      "name": "Peculium",
+      "name": "PECULIUM",
       "symbol": "PCL",
       "slug": "peculium",
       "max_supply": null,
@@ -23615,7 +23615,7 @@
     },
     {
       "id": 1905,
-      "name": "TrueFlip",
+      "name": "TFL.io",
       "symbol": "TFL",
       "slug": "trueflip",
       "max_supply": null,

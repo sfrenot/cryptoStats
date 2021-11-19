@@ -2813,9 +2813,9 @@
     },
     {
       "id": 8104,
-      "name": "1inch",
+      "name": "1inch Network",
       "symbol": "1INCH",
-      "slug": "1inch",
+      "slug": "1inch Network",
       "tags": [
         "defi",
         "amm",
@@ -11925,7 +11925,7 @@
     },
     {
       "id": 8128,
-      "name": "DFSocial Gaming",
+      "name": "DeFi Social Gaming",
       "symbol": "DFSOCIAL",
       "slug": "defisocial-gaming",
       "tags": [],

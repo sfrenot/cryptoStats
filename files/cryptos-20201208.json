@@ -7280,7 +7280,7 @@
     },
     {
       "id": 1768,
-      "name": "AdEx Network",
+      "name": "Ambire AdEx",
       "symbol": "ADX",
       "slug": "adx-net",
       "tags": [
@@ -23514,7 +23514,7 @@
     },
     {
       "id": 2610,
-      "name": "Peculium",
+      "name": "PECULIUM",
       "symbol": "PCL",
       "slug": "peculium",
       "tags": [],
@@ -28496,7 +28496,7 @@
     },
     {
       "id": 1905,
-      "name": "TrueFlip",
+      "name": "TFL.io",
       "symbol": "TFL",
       "slug": "trueflip",
       "tags": [

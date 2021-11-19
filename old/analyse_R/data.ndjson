@@ -116,7 +116,7 @@
 {"name":"Actinium","short":"ACM","url":"/currencies/actinium","tags":["Coin","Mineable"]}
 {"name":"Acuity Token","short":"ACU","url":"/currencies/acuity-token","tags":["Token"]}
 {"name":"Acute Angle Cloud","short":"AAC","url":"/currencies/acute-angle-cloud","tags":["Token"]}
-{"name":"AdEx Network","short":"ADX","url":"/currencies/adx-net","tags":["Token","Marketing","Smart Contracts","Substrate","Polkadot"]}
+{"name":"Ambire AdEx","short":"ADX","url":"/currencies/adx-net","tags":["Token","Marketing","Smart Contracts","Substrate","Polkadot"]}
 {"name":"AdHive","short":"ADH","url":"/currencies/adhive","tags":["Token","Marketing","AI & Big Data","Content Creation"]}
 {"name":"Add.xyz","short":"PLT","url":"/currencies/add-xyz","tags":["Token","DeFi"]}
 {"name":"Adelphoi","short":"ADL","url":"/currencies/adelphoi","tags":["Token"]}
@@ -323,7 +323,7 @@
 {"name":"BeeEx","short":"BEE","url":"/currencies/beeex","tags":["Token"]}
 {"name":"BeeKan","short":"BKBT","url":"/currencies/beekan","tags":["Token"]}
 {"name":"BeeStore","short":"BHT","url":"/currencies/beestore","tags":["Token"]}
-{"name":"Beefy.Finance","short":"BIFI","url":"/currencies/beefy-finance","tags":["Token"]}
+{"name":"Beefy Finance","short":"BIFI","url":"/currencies/beefy-finance","tags":["Token"]}
 {"name":"Beer Money","short":"BEER","url":"/currencies/beer-money","tags":["Token","Commodities","Food & Beverage","Loyalty","Discount token","Payments","Wallet","NEM"]}
 {"name":"Beetle Coin","short":"BEET","url":"/currencies/beetle-coin","tags":["Coin","Mineable","PoW","Scrypt","Medium of Exchange"]}
 {"name":"Behodler","short":"EYE","url":"/currencies/beholder","tags":["Token"]}
@@ -2104,7 +2104,7 @@
 {"name":"Payship","short":"PSHP","url":"/currencies/payship","tags":["Token"]}
 {"name":"Paytomat","short":"PTI","url":"/currencies/paytomat","tags":["Token"]}
 {"name":"Pearl","short":"PEARL","url":"/currencies/pearl","tags":["Token"]}
-{"name":"Peculium","short":"PCL","url":"/currencies/peculium","tags":["Token"]}
+{"name":"PECULIUM","short":"PCL","url":"/currencies/peculium","tags":["Token"]}
 {"name":"PeepCoin","short":"PCN","url":"/currencies/peepcoin","tags":["Coin"]}
 {"name":"PeerEx","short":"PERX","url":"/currencies/peerex","tags":["Token","Medium of Exchange","Platform","Decentralized exchange","Staking","DApp"]}
 {"name":"Peercoin","short":"PPC","url":"/currencies/peercoin","tags":["Coin","Mineable","Hybrid - PoW & PoS","SHA-256","Medium of Exchange","Payments"]}
@@ -2719,7 +2719,7 @@
 {"name":"TrueChain","short":"TRUE","url":"/currencies/truechain","tags":["Coin","Platform","Smart Contracts"]}
 {"name":"TrueDeck","short":"TDP","url":"/currencies/truedeck","tags":["Token"]}
 {"name":"TrueFeedBack","short":"TFB","url":"/currencies/truefeedback","tags":["Token"]}
-{"name":"TrueFlip","short":"TFL","url":"/currencies/trueflip","tags":["Token","Gambling"]}
+{"name":"TFL.io","short":"TFL","url":"/currencies/trueflip","tags":["Token","Gambling"]}
 {"name":"TrueUSD","short":"TUSD","url":"/currencies/trueusd","tags":["Token","Store of Value","Stablecoin","Stablecoin - Asset-Backed"]}
 {"name":"TrueVett","short":"VME","url":"/currencies/truevett","tags":["Token"]}
 {"name":"Truegame","short":"TGAME","url":"/currencies/tgame","tags":["Token"]}

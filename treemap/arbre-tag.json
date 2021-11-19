@@ -8546,7 +8546,7 @@
                   "value": 1
                 },
                 {
-                  "name": "Peculium",
+                  "name": "PECULIUM",
                   "url": "/currencies/peculium",
                   "value": 1
                 },
@@ -15281,7 +15281,7 @@
                   "value": 1
                 },
                 {
-                  "name": "TrueFlip",
+                  "name": "TFL.io",
                   "url": "/currencies/trueflip",
                   "value": 1
                 },
@@ -15360,7 +15360,7 @@
                           "name": "Polkadot",
                           "children": [
                             {
-                              "name": "AdEx Network",
+                              "name": "Ambire AdEx",
                               "url": "/currencies/adx-net",
                               "value": 1
                             }
@@ -16526,7 +16526,7 @@
                   "value": 1
                 },
                 {
-                  "name": "Beefy.Finance",
+                  "name": "Beefy Finance",
                   "url": "/currencies/beefy-finance",
                   "value": 1
                 },

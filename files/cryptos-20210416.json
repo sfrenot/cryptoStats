@@ -3316,9 +3316,9 @@
     },
     {
       "id": 8104,
-      "name": "1inch",
+      "name": "1inch Network",
       "symbol": "1INCH",
-      "slug": "1inch",
+      "slug": "1inch Network",
       "tags": [
         "decentralized-exchange",
         "defi",
@@ -9128,7 +9128,7 @@
     },
     {
       "id": 7311,
-      "name": "Beefy.Finance",
+      "name": "Beefy Finance",
       "symbol": "BIFI",
       "slug": "beefy-finance",
       "tags": [
@@ -10093,7 +10093,7 @@
     },
     {
       "id": 1768,
-      "name": "AdEx Network",
+      "name": "Ambire AdEx",
       "symbol": "ADX",
       "slug": "adx-net",
       "tags": [
@@ -19590,7 +19590,7 @@
     },
     {
       "id": 8612,
-      "name": "Float Protocol",
+      "name": "Float Protocol (Bank)",
       "symbol": "BANK",
       "slug": "float-protocol",
       "tags": [],
@@ -25321,7 +25321,7 @@
     },
     {
       "id": 2610,
-      "name": "Peculium",
+      "name": "PECULIUM",
       "symbol": "PCL",
       "slug": "peculium",
       "tags": [],
@@ -41211,7 +41211,7 @@
     },
     {
       "id": 1905,
-      "name": "TrueFlip",
+      "name": "TFL.io",
       "symbol": "TFL",
       "slug": "trueflip",
       "tags": [
@@ -41341,7 +41341,7 @@
     },
     {
       "id": 8808,
-      "name": "Treat DAO",
+      "name": "Treat DAO [old]",
       "symbol": "TREAT",
       "slug": "treat-dao",
       "tags": [],
@@ -72830,7 +72830,7 @@
     },
     {
       "id": 8425,
-      "name": "Jasmy",
+      "name": "JasmyCoin",
       "symbol": "JASMY",
       "slug": "jasmy",
       "tags": [],
@@ -76252,7 +76252,7 @@
     },
     {
       "id": 9220,
-      "name": "StrikeCoin",
+      "name": "StrikeX",
       "symbol": "STRIKE",
       "slug": "strikecoin",
       "tags": [],
@@ -76488,7 +76488,7 @@
     },
     {
       "id": 8128,
-      "name": "DFSocial Gaming",
+      "name": "DeFi Social Gaming",
       "symbol": "DFSOCIAL",
       "slug": "defisocial-gaming",
       "tags": [

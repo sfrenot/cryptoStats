@@ -3933,7 +3933,7 @@
               "value": 1
             },
             {
-              "name": "MESEFA",
+              "name": "Mesefa",
               "url": "/currencies/mesefa",
               "value": 1
             },
@@ -9301,7 +9301,7 @@
                   "value": 1
                 },
                 {
-                  "name": "YFIKING,FINANCE",
+                  "name": "YFIKING FINANCE",
                   "url": "/currencies/yfiking-finance",
                   "value": 1
                 },
@@ -17879,7 +17879,7 @@
                           "name": "Research",
                           "children": [
                             {
-                              "name": "Phoenix Global",
+                              "name": "Phoenix Global [old]",
                               "url": "/currencies/phoenix-global",
                               "value": 1
                             }

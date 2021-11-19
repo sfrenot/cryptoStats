@@ -16845,7 +16845,7 @@
     },
     {
       "id": 2112,
-      "name": "Phoenix Global",
+      "name": "Phoenix Global [old]",
       "symbol": "PHB",
       "slug": "phoenix-global",
       "tags": [
@@ -63769,7 +63769,7 @@
     },
     {
       "id": 5425,
-      "name": "MESEFA",
+      "name": "Mesefa",
       "symbol": "SEFA",
       "slug": "mesefa",
       "tags": [],
@@ -73759,7 +73759,7 @@
     },
     {
       "id": 9458,
-      "name": "Hokkaidu Inu",
+      "name": "Hokkaido Inu",
       "symbol": "HOKK",
       "slug": "hokkaido-inu",
       "tags": [
@@ -79412,7 +79412,7 @@
     },
     {
       "id": 9282,
-      "name": "Hugo Finance",
+      "name": "Hugo Game",
       "symbol": "HUGO",
       "slug": "hugo-finance",
       "tags": [],
@@ -91940,7 +91940,7 @@
     },
     {
       "id": 9821,
-      "name": "PocMon",
+      "name": "PocMon-Old",
       "symbol": "PMON",
       "slug": "pocmon",
       "tags": [],
@@ -99289,7 +99289,7 @@
     },
     {
       "id": 8377,
-      "name": "SportX",
+      "name": "SX Network",
       "symbol": "SX",
       "slug": "sportx",
       "tags": [
@@ -107597,7 +107597,7 @@
     },
     {
       "id": 7835,
-      "name": "Money of Tomorrow, Today",
+      "name": "Money of Tomorrow Today",
       "symbol": "MTTCOIN",
       "slug": "money-of-tomorrow-today",
       "tags": [],
@@ -118805,7 +118805,7 @@
     {
       "id": 5698,
       "name": "GM Holding",
-      "symbol": "GM",
+      "symbol": "GM Wagmi",
       "slug": "gm-holding",
       "tags": [],
       "max_supply": 100000000,

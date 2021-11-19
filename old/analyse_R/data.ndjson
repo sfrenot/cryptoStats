@@ -1237,7 +1237,7 @@
 {"name":"GINcoin","short":"GIN","url":"/currencies/gincoin","tags":["Coin","Mineable"]}
 {"name":"GLOBALTRUSTFUND TOKEN","short":"GTF","url":"/currencies/globaltrustfund-token","tags":["Token"]}
 {"name":"GLOBEX","short":"GEX","url":"/currencies/globex","tags":["Token"]}
-{"name":"GM Holding","short":"GM","url":"/currencies/gm-holding","tags":["Token"]}
+{"name":"GM Holding","short":"GM Wagmi","url":"/currencies/gm-holding","tags":["Token"]}
 {"name":"GNY","short":"GNY","url":"/currencies/gny","tags":["Token","Platform","Enterprise solutions"]}
 {"name":"GOD KIMCHI","short":"gKIMCHI","url":"/currencies/god-kimchi","tags":["Token"]}
 {"name":"GOT Token","short":"GOT","url":"/currencies/got-token","tags":["Token"]}
@@ -2988,7 +2988,7 @@
 {"name":"YFIBusiness","short":"YFIB","url":"/currencies/yfibusiness","tags":["Token"]}
 {"name":"YFIEXCHANGE.FINANCE","short":"YFIE","url":"/currencies/yfiexchange-finance","tags":["Coin"]}
 {"name":"YFII Gold","short":"YFIIG","url":"/currencies/yfii-gold","tags":["Token"]}
-{"name":"YFIKING,FINANCE","short":"YFIKING","url":"/currencies/yfiking-finance","tags":["Token"]}
+{"name":"YFIKING FINANCE","short":"YFIKING","url":"/currencies/yfiking-finance","tags":["Token"]}
 {"name":"YFISCURITY","short":"YFIS","url":"/currencies/yfiscurity","tags":["Token"]}
 {"name":"YFIVE FINANCE","short":"YFIVE","url":"/currencies/yfive-finance","tags":["Token"]}
 {"name":"YFIX Finance","short":"YFIX","url":"/currencies/yfix-finance","tags":["Token"]}

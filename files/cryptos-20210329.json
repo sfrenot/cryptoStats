@@ -12868,7 +12868,7 @@
     },
     {
       "id": 2112,
-      "name": "Phoenix Global",
+      "name": "Phoenix Global [old]",
       "symbol": "PHB",
       "slug": "phoenix-global",
       "tags": [
@@ -56705,7 +56705,7 @@
     },
     {
       "id": 5425,
-      "name": "MESEFA",
+      "name": "Mesefa",
       "symbol": "SEFA",
       "slug": "mesefa",
       "tags": [],
@@ -81319,7 +81319,7 @@
     },
     {
       "id": 8377,
-      "name": "SportX",
+      "name": "SX Network",
       "symbol": "SX",
       "slug": "sportx",
       "tags": [],
@@ -81729,7 +81729,7 @@
     },
     {
       "id": 7835,
-      "name": "Money of Tomorrow, Today",
+      "name": "Money of Tomorrow Today",
       "symbol": "MTTCOIN",
       "slug": "money-of-tomorrow-today",
       "tags": [],
@@ -86460,7 +86460,7 @@
     {
       "id": 5698,
       "name": "GM Holding",
-      "symbol": "GM",
+      "symbol": "GM Wagmi",
       "slug": "gm-holding",
       "tags": [],
       "max_supply": 100000000,
@@ -114226,7 +114226,7 @@
     },
     {
       "id": 6964,
-      "name": "YFIKING,FINANCE",
+      "name": "YFIKING FINANCE",
       "symbol": "YFIKING",
       "slug": "yfiking-finance",
       "tags": [],

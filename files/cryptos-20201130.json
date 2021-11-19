@@ -10847,7 +10847,7 @@
     },
     {
       "id": 2112,
-      "name": "Phoenix Global",
+      "name": "Phoenix Global [old]",
       "symbol": "PHX",
       "slug": "phoenix-global",
       "max_supply": null,
@@ -36047,7 +36047,7 @@
     },
     {
       "id": 5425,
-      "name": "MESEFA",
+      "name": "Mesefa",
       "symbol": "SEFA",
       "slug": "mesefa",
       "max_supply": 963000000,
@@ -64524,7 +64524,7 @@
     {
       "id": 5698,
       "name": "GM Holding",
-      "symbol": "GM",
+      "symbol": "GM Wagmi",
       "slug": "gm-holding",
       "max_supply": 100000000,
       "circulating_supply": 0,
@@ -79706,7 +79706,7 @@
     },
     {
       "id": 6964,
-      "name": "YFIKING,FINANCE",
+      "name": "YFIKING FINANCE",
       "symbol": "YFIKING",
       "slug": "yfiking-finance",
       "max_supply": null,

@@ -18351,8 +18351,8 @@
     },
     {
       "id": 2548,
-      "name": "POA",
-      "symbol": "POA",
+      "name": "POA Network",
+      "symbol": "POA Network",
       "slug": "poa",
       "tags": [
         "platform"
@@ -24721,7 +24721,7 @@
     },
     {
       "id": 8205,
-      "name": "Bat True Share",
+      "name": "Bolt Share",
       "symbol": "BTS",
       "slug": "bat-true-share",
       "tags": [],

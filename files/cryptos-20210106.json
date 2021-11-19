@@ -18200,8 +18200,8 @@
     },
     {
       "id": 2548,
-      "name": "POA",
-      "symbol": "POA",
+      "name": "POA Network",
+      "symbol": "POA Network",
       "slug": "poa",
       "tags": [
         "platform"
@@ -32768,7 +32768,7 @@
     },
     {
       "id": 8177,
-      "name": "KnoxFS (new)",
+      "name": "KnoxFS (New)",
       "symbol": "KFX",
       "slug": "knoxfs-new",
       "tags": [],
@@ -52886,7 +52886,7 @@
     },
     {
       "id": 113,
-      "name": "SmartCoin",
+      "name": "SmartCoin (SMC)",
       "symbol": "SMC",
       "slug": "smartcoin",
       "tags": [
@@ -61573,7 +61573,7 @@
     },
     {
       "id": 7505,
-      "name": "TON Crystal",
+      "name": "Everscale",
       "symbol": "TON",
       "slug": "ton-crystal",
       "tags": [],
@@ -63467,7 +63467,7 @@
     },
     {
       "id": 8128,
-      "name": "DeFi Social Gaming",
+      "name": "DFSocial Gaming [old]",
       "symbol": "DFSOCIAL",
       "slug": "defisocial-gaming",
       "tags": [],

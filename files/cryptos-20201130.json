@@ -14543,8 +14543,8 @@
     },
     {
       "id": 2548,
-      "name": "POA",
-      "symbol": "POA",
+      "name": "POA Network",
+      "symbol": "POA Network",
       "slug": "poa",
       "max_supply": null,
       "circulating_supply": 281987246.71979,
@@ -43838,7 +43838,7 @@
     },
     {
       "id": 113,
-      "name": "SmartCoin",
+      "name": "SmartCoin (SMC)",
       "symbol": "SMC",
       "slug": "smartcoin",
       "max_supply": null,
@@ -51104,7 +51104,7 @@
     },
     {
       "id": 7505,
-      "name": "TON Crystal",
+      "name": "Everscale",
       "symbol": "TON",
       "slug": "ton-crystal",
       "max_supply": 10000000000,

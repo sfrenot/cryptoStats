@@ -26334,8 +26334,8 @@
     },
     {
       "id": 2548,
-      "name": "POA",
-      "symbol": "POA",
+      "name": "POA Network",
+      "symbol": "POA Network",
       "slug": "poa",
       "tags": [
         "platform"
@@ -33061,7 +33061,7 @@
     },
     {
       "id": 8300,
-      "name": "PolkaCover",
+      "name": "CoverCompared",
       "symbol": "CVR",
       "slug": "polkacover",
       "tags": [
@@ -35781,7 +35781,7 @@
     },
     {
       "id": 8128,
-      "name": "DeFi Social Gaming",
+      "name": "DFSocial Gaming [old]",
       "symbol": "DFSOCIAL",
       "slug": "defisocial-gaming",
       "tags": [
@@ -54048,7 +54048,7 @@
     },
     {
       "id": 113,
-      "name": "SmartCoin",
+      "name": "SmartCoin (SMC)",
       "symbol": "SMC",
       "slug": "smartcoin",
       "tags": [
@@ -57509,7 +57509,7 @@
     },
     {
       "id": 8177,
-      "name": "KnoxFS (new)",
+      "name": "KnoxFS (New)",
       "symbol": "KFX",
       "slug": "knoxfs-new",
       "tags": [
@@ -71084,7 +71084,7 @@
     },
     {
       "id": 8267,
-      "name": "OKExChain",
+      "name": "OEC Token",
       "symbol": "OKT",
       "slug": "okexchain",
       "tags": [
@@ -72178,7 +72178,7 @@
     },
     {
       "id": 7505,
-      "name": "TON Crystal",
+      "name": "Everscale",
       "symbol": "TON",
       "slug": "ton-crystal",
       "tags": [],
@@ -73883,7 +73883,7 @@
     },
     {
       "id": 10180,
-      "name": "GoMining token",
+      "name": "GMT Token",
       "symbol": "GMT",
       "slug": "gomining-token",
       "tags": [],
@@ -78036,7 +78036,7 @@
     },
     {
       "id": 11041,
-      "name": "KuCoin LaunchPad",
+      "name": "Kross Chain LaunchPad",
       "symbol": "KCLP",
       "slug": "kucoin-launchpad",
       "tags": [],
@@ -78666,7 +78666,7 @@
     },
     {
       "id": 10195,
-      "name": "Ultrasafe",
+      "name": "UltraSafe Token",
       "symbol": "ULTRA",
       "slug": "ultrasafe",
       "tags": [],
@@ -80250,7 +80250,7 @@
     },
     {
       "id": 10514,
-      "name": "PANCAKE HUNNY",
+      "name": "HUNNY FINANCE",
       "symbol": "HUNNY",
       "slug": "pancake-hunny",
       "tags": [],
@@ -82149,7 +82149,7 @@
     },
     {
       "id": 10716,
-      "name": "Nobunaga Token, NBNG",
+      "name": "Nobunaga Token",
       "symbol": "NBNG",
       "slug": "nobunaga-token-nbng",
       "tags": [],
@@ -82837,7 +82837,7 @@
     },
     {
       "id": 10841,
-      "name": "Wolf Safe Poor People（BSC)",
+      "name": "Wolf Safe Poor People (BSC)",
       "symbol": "WSPP",
       "slug": "wolf-safe-poor-people",
       "tags": [],
@@ -88316,7 +88316,7 @@
     },
     {
       "id": 10412,
-      "name": "HoDooi",
+      "name": "HoDooi.com",
       "symbol": "HOD",
       "slug": "hodooi",
       "tags": [],
@@ -91189,7 +91189,7 @@
     },
     {
       "id": 10079,
-      "name": "Quidax",
+      "name": "Quidax Token",
       "symbol": "QDX",
       "slug": "quidax",
       "tags": [],
@@ -93885,7 +93885,7 @@
     },
     {
       "id": 8205,
-      "name": "Bat True Share",
+      "name": "Bolt Share",
       "symbol": "BTS",
       "slug": "bat-true-share",
       "tags": [],
@@ -100489,7 +100489,7 @@
     },
     {
       "id": 10685,
-      "name": "Olive.Cash",
+      "name": "Olive Cash",
       "symbol": "OLIVE",
       "slug": "olive-cash",
       "tags": [
@@ -120011,7 +120011,7 @@
     },
     {
       "id": 9107,
-      "name": "Zilswap",
+      "name": "ZilSwap",
       "symbol": "ZWAP",
       "slug": "zilswap",
       "tags": [],
@@ -126540,7 +126540,7 @@
     },
     {
       "id": 7840,
-      "name": "Uniswap Finance",
+      "name": "Uniswap Finance [old]",
       "symbol": "UNFI",
       "slug": "uniswap-finance",
       "tags": [],

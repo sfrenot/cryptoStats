@@ -22078,8 +22078,8 @@
     },
     {
       "id": 2548,
-      "name": "POA",
-      "symbol": "POA",
+      "name": "POA Network",
+      "symbol": "POA Network",
       "slug": "poa",
       "tags": [
         "platform"
@@ -31128,7 +31128,7 @@
     },
     {
       "id": 8300,
-      "name": "PolkaCover",
+      "name": "CoverCompared",
       "symbol": "CVR",
       "slug": "polkacover",
       "tags": [

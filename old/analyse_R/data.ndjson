@@ -2449,7 +2449,7 @@
 {"name":"Skycoin","short":"SKY","url":"/currencies/skycoin","tags":["Coin","Platform","Distributed Computing"]}
 {"name":"Small Love Potion","short":"SLP","url":"/currencies/small-love-potion","tags":["Token","Collectibles & NFTs"]}
 {"name":"SmartCash","short":"SMART","url":"/currencies/smartcash","tags":["Coin","Mineable"]}
-{"name":"SmartCoin","short":"SMC","url":"/currencies/smartcoin","tags":["Coin","Mineable","PoW","Scrypt"]}
+{"name":"SmartCoin (SMC)","short":"SMC","url":"/currencies/smartcoin","tags":["Coin","Mineable","PoW","Scrypt"]}
 {"name":"SmartMesh","short":"SMT","url":"/currencies/smartmesh","tags":["Token","Technology","IoT"]}
 {"name":"Smartlands Network","short":"SLT","url":"/currencies/smartlands-network","tags":["Token"]}
 {"name":"Smartshare","short":"SSP","url":"/currencies/smartshare","tags":["Token"]}

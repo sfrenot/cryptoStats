@@ -17249,8 +17249,8 @@
     },
     {
       "id": 2548,
-      "name": "POA",
-      "symbol": "POA",
+      "name": "POA Network",
+      "symbol": "POA Network",
       "slug": "poa",
       "tags": [
         "platform"
@@ -49375,7 +49375,7 @@
     },
     {
       "id": 113,
-      "name": "SmartCoin",
+      "name": "SmartCoin (SMC)",
       "symbol": "SMC",
       "slug": "smartcoin",
       "tags": [
@@ -58399,7 +58399,7 @@
     },
     {
       "id": 7505,
-      "name": "TON Crystal",
+      "name": "Everscale",
       "symbol": "TON",
       "slug": "ton-crystal",
       "tags": [],

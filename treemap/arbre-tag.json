@@ -360,7 +360,7 @@
           "value": 1
         },
         {
-          "name": "TON Crystal",
+          "name": "Everscale",
           "url": "/currencies/ton-crystal",
           "value": 1
         },
@@ -21431,7 +21431,7 @@
                           "value": 1
                         },
                         {
-                          "name": "SmartCoin",
+                          "name": "SmartCoin (SMC)",
                           "url": "/currencies/smartcoin",
                           "value": 1
                         },
@@ -24947,7 +24947,7 @@
           "name": "Platform",
           "children": [
             {
-              "name": "POA",
+              "name": "POA Network",
               "url": "/currencies/poa",
               "value": 1
             },

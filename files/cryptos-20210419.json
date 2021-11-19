@@ -22070,8 +22070,8 @@
     },
     {
       "id": 2548,
-      "name": "POA",
-      "symbol": "POA",
+      "name": "POA Network",
+      "symbol": "POA Network",
       "slug": "poa",
       "tags": [
         "platform"
@@ -25185,7 +25185,7 @@
     },
     {
       "id": 8300,
-      "name": "PolkaCover",
+      "name": "CoverCompared",
       "symbol": "CVR",
       "slug": "polkacover",
       "tags": [
@@ -52433,7 +52433,7 @@
     },
     {
       "id": 8177,
-      "name": "KnoxFS (new)",
+      "name": "KnoxFS (New)",
       "symbol": "KFX",
       "slug": "knoxfs-new",
       "tags": [],
@@ -53095,7 +53095,7 @@
     },
     {
       "id": 113,
-      "name": "SmartCoin",
+      "name": "SmartCoin (SMC)",
       "symbol": "SMC",
       "slug": "smartcoin",
       "tags": [
@@ -66331,7 +66331,7 @@
     },
     {
       "id": 8267,
-      "name": "OKExChain",
+      "name": "OEC Token",
       "symbol": "OKT",
       "slug": "okexchain",
       "tags": [
@@ -69880,7 +69880,7 @@
     },
     {
       "id": 7505,
-      "name": "TON Crystal",
+      "name": "Everscale",
       "symbol": "TON",
       "slug": "ton-crystal",
       "tags": [],
@@ -73154,7 +73154,7 @@
     },
     {
       "id": 8205,
-      "name": "Bat True Share",
+      "name": "Bolt Share",
       "symbol": "BTS",
       "slug": "bat-true-share",
       "tags": [],
@@ -76177,7 +76177,7 @@
     },
     {
       "id": 8541,
-      "name": "SifChain",
+      "name": "SifChain(Ethereum)",
       "symbol": "erowan",
       "slug": "sifchain",
       "tags": [
@@ -78956,7 +78956,7 @@
     },
     {
       "id": 8128,
-      "name": "DeFi Social Gaming",
+      "name": "DFSocial Gaming [old]",
       "symbol": "DFSOCIAL",
       "slug": "defisocial-gaming",
       "tags": [
@@ -80173,7 +80173,7 @@
     },
     {
       "id": 9107,
-      "name": "Zilswap",
+      "name": "ZilSwap",
       "symbol": "ZWAP",
       "slug": "zilswap",
       "tags": [],

@@ -34,6 +34,7 @@ tagsTables =
   'bluezilla': 'Bluezilla'
   'bounce-launchpad': 'Bounce Launchpad'
   'bullperks-launchpad': 'Bullperks Launchpad'
+  'cardano-ecosystem': 'Cardana Ecosystem'
   'centralized-exchange': 'Centralized exchange'
   'chiliz': 'Chiliz'
   'chromia-ecosystem': 'Chromia Ecosystem'

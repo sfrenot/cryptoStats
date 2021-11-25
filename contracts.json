@@ -59,9 +59,10 @@
   },
   {
     "urls": [
-      "https://explorer.celo.org/address"
+      "https://explorer.celo.org/"
     ],
-    "contract": "Celo Contract"
+    "contract": "Celo Contract",
+    "gecko_asset_platform_id": "celo"
   },
   {
     "urls": [
@@ -75,6 +76,14 @@
       "https://confluxscan.io/token"
     ],
     "contract": "Conflux Contract"
+  },
+  {
+    "urls": [
+      "https://cronos-explorer.crypto.org/token",
+      "https://cronos.crypto.org/explorer/tokens"
+    ],
+    "contract": "Cronos Contract",
+    "gecko_asset_platform_id": "cronos"
   },
   {
     "urls": [
@@ -318,6 +327,13 @@
   },
   {
     "urls": [
+      "https://explorer.kardiachain.io/token"
+    ],
+    "contract": "Kardia Contract",
+    "gecko_asset_platform_id": "kardiachain"
+  },
+  {
+    "urls": [
       "https://scope.klaytn.com/token"
     ],
     "contract": "Klay Contract",
@@ -383,7 +399,8 @@
     "urls": [
       "https://viewblock.io/zilliqa/address"
     ],
-    "contract": "Zilliqua Contract"
+    "contract": "Zilliqua Contract",
+    "gecko_asset_platform_id": "zilliqa"
   },
   {
     "urls": [
@@ -425,5 +442,12 @@
       "https://explorer.rsk.co/address/"
     ],
     "contract": "Sovryn Contract"
+  },
+  {
+    "urls": [
+      "https://xrpscan.com/account"
+    ],
+    "contract": "Xrp Contract",
+    "gecko_asset_platform_id":"xrp"
   }
 ]

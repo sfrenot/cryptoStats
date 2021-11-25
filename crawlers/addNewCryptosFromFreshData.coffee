@@ -107,6 +107,7 @@ tagsTables =
   'lending-borowing': 'Lending Borowing'
   'logistics': 'Logistics'
   'loyalty': 'Loyalty'
+  'lpos': 'LPOS'
   'lp-tokens': 'Lp Tokens'
   'marketplace': 'Marketplace'
   'marketing': 'Marketing'

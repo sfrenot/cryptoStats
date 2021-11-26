@@ -57,9 +57,7 @@ for crypto in raw.data
         delete datadb.tag_Token
         datadb.type = 'Token'
       else
-        console.log "Erreur #{JSON.stringify crypto, null, 2}"
-        console.log "#{JSON.stringify datadb, null, 2}"
-        process.exit(1)
+        datadb.type = 'Unkown Type'
 
       # tags = []
       # if crypto.tags?

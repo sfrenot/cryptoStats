@@ -18,7 +18,10 @@ for crypto in raw.data
   unless found?
     console.warn("#{crypto.name} not found in DB")
   else
+
     unless "Dead" in found.tags
+      console.warn("#{crypto.name}")
+
       datadb={}
       _.forEach found, (val, key) ->
         unless key == "name" or key == "tags" or key == "forked_data" or key=="depends" or key== "people" or key=="deaths"

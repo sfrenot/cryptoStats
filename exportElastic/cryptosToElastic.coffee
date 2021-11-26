@@ -20,7 +20,7 @@ for crypto in raw.data
   else
 
     unless "Dead" in found.tags
-      console.warn("#{crypto.name}")
+      # console.warn("#{crypto.name}")
 
       datadb={}
       _.forEach found, (val, key) ->

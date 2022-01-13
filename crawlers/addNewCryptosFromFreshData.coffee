@@ -116,6 +116,7 @@ tagsTables =
   'loyalty': 'Loyalty'
   'lpos': 'LPOS'
   'lp-tokens': 'Lp Tokens'
+  'magnus-capital-portfolio': 'Magnus Capital Portfolio' 
   'marketplace': 'Marketplace'
   'marketing': 'Marketing'
   'masternodes': 'Masternodes'

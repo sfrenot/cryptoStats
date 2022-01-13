@@ -7040,7 +7040,7 @@
     },
     {
       "id": 9040,
-      "name": "Pundi X[new]",
+      "name": "Pundi X (New)",
       "symbol": "PUNDIX",
       "slug": "pundix-new",
       "tags": [],
@@ -11720,7 +11720,7 @@
     },
     {
       "id": 4041,
-      "name": "MX Token",
+      "name": "MX TOKEN",
       "symbol": "MX",
       "slug": "mx-token",
       "tags": [
@@ -21545,8 +21545,8 @@
     },
     {
       "id": 6810,
-      "name": "CYCLUB",
-      "symbol": "CYCLUB",
+      "name": "Cyclub",
+      "symbol": "Cyclub",
       "slug": "cyclub",
       "tags": [
         "content-creation",
@@ -86092,7 +86092,7 @@
     },
     {
       "id": 9438,
-      "name": "Nominex Token",
+      "name": "Nominex",
       "symbol": "NMX",
       "slug": "nominex-token",
       "tags": [

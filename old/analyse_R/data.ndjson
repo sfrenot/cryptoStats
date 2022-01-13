@@ -1739,7 +1739,7 @@
 {"name":"MSD","short":"MSD","url":"/currencies/msd","tags":["Coin"]}
 {"name":"MTC Mesh Network","short":"MTC","url":"/currencies/mtc-mesh-network","tags":["Token"]}
 {"name":"MVL","short":"MVL","url":"/currencies/mvl","tags":["Token"]}
-{"name":"MX Token","short":"MX","url":"/currencies/mx-token","tags":["Token","Marketplace","Centralized exchange","Discount token"]}
+{"name":"MX TOKEN","short":"MX","url":"/currencies/mx-token","tags":["Token","Marketplace","Centralized exchange","Discount token"]}
 {"name":"MXC","short":"MXC","url":"/currencies/mxc","tags":["Token","IoT","Substrate"]}
 {"name":"MYX Network","short":"MYX","url":"/currencies/myx-network","tags":["Token"]}
 {"name":"Machi X","short":"MCX","url":"/currencies/machix","tags":["Token"]}

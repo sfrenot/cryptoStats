@@ -21,6 +21,7 @@ tagsTables =
   'atomic-swaps':'Atomic Swaps'
   'art': 'Art'
   'arbitrum-ecosytem': 'Arbitrum Ecosytem'
+  'arrington-xrp-capital-portfolio': 'Arrington Xrp Capital Portfolio'
   'asset-backed-coin': 'Asset Backed Coin'
   'asset-management': 'Asset management'
   'aave-tokens': 'Aave Tokens'

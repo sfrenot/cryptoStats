@@ -1433,7 +1433,7 @@
               "value": 1
             },
             {
-              "name": "Bounce Token",
+              "name": "Bounce Finance Governance Token",
               "url": "/currencies/bounce-token",
               "value": 1
             },
@@ -10732,7 +10732,7 @@
                       "name": "Retail",
                       "children": [
                         {
-                          "name": "Nucleus Vision",
+                          "name": "Nitro Network",
                           "url": "/currencies/nucleus-vision",
                           "value": 1
                         }
@@ -11111,7 +11111,7 @@
                   "value": 1
                 },
                 {
-                  "name": "xDai",
+                  "name": "STAKE",
                   "url": "/currencies/xdai",
                   "value": 1
                 },

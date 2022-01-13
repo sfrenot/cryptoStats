@@ -4274,7 +4274,7 @@
     },
     {
       "id": 5601,
-      "name": "xDai",
+      "name": "STAKE",
       "symbol": "STAKE",
       "slug": "xdai",
       "tags": [
@@ -8571,7 +8571,7 @@
     },
     {
       "id": 2544,
-      "name": "Nucleus Vision",
+      "name": "Nitro Network",
       "symbol": "NCASH",
       "slug": "nucleus-vision",
       "tags": [
@@ -12089,7 +12089,7 @@
     },
     {
       "id": 6365,
-      "name": "Bounce Token",
+      "name": "Bounce Finance Governance Token",
       "symbol": "BOT",
       "slug": "bounce-token",
       "tags": [

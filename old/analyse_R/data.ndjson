@@ -503,7 +503,7 @@
 {"name":"Boolberry","short":"BBR","url":"/currencies/boolberry","tags":["Coin","Mineable","PoW","X11"]}
 {"name":"Boosted Finance","short":"BOOST","url":"/currencies/boosted-finance","tags":["Token","Yield farming"]}
 {"name":"Bottos","short":"BTO","url":"/currencies/bottos","tags":["Coin","Marketplace","AI & Big Data","Distributed Computing"]}
-{"name":"Bounce Token","short":"BOT","url":"/currencies/bounce-token","tags":["Token"]}
+{"name":"Bounce Finance Governance Token","short":"BOT","url":"/currencies/bounce-token","tags":["Token"]}
 {"name":"Bounty0x","short":"BNTY","url":"/currencies/bounty0x","tags":["Token","Services","Crowdsourcing"]}
 {"name":"BoutsPro","short":"BOUTS","url":"/currencies/boutspro","tags":["Token"]}
 {"name":"BowsCoin","short":"BSC","url":"/currencies/bowscoin","tags":["Coin","Mineable","PoW","X11"]}
@@ -3162,7 +3162,7 @@
 {"name":"wys Token","short":"WYS","url":"/currencies/wys-token","tags":["Token"]}
 {"name":"x42 Protocol","short":"X42","url":"/currencies/x42-protocol","tags":["Coin"]}
 {"name":"xBTC","short":"xBTC","url":"/currencies/xbtc","tags":["Token"]}
-{"name":"xDai","short":"STAKE","url":"/currencies/xdai","tags":["Token","DeFi"]}
+{"name":"STAKE","short":"STAKE","url":"/currencies/xdai","tags":["Token","DeFi"]}
 {"name":"xscoin","short":"XSC","url":"/currencies/xscoin","tags":["Coin"]}
 {"name":"yRise Finance","short":"YRISE","url":"/currencies/yrise-finance","tags":["Token"]}
 {"name":"yTSLA Finance","short":"yTSLA","url":"/currencies/ytsla-finance","tags":["Token"]}

@@ -12639,7 +12639,7 @@
     },
     {
       "id": 5601,
-      "name": "xDai",
+      "name": "STAKE",
       "symbol": "STAKE",
       "slug": "xdai",
       "tags": [
@@ -14179,7 +14179,7 @@
     },
     {
       "id": 8602,
-      "name": "Bounce Token",
+      "name": "Bounce Finance Governance Token",
       "symbol": "AUCTION",
       "slug": "bounce-token",
       "tags": [
@@ -16758,7 +16758,7 @@
     },
     {
       "id": 8603,
-      "name": "AntiMatter",
+      "name": "AntiMatter Governance Token",
       "symbol": "MATTER",
       "slug": "antimatter",
       "tags": [
@@ -16982,7 +16982,7 @@
     },
     {
       "id": 2544,
-      "name": "Nucleus Vision",
+      "name": "Nitro Network",
       "symbol": "NCASH",
       "slug": "nucleus-vision",
       "tags": [
@@ -89537,7 +89537,7 @@
     },
     {
       "id": 8124,
-      "name": "DRC mobility",
+      "name": "DRC Mobility",
       "symbol": "DRC",
       "slug": "drc-mobility",
       "tags": [],

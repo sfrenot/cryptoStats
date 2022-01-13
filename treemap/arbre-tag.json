@@ -10,7 +10,7 @@
           "value": 1
         },
         {
-          "name": "Agoras",
+          "name": "Agoras: Currency of Tau",
           "url": "/currencies/agoras-tokens",
           "value": 1
         },
@@ -15069,7 +15069,7 @@
                   "name": "Tron",
                   "children": [
                     {
-                      "name": "FREE Coin",
+                      "name": "FREEdom Coin",
                       "url": "/currencies/free-coin",
                       "value": 1
                     }
@@ -18552,7 +18552,7 @@
           "name": "Collectibles & NFTs",
           "children": [
             {
-              "name": "RedFOX Labs",
+              "name": "RFOX",
               "url": "/currencies/redfox-labs",
               "value": 1
             },

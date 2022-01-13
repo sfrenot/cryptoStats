@@ -135,7 +135,7 @@
 {"name":"AfroDex","short":"AfroX","url":"/currencies/afrodex","tags":["Token"]}
 {"name":"AgaveCoin","short":"AGVC","url":"/currencies/agavecoin","tags":["Token","Commodities","Discount token"]}
 {"name":"Agora","short":"VOTE","url":"/currencies/agora","tags":["Token"]}
-{"name":"Agoras","short":"AGRS","url":"/currencies/agoras-tokens","tags":["Token"]}
+{"name":"Agoras: Currency of Tau","short":"AGRS","url":"/currencies/agoras-tokens","tags":["Token"]}
 {"name":"Agrello","short":"DLT","url":"/currencies/agrello-delta","tags":["Token","Platform","AI & Big Data","Payments"]}
 {"name":"Agrolot","short":"AGLT","url":"/currencies/agrolot","tags":["Token"]}
 {"name":"AiLink Token","short":"ALI","url":"/currencies/ailink-token","tags":["Token"]}
@@ -1147,7 +1147,7 @@
 {"name":"FNKOS","short":"FNKOS","url":"/currencies/fnkos","tags":["Token"]}
 {"name":"FOAM","short":"FOAM","url":"/currencies/foam","tags":["Token","Platform","AI & Big Data"]}
 {"name":"FOCV","short":"FOCV","url":"/currencies/focv","tags":["Token"]}
-{"name":"FREE Coin","short":"FREE","url":"/currencies/free-coin","tags":["Token"]}
+{"name":"FREEdom Coin","short":"FREE","url":"/currencies/free-coin","tags":["Token"]}
 {"name":"FSBT API Token","short":"FSBT","url":"/currencies/fsbt-api-token","tags":["Token"]}
 {"name":"FTX Token","short":"FTT","url":"/currencies/ftx-token","tags":["Token","Marketplace","Derivatives"]}
 {"name":"FUD.finance","short":"FUD","url":"/currencies/fudfinance","tags":["Token"]}
@@ -2272,7 +2272,7 @@
 {"name":"Realio Network","short":"RIO","url":"/currencies/realio-network","tags":["Token"]}
 {"name":"Receive Access Ecosystem","short":"RAE","url":"/currencies/receive-access-ecosystem","tags":["Token"]}
 {"name":"Red Pulse Phoenix","short":"PHX","url":"/currencies/red-pulse","tags":["Token","Services","Research"]}
-{"name":"RedFOX Labs","short":"RFOX","url":"/currencies/redfox-labs","tags":["Token","Collectibles & NFTs"]}
+{"name":"RFOX","short":"RFOX","url":"/currencies/redfox-labs","tags":["Token","Collectibles & NFTs"]}
 {"name":"Redd","short":"RDD","url":"/currencies/redd","tags":["Coin","Hybrid - PoW & PoS","Scrypt","Media","Content Creation"]}
 {"name":"RefToken","short":"REF","url":"/currencies/reftoken","tags":["Token","Marketing"]}
 {"name":"Refereum","short":"RFR","url":"/currencies/refereum","tags":["Token","Media","Content Creation","Gaming"]}

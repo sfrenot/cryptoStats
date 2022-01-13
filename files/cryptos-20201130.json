@@ -9692,7 +9692,7 @@
     },
     {
       "id": 1037,
-      "name": "Agoras",
+      "name": "Agoras: Currency of Tau",
       "symbol": "AGRS",
       "slug": "agoras-tokens",
       "max_supply": 42000000,
@@ -27248,7 +27248,7 @@
     },
     {
       "id": 3388,
-      "name": "FREE Coin",
+      "name": "FREEdom Coin",
       "symbol": "FREE",
       "slug": "free-coin",
       "max_supply": 10000000000000,
@@ -54128,7 +54128,7 @@
     },
     {
       "id": 7654,
-      "name": "RedFOX Labs",
+      "name": "RFOX",
       "symbol": "RFOX",
       "slug": "redfox-labs",
       "max_supply": null,

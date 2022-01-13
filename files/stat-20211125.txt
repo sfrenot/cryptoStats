@@ -9636,7 +9636,7 @@
   "yffc.finance [Token,Dead,Ethereum Contract] /currencies/yffc-finance",
   "yffi finance [Token,Yield farming,NoGitHub,Ethereum Contract,Dead] /currencies/yffi-finance",
   "yieldwatch [NoGitHub,Token,Binance Contract,Dead] /currencies/yieldwatch",
-  "youves [Dead,Token,Tezos Contract,New2] /currencies/youves",
+  "youves [Dead,Token,Tezos Contract,New2] /currencies/"youves uUSD",
   "yplutus [Yield farming,Token,Ethereum Contract,NoLicenceFile,Dead] /currencies/yplutus",
   "ysoy chain farm [NoGitHub,Token,Binance Contract,Dead] /currencies/ysoy-chain-farm",
   "zHEGIC [Token,Ethereum Contract,Dead] /currencies/zhegic",

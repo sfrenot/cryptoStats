@@ -6763,7 +6763,7 @@
     },
     {
       "id": 5802,
-      "name": "Sora",
+      "name": "SORA",
       "symbol": "XOR",
       "slug": "sora",
       "tags": [
@@ -59183,7 +59183,7 @@
     },
     {
       "id": 7876,
-      "name": "Sora Validator Token",
+      "name": "SORA Validator Token",
       "symbol": "VAL",
       "slug": "sora-validator-token",
       "tags": [],

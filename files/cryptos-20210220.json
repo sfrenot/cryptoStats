@@ -6801,7 +6801,7 @@
     },
     {
       "id": 5802,
-      "name": "Sora",
+      "name": "SORA",
       "symbol": "XOR",
       "slug": "sora",
       "tags": [
@@ -62375,7 +62375,7 @@
     },
     {
       "id": 7876,
-      "name": "Sora Validator Token",
+      "name": "SORA Validator Token",
       "symbol": "VAL",
       "slug": "sora-validator-token",
       "tags": [],
@@ -69932,7 +69932,7 @@
     },
     {
       "id": 6887,
-      "name": "Uniris",
+      "name": "Archethic",
       "symbol": "UCO",
       "slug": "uniris",
       "tags": [],

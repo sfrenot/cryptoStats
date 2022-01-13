@@ -2479,7 +2479,7 @@
 {"name":"SongCoin","short":"SONG","url":"/currencies/songcoin","tags":["Coin","Mineable","PoW","Scrypt"]}
 {"name":"SonoCoin","short":"SONO","url":"/currencies/sonocoin","tags":["Coin"]}
 {"name":"SophiaTX","short":"SPHTX","url":"/currencies/sophiatx","tags":["Coin","Platform","AI & Big Data","Enterprise solutions"]}
-{"name":"Sora","short":"XOR","url":"/currencies/sora","tags":["Token","Substrate","Polkadot"]}
+{"name":"SORA","short":"XOR","url":"/currencies/sora","tags":["Token","Substrate","Polkadot"]}
 {"name":"SounDAC","short":"XSD","url":"/currencies/bitshares-music","tags":["Coin"]}
 {"name":"Soverain","short":"SOVE","url":"/currencies/soverain","tags":["Coin"]}
 {"name":"SovranoCoin","short":"SVR","url":"/currencies/sovranocoin","tags":["Coin"]}
@@ -2777,7 +2777,7 @@
 {"name":"Unikoin Gold","short":"UKG","url":"/currencies/unikoin-gold","tags":["Token","Gambling","Gaming"]}
 {"name":"Unimonitor","short":"UNT","url":"/currencies/unimonitor","tags":["Token"]}
 {"name":"Union Fair Coin","short":"UFC","url":"/currencies/union-fair-coin","tags":["Token"]}
-{"name":"Uniris","short":"UCO","url":"/currencies/uniris","tags":["Token"]}
+{"name":"Archethic","short":"UCO","url":"/currencies/uniris","tags":["Token"]}
 {"name":"Unisocks","short":"SOCKS","url":"/currencies/unisocks","tags":["Token","DeFi"]}
 {"name":"Uniswap","short":"UNI","url":"/currencies/uniswap","tags":["Token","DeFi","AMM"]}
 {"name":"Unit Protocol","short":"COL","url":"/currencies/unit-protocol","tags":["Token"]}

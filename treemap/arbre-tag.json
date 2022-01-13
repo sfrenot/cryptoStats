@@ -5843,7 +5843,7 @@
               "value": 1
             },
             {
-              "name": "Uniris",
+              "name": "Archethic",
               "url": "/currencies/uniris",
               "value": 1
             },
@@ -15849,7 +15849,7 @@
                   "name": "Polkadot",
                   "children": [
                     {
-                      "name": "Sora",
+                      "name": "SORA",
                       "url": "/currencies/sora",
                       "value": 1
                     }

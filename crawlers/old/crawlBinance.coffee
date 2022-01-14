@@ -6,7 +6,7 @@ request = require 'request-promise'
 
 # TODO : tester les cas avec crypto qui ont déjà des token
 cryptoDown = _.find cryptos, (crypt) ->
-  if crypt.name.endsWith("DOWN") and not ("Binance Coin" in crypt.tags)
+  if crypt.name.endsWith("DOWN") and not ("BNB" in crypt.tags)
     crypt = crypt.name.split("DOWN")[0]
     console.log(crypt)
 

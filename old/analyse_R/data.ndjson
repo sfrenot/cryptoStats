@@ -353,7 +353,7 @@
 {"name":"BigdataCash","short":"BDCASH","url":"/currencies/bigdatacash","tags":["Coin"]}
 {"name":"Bilaxy Token","short":"BIA","url":"/currencies/bilaxy-token","tags":["Token"]}
 {"name":"Billionaire Token","short":"XBL","url":"/currencies/billionaire-token","tags":["Token","Gambling"]}
-{"name":"Binance Coin","short":"BNB","url":"/currencies/binance-coin","tags":["Coin","Marketplace","Payments"]}
+{"name":"BNB","short":"BNB","url":"/currencies/binance-coin","tags":["Coin","Marketplace","Payments"]}
 {"name":"Binance GBP Stable Coin","short":"BGBP","url":"/currencies/binance-gbp-stable-coin","tags":["Token","Stablecoin","Stablecoin - Asset-Backed"]}
 {"name":"Binance KRW","short":"BKRW","url":"/currencies/binance-krw","tags":["Token","Stablecoin","Stablecoin - Asset-Backed"]}
 {"name":"Binance USD","short":"BUSD","url":"/currencies/binance-usd","tags":["Token","Store of Value","Stablecoin","Stablecoin - Asset-Backed","Binance Chain"]}
@@ -1204,7 +1204,7 @@
 {"name":"FlypMe","short":"FYP","url":"/currencies/flypme","tags":["Token","Marketplace","Wallet"]}
 {"name":"Folgory Coin","short":"FLG","url":"/currencies/folgory-coin","tags":["Token"]}
 {"name":"FolgoryUSD","short":"USDF","url":"/currencies/folgoryusd","tags":["Token"]}
-{"name":"Footballcoin","short":"XFC","url":"/currencies/footballcoin","tags":["Coin"]}
+{"name":"Footballcoin (XFC)","short":"XFC","url":"/currencies/footballcoin","tags":["Coin"]}
 {"name":"Force For Fast","short":"FFF","url":"/currencies/force-for-fast","tags":["Token"]}
 {"name":"Foresight","short":"FORS","url":"/currencies/foresight","tags":["Token"]}
 {"name":"FortKnoxster","short":"FKX","url":"/currencies/fortknoxster","tags":["Token"]}
@@ -1249,7 +1249,7 @@
 {"name":"Galilel","short":"GALI","url":"/currencies/galilel","tags":["Coin"]}
 {"name":"Gallery Finance","short":"GLF","url":"/currencies/gallery-finance","tags":["Token"]}
 {"name":"Game Ark","short":"GARK","url":"/currencies/game-ark","tags":["Token"]}
-{"name":"Game Stars","short":"GST","url":"/currencies/game-stars","tags":["Token"]}
+{"name":"Game Stars","short":"Green Satoshi Token","url":"/currencies/game-stars","tags":["Token"]}
 {"name":"Game.com","short":"GTC","url":"/currencies/game","tags":["Token","Media"]}
 {"name":"GameCredits","short":"GAME","url":"/currencies/gamecredits","tags":["Token","Collectibles & NFTs"]}
 {"name":"Garlicoin","short":"GRLC","url":"/currencies/garlicoin","tags":["Coin","Mineable"]}
@@ -1320,7 +1320,7 @@
 {"name":"Grimm","short":"GRIMM","url":"/currencies/grimm","tags":["Coin"]}
 {"name":"Groestlcoin","short":"GRS","url":"/currencies/groestlcoin","tags":["Coin","Mineable","PoW","Groestl","Medium of Exchange"]}
 {"name":"Growth DeFi","short":"GRO","url":"/currencies/growthdefi","tags":["Token"]}
-{"name":"Gstcoin","short":"GST","url":"/currencies/gstcoin","tags":["Coin"]}
+{"name":"Gstcoin","short":"Green Satoshi Token","url":"/currencies/gstcoin","tags":["Coin"]}
 {"name":"Guapcoin","short":"GUAP","url":"/currencies/guapcoin","tags":["Coin"]}
 {"name":"Guaranteed Ethurance Token Extra","short":"GETX","url":"/currencies/guaranteed-ethurance-token-extra","tags":["Token"]}
 {"name":"GuccioneCoin","short":"GCC","url":"/currencies/guccionecoin","tags":["Coin","PoW","Scrypt"]}
@@ -2329,7 +2329,7 @@
 {"name":"SF Capital","short":"SFCP","url":"/currencies/sf-capital","tags":["Token"]}
 {"name":"Spaceswap SHAKE","short":"Spaceswap SHAKE","url":"/currencies/shake","tags":["Token"]}
 {"name":"SHENG","short":"SHENG","url":"/currencies/sheng","tags":["Token"]}
-{"name":"SHIBA INU","short":"SHIB","url":"/currencies/shiba-inu","tags":["Token","Memes"]}
+{"name":"Shiba Inu","short":"SHIB","url":"/currencies/shiba-inu","tags":["Token","Memes"]}
 {"name":"SHIELD","short":"XSH","url":"/currencies/shield-xsh","tags":["Coin","Mineable"]}
 {"name":"SHPING","short":"SHPING","url":"/currencies/shping","tags":["Token"]}
 {"name":"SIBCoin","short":"SIB","url":"/currencies/sibcoin","tags":["Coin","Mineable","PoW","X11GOST"]}

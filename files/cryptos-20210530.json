@@ -152,7 +152,7 @@
     },
     {
       "id": 1839,
-      "name": "Binance Coin",
+      "name": "BNB",
       "symbol": "BNB",
       "slug": "binance-coin",
       "tags": [
@@ -1036,7 +1036,7 @@
     },
     {
       "id": 5994,
-      "name": "SHIBA INU",
+      "name": "Shiba Inu",
       "symbol": "SHIB",
       "slug": "shiba-inu",
       "tags": [
@@ -5123,7 +5123,7 @@
     },
     {
       "id": 7226,
-      "name": "Injective Protocol",
+      "name": "Injective",
       "symbol": "INJ",
       "slug": "injective-protocol",
       "tags": [
@@ -34926,7 +34926,7 @@
     },
     {
       "id": 3663,
-      "name": "Footballcoin",
+      "name": "Footballcoin (XFC)",
       "symbol": "XFC",
       "slug": "footballcoin",
       "tags": [],
@@ -60401,7 +60401,7 @@
     },
     {
       "id": 2978,
-      "name": "AceD",
+      "name": "AceD (old)",
       "symbol": "ACED",
       "slug": "aced",
       "tags": [
@@ -93350,7 +93350,7 @@
     {
       "id": 5820,
       "name": "Gstcoin",
-      "symbol": "GST",
+      "symbol": "Green Satoshi Token",
       "slug": "gstcoin",
       "tags": [],
       "max_supply": 10000000000,
@@ -94617,7 +94617,7 @@
     },
     {
       "id": 9492,
-      "name": "ETHERLAND",
+      "name": "Etherland",
       "symbol": "ELAND",
       "slug": "etherland",
       "tags": [
@@ -121408,7 +121408,7 @@
     {
       "id": 8817,
       "name": "The Gemstone",
-      "symbol": "GST",
+      "symbol": "Green Satoshi Token",
       "slug": "the-gemstone",
       "tags": [],
       "max_supply": 15000000,

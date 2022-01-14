@@ -6786,7 +6786,7 @@
                   "value": 1
                 },
                 {
-                  "name": "AceD",
+                  "name": "AceD (old)",
                   "url": "/currencies/aced",
                   "value": 1
                 },
@@ -10306,7 +10306,7 @@
                   ]
                 },
                 {
-                  "name": "Binance Coin",
+                  "name": "BNB",
                   "children": [
                     {
                       "name": "Bitcloud Pro",
@@ -10759,7 +10759,7 @@
                       "value": 1
                     },
                     {
-                      "name": "SHIBA INU",
+                      "name": "Shiba Inu",
                       "url": "/currencies/shiba-inu",
                       "value": 1
                     }
@@ -10991,7 +10991,7 @@
                   "value": 1
                 },
                 {
-                  "name": "Injective Protocol",
+                  "name": "Injective",
                   "url": "/currencies/injective-protocol",
                   "value": 1
                 },
@@ -11239,7 +11239,7 @@
                       ]
                     },
                     {
-                      "name": "Binance Coin",
+                      "name": "BNB",
                       "children": [
                         {
                           "name": "DFI.Money",
@@ -11559,7 +11559,7 @@
                       "value": 1
                     },
                     {
-                      "name": "Binance Coin",
+                      "name": "BNB",
                       "children": [
                         {
                           "name": "Band Protocol",
@@ -11786,7 +11786,7 @@
                   ]
                 },
                 {
-                  "name": "Binance Coin",
+                  "name": "BNB",
                   "children": [
                     {
                       "name": "Cream Finance",
@@ -12029,7 +12029,7 @@
                       "value": 1
                     },
                     {
-                      "name": "Binance Coin",
+                      "name": "BNB",
                       "children": [
                         {
                           "name": "Smart Contracts",
@@ -12461,7 +12461,7 @@
                   ]
                 },
                 {
-                  "name": "Binance Coin",
+                  "name": "BNB",
                   "children": [
                     {
                       "name": "Blockmason Credit Protocol",
@@ -12877,7 +12877,7 @@
                           ]
                         },
                         {
-                          "name": "Binance Coin",
+                          "name": "BNB",
                           "children": [
                             {
                               "name": "Silverway",
@@ -13097,7 +13097,7 @@
                       "name": "Privacy",
                       "children": [
                         {
-                          "name": "Binance Coin",
+                          "name": "BNB",
                           "children": [
                             {
                               "name": "Dusk Network",
@@ -13284,7 +13284,7 @@
                   "name": "Derivatives",
                   "children": [
                     {
-                      "name": "Binance Coin",
+                      "name": "BNB",
                       "children": [
                         {
                           "name": "FTX Token",
@@ -13659,7 +13659,7 @@
                       "value": 1
                     },
                     {
-                      "name": "Binance Coin",
+                      "name": "BNB",
                       "children": [
                         {
                           "name": "Nexo",
@@ -14046,7 +14046,7 @@
                   "value": 1
                 },
                 {
-                  "name": "Binance Coin",
+                  "name": "BNB",
                   "children": [
                     {
                       "name": "3X Long Bitcoin Token",
@@ -14654,7 +14654,7 @@
                       "value": 1
                     },
                     {
-                      "name": "Binance Coin",
+                      "name": "BNB",
                       "children": [
                         {
                           "name": "Loyalty",
@@ -14948,7 +14948,7 @@
               ]
             },
             {
-              "name": "Binance Coin",
+              "name": "BNB",
               "children": [
                 {
                   "name": "Aditus",
@@ -16215,7 +16215,7 @@
           ]
         },
         {
-          "name": "Binance Coin",
+          "name": "BNB",
           "children": [
             {
               "name": "3x Long EOS Token",
@@ -19224,7 +19224,7 @@
           "value": 1
         },
         {
-          "name": "Footballcoin",
+          "name": "Footballcoin (XFC)",
           "url": "/currencies/footballcoin",
           "value": 1
         },
@@ -25515,7 +25515,7 @@
               "name": "Marketplace",
               "children": [
                 {
-                  "name": "Binance Coin",
+                  "name": "BNB",
                   "url": "/currencies/binance-coin",
                   "value": 1
                 },

@@ -121,7 +121,7 @@
     },
     {
       "id": 1839,
-      "name": "Binance Coin",
+      "name": "BNB",
       "symbol": "BNB",
       "slug": "binance-coin",
       "tags": [
@@ -6103,7 +6103,7 @@
     },
     {
       "id": 7226,
-      "name": "Injective Protocol",
+      "name": "Injective",
       "symbol": "INJ",
       "slug": "injective-protocol",
       "tags": [
@@ -35672,7 +35672,7 @@
     },
     {
       "id": 3663,
-      "name": "Footballcoin",
+      "name": "Footballcoin (XFC)",
       "symbol": "XFC",
       "slug": "footballcoin",
       "tags": [],
@@ -47939,7 +47939,7 @@
     },
     {
       "id": 2978,
-      "name": "AceD",
+      "name": "AceD (old)",
       "symbol": "ACED",
       "slug": "aced",
       "tags": [

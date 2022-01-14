@@ -77,7 +77,7 @@
     },
     {
       "id": 1839,
-      "name": "Binance Coin",
+      "name": "BNB",
       "symbol": "BNB",
       "slug": "binance-coin",
       "tags": [
@@ -4784,7 +4784,7 @@
     },
     {
       "id": 7226,
-      "name": "Injective Protocol",
+      "name": "Injective",
       "symbol": "INJ",
       "slug": "injective-protocol",
       "tags": [
@@ -11159,7 +11159,7 @@
     {
       "id": 5820,
       "name": "Gstcoin",
-      "symbol": "GST",
+      "symbol": "Green Satoshi Token",
       "slug": "gstcoin",
       "tags": [],
       "max_supply": 10000000000,

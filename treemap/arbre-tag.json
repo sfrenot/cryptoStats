@@ -7121,7 +7121,7 @@
                   "value": 1
                 },
                 {
-                  "name": "Budbo",
+                  "name": "Budbo Token",
                   "url": "/currencies/budbo",
                   "value": 1
                 },
@@ -8546,7 +8546,7 @@
                   "value": 1
                 },
                 {
-                  "name": "PECULIUM",
+                  "name": "PECULIUM (old)",
                   "url": "/currencies/peculium",
                   "value": 1
                 },
@@ -21906,7 +21906,7 @@
                       "name": "Blake",
                       "children": [
                         {
-                          "name": "TrumpCoin",
+                          "name": "Trumpcoin",
                           "url": "/currencies/trumpcoin",
                           "value": 1
                         }

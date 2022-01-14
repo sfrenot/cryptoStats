@@ -15410,7 +15410,7 @@
     },
     {
       "id": 7798,
-      "name": "Decentral Games [Old]",
+      "name": "Decentral Games",
       "symbol": "DG",
       "slug": "decentral-games",
       "tags": [
@@ -24236,7 +24236,7 @@
     },
     {
       "id": 2610,
-      "name": "PECULIUM",
+      "name": "PECULIUM (old)",
       "symbol": "PCL",
       "slug": "peculium",
       "tags": [],
@@ -51736,7 +51736,7 @@
     },
     {
       "id": 1185,
-      "name": "TrumpCoin",
+      "name": "Trumpcoin",
       "symbol": "TRUMP",
       "slug": "trumpcoin",
       "tags": [
@@ -70171,7 +70171,7 @@
     },
     {
       "id": 9258,
-      "name": "Chia Network",
+      "name": "Chia",
       "symbol": "XCH",
       "slug": "chia-network",
       "tags": [],
@@ -71090,7 +71090,7 @@
     },
     {
       "id": 10548,
-      "name": "EverRise [old]",
+      "name": "EverRise",
       "symbol": "RISE",
       "slug": "everrise",
       "tags": [],

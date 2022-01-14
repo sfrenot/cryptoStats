@@ -11913,7 +11913,7 @@
     },
     {
       "id": 2610,
-      "name": "PECULIUM",
+      "name": "PECULIUM (old)",
       "symbol": "PCL",
       "slug": "peculium",
       "tags": [],
@@ -21262,7 +21262,7 @@
     },
     {
       "id": 2654,
-      "name": "Budbo",
+      "name": "Budbo Token",
       "symbol": "BUBO",
       "slug": "budbo",
       "tags": [],
@@ -47023,7 +47023,7 @@
     },
     {
       "id": 1185,
-      "name": "TrumpCoin",
+      "name": "Trumpcoin",
       "symbol": "TRUMP",
       "slug": "trumpcoin",
       "tags": [

@@ -1258,7 +1258,7 @@
 {"name":"GazeCoin","short":"GZE","url":"/currencies/gazecoin","tags":["Token"]}
 {"name":"Gbrick","short":"GBX","url":"/currencies/gbrick","tags":["Coin"]}
 {"name":"Geeq","short":"GEEQ","url":"/currencies/geeq","tags":["Token"]}
-{"name":"Gem Exchange And Trading","short":"GXT","url":"/currencies/gem-exchange-and-trading","tags":["Token"]}
+{"name":"Gemma Extending Tech","short":"GXT","url":"/currencies/gem-exchange-and-trading","tags":["Token"]}
 {"name":"GemSwap","short":"GEM","url":"/currencies/gemswap","tags":["Token"]}
 {"name":"Gemini Dollar","short":"GUSD","url":"/currencies/gemini-dollar","tags":["Token","Store of Value","Stablecoin","Stablecoin - Asset-Backed"]}
 {"name":"Gems ","short":"GEM","url":"/currencies/gems-protocol","tags":["Token","Platform","Jobs","Sharing Economy"]}

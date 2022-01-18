@@ -47,7 +47,7 @@ request
       foundCoinOrToken = true
       crypto.tags.push($(@).text())
   unless foundCoinOrToken
-    error("Type de crypto non trouvé (Coin vs Token) #{crypto.url}")
+    error("Type de crypto non trouvé (Coin vs Token) #{crypto.url} #{body}")
 
   if 'Token' in crypto.tags
     addContract = (href) ->

@@ -98744,7 +98744,7 @@
     },
     {
       "id": 11016,
-      "name": "CoinMerge (ERC20)",
+      "name": "CoinMerge (ERC-20)",
       "symbol": "CMERGE",
       "slug": "coinmerge",
       "tags": [],

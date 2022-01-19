@@ -1,6 +1,7 @@
 _ = require 'lodash'
 Promise = require 'bluebird'
 cheerio = require 'cheerio'
+# request = (require 'request-promise').defaults({jar: true})
 request = require 'request-promise'
 cryptos = require '../cryptos.json'
 contracts = require '../contracts.json'
@@ -19,10 +20,17 @@ unless crypto?
 request
   url : 'https://coinmarketcap.com'+crypto.url
   method: 'GET'
+  gzip: true
   headers:
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36'
+    # 'referer': 'https://coinmarketcap.com' + crypto.url
+    # 'host': 'coinmarketcap.com'
+    # 'Connection': 'close'
+  # resolveWithFullResponse: true
 .then (body) ->
   console.warn "Testing #{crypto.url}"
+  # console.log rep
+  # process.exit 1
 
   $ = cheerio.load(body)
   $('div.tagModalTags___3dJxH > div.tagBadge___3p_Pk').each () ->
@@ -88,5 +96,5 @@ request
   # delete cryptos[crypto.name]
   # error("Crypto #{crypto.name} bugguée")
   crypto.tags = _.without crypto.tags, "New"
-  console.error("Crypto #{crypto.name} bugguée")
+  console.error("Crypto #{crypto.name} bugguée", err)
   console.log JSON.stringify cryptos, null, 2

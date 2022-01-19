@@ -9,14 +9,14 @@ while true; do
     break
   fi
 
-  # echo "Search crypto 2/2"
-  # coffee ./updateNew2WithCrawl.coffee > tokens.json
-  # ret=$?
-  # cp ./tokens.json ../cryptos.json
-  # if [[ $ret -gt 0 ]]; then
-  #   echo "Fin"
-  #   break
-  # fi
+  echo "Search crypto 2/2"
+  coffee ./updateNew2WithCrawl.coffee > tokens.json
+  ret=$?
+  cp ./tokens.json ../cryptos.json
+  if [[ $ret -gt 0 ]]; then
+    echo "Fin"
+    break
+  fi
 
   sleep 60
 

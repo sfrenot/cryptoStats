@@ -693,7 +693,7 @@
 {"name":"Connect Coin","short":"XCON","url":"/currencies/connect-coin","tags":["Token"]}
 {"name":"ConnectJob","short":"CJT","url":"/currencies/connectjob","tags":["Token"]}
 {"name":"Connectome","short":"CNTM","url":"/currencies/connectome","tags":["Token"]}
-{"name":"CellETF","short":"ECELL","url":"/currencies/consensus-cell-network","tags":["Token"]}
+{"name":"Consensus Cell Network","short":"ECELL","url":"/currencies/consensus-cell-network","tags":["Token"]}
 {"name":"Consentium","short":"CSM","url":"/currencies/consentium","tags":["Token"]}
 {"name":"Constant","short":"CONST","url":"/currencies/constant","tags":["Token","Store of Value","Stablecoin","Stablecoin - Asset-Backed"]}
 {"name":"Constellation","short":"DAG","url":"/currencies/constellation","tags":["Coin","DAG","Platform","Payments","Smart Contracts"]}

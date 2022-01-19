@@ -74602,7 +74602,7 @@
     },
     {
       "id": 7212,
-      "name": "CellETF",
+      "name": "Consensus Cell Network",
       "symbol": "ECELL",
       "slug": "consensus-cell-network",
       "tags": [],
@@ -106630,7 +106630,7 @@
     {
       "id": 9019,
       "name": "Polar",
-      "symbol": "POLAR",
+      "symbol": "POLARNODES",
       "slug": "polar",
       "tags": [],
       "max_supply": 500000,

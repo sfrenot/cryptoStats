@@ -24464,8 +24464,8 @@
     },
     {
       "id": 8567,
-      "name": "HAPI",
-      "symbol": "HAPI",
+      "name": "HAPI Protocol",
+      "symbol": "HAPI Protocol",
       "slug": "hapi-one",
       "tags": [
         "cybersecurity",
@@ -31611,7 +31611,7 @@
     },
     {
       "id": 8695,
-      "name": "Blank Wallet",
+      "name": "BlockWallet",
       "symbol": "BLANK",
       "slug": "blank-wallet",
       "tags": [
@@ -88738,7 +88738,7 @@
     },
     {
       "id": 10969,
-      "name": "Cardence.io",
+      "name": "Cardence",
       "symbol": "$CRDN",
       "slug": "cardence-io",
       "tags": [
@@ -98038,7 +98038,7 @@
     },
     {
       "id": 11240,
-      "name": "hi Dollar",
+      "name": "HI",
       "symbol": "HI",
       "slug": "hi-dollar",
       "tags": [],

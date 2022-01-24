@@ -22228,7 +22228,7 @@
     },
     {
       "id": 8695,
-      "name": "Blank Wallet",
+      "name": "BlockWallet",
       "symbol": "BLANK",
       "slug": "blank-wallet",
       "tags": [
@@ -26799,8 +26799,8 @@
     },
     {
       "id": 8567,
-      "name": "HAPI",
-      "symbol": "HAPI",
+      "name": "HAPI Protocol",
+      "symbol": "HAPI Protocol",
       "slug": "hapi-one",
       "tags": [
         "cybersecurity",
@@ -83421,9 +83421,9 @@
     },
     {
       "id": 5914,
-      "name": "intexcoin",
+      "name": "Intexcoin",
       "symbol": "INTX",
-      "slug": "intexcoin",
+      "slug": "Intexcoin",
       "tags": [
         "social-money"
       ],

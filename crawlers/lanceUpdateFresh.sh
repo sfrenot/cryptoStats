@@ -18,7 +18,7 @@ while true; do
     break
   fi
 
-  sleep 30
+  sleep 45
 
 done
 if [[ $ret -gt 1 ]]; then

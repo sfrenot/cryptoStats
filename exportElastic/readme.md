@@ -39,3 +39,4 @@ Pour cela lancer `./initCollection.sh`
 
  ## Récuperer et importer la data
  TODO
+split -l 150000 data_elastic.json

@@ -75599,9 +75599,9 @@
     },
     {
       "id": 9289,
-      "name": "Chainswap Swap",
+      "name": "Chainswap",
       "symbol": "TOKEN",
-      "slug": "chainswap-swap",
+      "slug": "chainswap",
       "tags": [],
       "max_supply": 100000000,
       "circulating_supply": 0,

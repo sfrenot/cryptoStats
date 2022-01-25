@@ -72216,38 +72216,6 @@
       }
     },
     {
-      "id": 9468,
-      "name": "Spore Finance",
-      "symbol": "SPORE",
-      "slug": "spore-finance",
-      "tags": [
-        "art",
-        "marketplace",
-        "collectibles-nfts",
-        "staking",
-        "binance-smart-chain",
-        "avalanche-ecosystem"
-      ],
-      "max_supply": 100000000000000000,
-      "circulating_supply": 0,
-      "total_supply": 16495545592621500,
-      "last_updated": "2021-05-10T04:01:04.000Z",
-      "quote": {
-        "USD": {
-          "price": 9.4069e-10,
-          "volume_24h": 3437920.31682539,
-          "percent_change_1h": -4.19362186,
-          "percent_change_24h": 13.12809941,
-          "percent_change_7d": 109.54137283,
-          "percent_change_30d": 0,
-          "percent_change_60d": 0,
-          "percent_change_90d": 0,
-          "market_cap": 0,
-          "last_updated": "2021-05-10T04:01:04.000Z"
-        }
-      }
-    },
-    {
       "id": 9067,
       "name": "Olympus v2",
       "symbol": "OHM",

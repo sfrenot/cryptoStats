@@ -76603,38 +76603,6 @@
       }
     },
     {
-      "id": 9468,
-      "name": "Spore Finance",
-      "symbol": "SPORE",
-      "slug": "spore-finance",
-      "tags": [
-        "art",
-        "marketplace",
-        "collectibles-nfts",
-        "staking",
-        "binance-smart-chain",
-        "avalanche-ecosystem"
-      ],
-      "max_supply": 100000000000000000,
-      "circulating_supply": 0,
-      "total_supply": 16495545592621500,
-      "last_updated": "2021-05-11T04:01:04.000Z",
-      "quote": {
-        "USD": {
-          "price": 8.0445e-10,
-          "volume_24h": 1084605.54097818,
-          "percent_change_1h": 4.6972038,
-          "percent_change_24h": -14.48283333,
-          "percent_change_7d": 65.27333589,
-          "percent_change_30d": 0,
-          "percent_change_60d": 0,
-          "percent_change_90d": 0,
-          "market_cap": 0,
-          "last_updated": "2021-05-11T04:01:04.000Z"
-        }
-      }
-    },
-    {
       "id": 7593,
       "name": "DefiDollar DAO",
       "symbol": "DFD",

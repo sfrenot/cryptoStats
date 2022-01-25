@@ -71364,38 +71364,6 @@
       }
     },
     {
-      "id": 9468,
-      "name": "Spore Finance",
-      "symbol": "SPORE",
-      "slug": "spore-finance",
-      "tags": [
-        "art",
-        "marketplace",
-        "collectibles-nfts",
-        "staking",
-        "binance-smart-chain",
-        "avalanche-ecosystem"
-      ],
-      "max_supply": 100000000000000000,
-      "circulating_supply": 0,
-      "total_supply": 16495545592621500,
-      "last_updated": "2021-05-09T04:01:04.000Z",
-      "quote": {
-        "USD": {
-          "price": 8.3153e-10,
-          "volume_24h": 4048380.67743359,
-          "percent_change_1h": -3.10562768,
-          "percent_change_24h": 53.0063159,
-          "percent_change_7d": 42.79818728,
-          "percent_change_30d": 0,
-          "percent_change_60d": 0,
-          "percent_change_90d": 0,
-          "market_cap": 0,
-          "last_updated": "2021-05-09T04:01:04.000Z"
-        }
-      }
-    },
-    {
       "id": 9120,
       "name": "Franklin",
       "symbol": "FLY",

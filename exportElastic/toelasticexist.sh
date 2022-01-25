@@ -16,8 +16,8 @@ for file in ../files/cryptos-*.json ; do
     echo "Date $*"
     coffee cryptosToElastic.coffee $* >> data_elastic.json
     echo "$*" >> done.lst
-    echo "sleep"
-    sleep 3
+    # echo "sleep"
+    # sleep 3
   fi
 done
 

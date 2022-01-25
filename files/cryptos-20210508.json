@@ -89615,34 +89615,6 @@
       }
     },
     {
-      "id": 9626,
-      "name": "Block Collider",
-      "symbol": "EMB",
-      "slug": "block-collider",
-      "tags": [
-        "decentralized-exchange",
-        "interoperability"
-      ],
-      "max_supply": 300000000,
-      "circulating_supply": 0,
-      "total_supply": 300000000,
-      "last_updated": "2021-05-08T04:01:06.000Z",
-      "quote": {
-        "USD": {
-          "price": 0.23815,
-          "volume_24h": 97002.6095,
-          "percent_change_1h": 0.91101695,
-          "percent_change_24h": 0,
-          "percent_change_7d": 0,
-          "percent_change_30d": 0,
-          "percent_change_60d": 0,
-          "percent_change_90d": 0,
-          "market_cap": 0,
-          "last_updated": "2021-05-08T04:01:06.000Z"
-        }
-      }
-    },
-    {
       "id": 2305,
       "name": "NAGA",
       "symbol": "NGC",

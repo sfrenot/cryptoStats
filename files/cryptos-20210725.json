@@ -82701,31 +82701,6 @@
       }
     },
     {
-      "id": 11052,
-      "name": "MiniDoge Cash",
-      "symbol": "MDCASH",
-      "slug": "minidoge-cash",
-      "tags": [],
-      "max_supply": 1000000000000,
-      "circulating_supply": 0,
-      "total_supply": 0,
-      "last_updated": "2021-07-25T04:00:09.000Z",
-      "quote": {
-        "USD": {
-          "price": 1.6438612e-7,
-          "volume_24h": 216389.32138289,
-          "percent_change_1h": -9.79703384,
-          "percent_change_24h": 0,
-          "percent_change_7d": 0,
-          "percent_change_30d": 0,
-          "percent_change_60d": 0,
-          "percent_change_90d": 0,
-          "market_cap": 0,
-          "last_updated": "2021-07-25T04:00:09.000Z"
-        }
-      }
-    },
-    {
       "id": 9958,
       "name": "SafeMoon Inu",
       "symbol": "SMI",

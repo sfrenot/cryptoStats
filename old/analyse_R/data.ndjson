@@ -325,7 +325,7 @@
 {"name":"BeeStore","short":"BHT","url":"/currencies/beestore","tags":["Token"]}
 {"name":"Beefy Finance","short":"BIFI","url":"/currencies/beefy-finance","tags":["Token"]}
 {"name":"Beer Money","short":"BEER","url":"/currencies/beer-money","tags":["Token","Commodities","Food & Beverage","Loyalty","Discount token","Payments","Wallet","NEM"]}
-{"name":"Beetle Coin","short":"BEET","url":"/currencies/beetle-coin","tags":["Coin","Mineable","PoW","Scrypt","Medium of Exchange"]}
+{"name":"Beetlecoin","short":"BEET","url":"/currencies/beetle-coin","tags":["Coin","Mineable","PoW","Scrypt","Medium of Exchange"]}
 {"name":"Behodler","short":"EYE","url":"/currencies/beholder","tags":["Token"]}
 {"name":"Bela","short":"BELA","url":"/currencies/belacoin","tags":["Token","PoW","Scrypt"]}
 {"name":"Beldex","short":"BDX","url":"/currencies/beldex","tags":["Coin","Marketplace","Centralized exchange","Discount token","Privacy"]}

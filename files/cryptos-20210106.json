@@ -73176,9 +73176,9 @@
     },
     {
       "id": 8030,
-      "name": "NFTLootBox",
+      "name": "LootBox.io",
       "symbol": "LOOT",
-      "slug": "nftlootbox",
+      "slug": "LootBox.io",
       "tags": [],
       "max_supply": 40000,
       "circulating_supply": 0,

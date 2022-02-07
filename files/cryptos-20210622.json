@@ -48524,9 +48524,9 @@
     },
     {
       "id": 8030,
-      "name": "NFTLootBox",
+      "name": "LootBox.io",
       "symbol": "LOOT",
-      "slug": "nftlootbox",
+      "slug": "LootBox.io",
       "tags": [
         "collectibles-nfts"
       ],
